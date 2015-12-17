@@ -225,14 +225,19 @@ button:active {outline:0!important;}
 
 textarea,
 input[type="text"],
+input[type="tel"],
 input[type="email"],
 input[type="button"],
 input[type="number"],
 input[type="password"],
 input[type="submit"] {
-  -webkit-appearance: none;
+  -webkit-appearance: none!important;
   box-shadow: none;
   border-radius: 0;
+  border-color: transparent!important;
+    height: 51px;
+    padding: 6px 12px;
+    font-size: 18px;  
 }
 
 

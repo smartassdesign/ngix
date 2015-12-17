@@ -211,7 +211,7 @@ add_filter( 'woocommerce_product_tabs', 'woo_remove_product_tabs', 98 );
 
 function woo_remove_product_tabs( $tabs ) {
 
-    unset( $tabs['description'] );        // Remove the description tab
+    //unset( $tabs['description'] );        // Remove the description tab
     unset( $tabs['reviews'] );      // Remove the reviews tab
     unset( $tabs['additional_information'] );   // Remove the additional information tab
 
@@ -277,6 +277,99 @@ function custom_woocommerce_auto_complete_order( $order_id ) {
     $order = new WC_Order( $order_id );
     $order->update_status( 'completed' );
 }
+
+
+
+function get_parent_terms($term) {
+  if ($term->parent > 0) {
+    $term = get_term_by("id", $term->parent, "product_cat");
+    if ($term->parent > 0) {
+      get_parent_terms($term);
+    } else return $term;
+  } else return $term;
+}
+
+function all_cat_classes($post) {
+  $catz = array();
+
+  $terms = get_the_terms($post->id, 'product_cat');
+
+  if(is_array($terms)){
+    // foreach product_cat get main top product_cat
+    foreach ($terms as $cat) {
+      $catz = get_parent_terms($cat);
+      //$cats .= (strpos($cats, $cat->slug) === false ? $cat->slug." " : "");
+    }
+  }
+  return $catz;
+}
+
+function conditional_product_in_cart( $product_id ) {
+    //Check to see if user has product in cart
+    global $woocommerce;
+
+    $check_in_cart = false;
+
+    foreach ( $woocommerce->cart->get_cart() as $cart_item_key => $values ) {
+        $_product = $values['data'];
+        $cats = all_cat_classes($_product);
+        foreach($cats as $values){
+          // product in cart
+          if($values === $product_id){
+            $check_in_cart = true;
+          }
+        }
+    }
+    return $check_in_cart;
+}
+
+add_action('woocommerce_after_order_notes', 'conditional_checkout_field');
+
+function conditional_checkout_field( $checkout ) {
+echo '<div id="conditional_checkout_field">';
+
+$check_in_cart = conditional_product_in_cart('FND'); //replace xxxx with the product id
+
+  // Check if the product is in the cart and show the custom fields if it is
+  if ($check_in_cart === true ) {
+
+    woocommerce_form_field( 'custom_field', array(
+    'type'          => 'text',
+    'class'         => array('my-field-class form-row-wide'),
+    'label'         => __('Friday Night Dinner Seating'),
+    'placeholder'   => __('Name and number of people in party'),
+    ), $checkout->get_value( 'custom_field' ));
+  }
+}
+/**
+ * Update the order meta with field value
+ */
+add_action( 'woocommerce_checkout_update_order_meta', 'my_custom_checkout_field_update_order_meta' );
+
+function my_custom_checkout_field_update_order_meta( $order_id ) {
+    if ( ! empty( $_POST['custom_field'] ) ) {
+        update_post_meta( $order_id, 'Name and Party Size', sanitize_text_field( $_POST['custom_field'] ) );
+    }
+}
+/**
+ * Add the field to order emails
+ **/
+add_filter('woocommerce_email_order_meta_keys', 'my_custom_checkout_field_order_meta_keys');
+
+function my_custom_checkout_field_order_meta_keys( $keys ) {
+    $keys[] = 'Name and Party Size';
+    return $keys;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
