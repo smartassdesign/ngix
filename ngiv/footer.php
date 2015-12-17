@@ -33,21 +33,19 @@
 
 <?php get_template_part('quick/modal-info');  ?>
 
+<?php include("quick/modal-ngihca.php"); ?>
 
 
 
-<script>
-jQuery(document).ready(function($){
-   $('.gform_footer .gform_button').addClass('btn btn-primary');
-});
+
+    <?php if (is_page( 4 )): ?>
+<script type="text/javascript">
+    $(window).load(function(){
+        $('#ngihcaModal').modal('show');
+    });
 </script>
 
-<script>
-jQuery(document).ready(function($){
-   $('a').smoothScroll({offset: -139});
-});
-</script>
-
+<?php endif; ?>
 
 
 
