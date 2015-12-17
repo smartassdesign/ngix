@@ -24,7 +24,7 @@ if ( !defined('ABSPATH') ) { die('-1'); } ?>
 	<div class="col-xs-6">
 		<?php tribe_events_the_previous_month_link(); ?>
 	</div> <!-- /.col-xs-6 -->
-	<div class="col-xs-6 text-right">
+	<div class="col-xs-6 text-xs-right">
 		<?php tribe_events_the_next_month_link(); ?>
 	</div> <!-- /.col-xs-6 /text-right -->
 </div> <!-- /.row -->

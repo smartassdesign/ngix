@@ -222,6 +222,65 @@ function woo_remove_product_tabs( $tabs ) {
 
 
 
+
+/* KEEP 500: WOO CHANGES */
+
+
+
+// DECLARATION...
+
+remove_action( 'woocommerce_before_main_content', 'woocommerce_output_content_wrapper', 10);
+remove_action( 'woocommerce_after_main_content', 'woocommerce_output_content_wrapper_end', 10);
+
+
+add_action('woocommerce_before_main_content', 'veg_theme_wrapper_start', 10);
+add_action('woocommerce_after_main_content', 'veg_theme_wrapper_end', 10);
+
+function veg_theme_wrapper_start() {
+  echo '<div class="container">';
+}
+
+function veg_theme_wrapper_end() {
+  echo '</div>';
+}
+
+add_theme_support( 'woocommerce' );
+
+
+
+/* KEEP 502: LOSE SOME CHECKOUT FIELDS */
+
+add_filter( 'woocommerce_checkout_fields' , 'custom_override_checkout_fields' );
+
+// Our hooked in function - $fields is passed via the filter!
+function custom_override_checkout_fields( $fields ) {
+     unset($fields['order']['order_comments']);
+
+     return $fields;
+}
+
+
+
+/* KEEP 503: LOSE ORDER AGAIN BUTTON */
+
+remove_action( 'woocommerce_order_details_after_order_table', 'woocommerce_order_again_button' );
+
+
+/* KEEP 504: AUTO COMPLETE ORDERS */
+
+add_action( 'woocommerce_thankyou', 'custom_woocommerce_auto_complete_order' );
+function custom_woocommerce_auto_complete_order( $order_id ) {
+    global $woocommerce;
+ 
+    if ( !$order_id )
+        return;
+    $order = new WC_Order( $order_id );
+    $order->update_status( 'completed' );
+}
+
+
+
+
 /* KEEP 1501: TRIBE - GLOBAL CHANGE of EVENTS to CLASSES on BACK END */
 
 add_filter( 'tribe_event_label_singular', 'event_display_name' );

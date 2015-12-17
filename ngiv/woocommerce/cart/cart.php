@@ -105,7 +105,7 @@ do_action( 'woocommerce_before_cart' ); ?>
 			<td colspan="6" class="actions">
 
 			<div class="row">
-				<div class="col-sm-6">
+				<div class="col-sm-6 text-xs-left">
 				<a class="btn-text" href="<?php echo home_url(); ?>/classes"><span class="icon-arrow-left"></span> Add More Classes</a>
 				<?php /*
 				<?php if ( WC()->cart->coupons_enabled() ) { ?>
