@@ -1,3 +1,38 @@
+//////// THE GIFT CERTIFICATES
+
+
+.product-gift-certificates {
+
+	header.primary-header {
+    	margin-bottom: 60px;
+	}
+
+	#event-list, ul.tabs.wc-tabs, #tab-description h2 {
+		display: none;
+	}
+
+	div#call_for_credit p {
+		width: 100%;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-weight: 500;
+		font-size: 11px;		
+		margin-top: 10px;
+	}
+
+	 #credit_called input::-webkit-outer-spin-button,
+  #credit_called input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0; }
+
+}
+
+
+
+
+
+////
+
  .quantity input::-webkit-outer-spin-button,
   .quantity input::-webkit-inner-spin-button {
     -webkit-appearance: none;
