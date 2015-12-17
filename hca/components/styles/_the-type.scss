@@ -1,0 +1,111 @@
+h1.large, .modal h1 {
+  font-size: 40px;
+  font-weight: 900;
+  font-family: $austin;
+  line-height: 1.1;
+  margin-top: 0;
+  @include break-min($break-xs) { font-size: 60px; }
+  @include break-min($break-md) { font-size: 72px; }
+}
+
+
+h1, #manifesto dt, #about #manifesto dt, .h1, h2, .h2 {
+   font-family: $austin;
+}
+
+
+
+// Interviews.
+
+p + p.q, blockquote + p.q {
+  color: $gray-darker;
+  font-weight: 500;
+  margin-bottom: 0;
+  margin-top: 2rem;
+}
+
+p.q {
+  color: $gray-darker;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+p.q + p {
+  margin-top: 0;
+}
+
+.well {
+  @include all-text {
+    font-size: 85%;
+    line-height: 1.615em;
+  }
+}
+
+
+blockquote {
+    padding: 14.5px 29px;
+    margin: 0 0 29px;
+    font-size: 22.5px;
+    border-left: 5px solid #eee;
+
+    p {
+        font-size: 22.5px;
+        padding: 10px 0;
+        margin:  0;
+    }
+}
+
+
+// GROUPINGS
+
+.copy { color: $gray; line-height: 30px; } 		// font-family: $harriet;
+
+.copy + .copy {margin-top: 15px; }
+
+.gr-lede {
+  font-size: $delta;
+  font-family: $graphik;
+  font-weight: 300;
+}
+
+.gr-super-lede {
+  font-size: $gamma;
+  font-family: $graphik;
+  font-weight: 300;
+}
+
+// SPECIALTY CASES
+
+q {
+  quotes: "“" "”" "‘" "’";
+}
+q:before {
+  content: open-quote;
+}
+q:after {
+  content: close-quote;
+}
+
+.blog-date {
+   font-size: 13px;
+   text-transform: uppercase;
+   letter-spacing: 2px;
+   margin-bottom: 1em;   
+}
+
+.lede {
+  font-size: $zeta;
+  line-height: 1.61712em;
+
+  @include break-min($break-xs){ font-size: $epsilon; }
+  @include break-min($break-md){ font-size: $delta; ; }
+}
+
+.super-lede {
+  font-size: $epsilon;
+  margin: 1.25rem 0;
+  line-height: 1.41617;
+  @include break-min($break-xs){ font-size: $delta; }
+  @include break-min($break-md){ font-size: $gamma; margin: 2.5rem 0; }
+
+}

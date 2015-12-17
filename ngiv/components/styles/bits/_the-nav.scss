@@ -1,0 +1,226 @@
+@include break-min($break-lg) {
+
+   .page.home header {
+      position: relative;
+      z-index: 99;
+      height: 98px;
+   }
+
+   // nav.navbar.navbar-dark.bg-inverse.navbar-static-top {
+   //    position: fixed;
+   //    width: 100%;
+   //    margin-top: 0;
+   // }
+
+   .the-subnav.bg-green.hidden-md-down {
+      position: fixed;
+      top: 97px;
+      width: 100%;
+   }
+
+
+}
+
+
+#sidemenu {
+    box-shadow: inset 10px 0 6px -9px rgba(0,0,0,0.5);
+    border: 0;
+    padding: 0;
+}
+
+
+
+#sidemenu ul#menu-secondary-menu li.pushy-p > a {
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 11px;  
+}
+
+li.pushy-p {
+  padding-top: 30px;
+  display: block;
+
+  &:hover {
+    background: $green;
+    color: $white;
+  }
+
+  // &:first-of-type {
+  //   padding-top: 0;
+  // }  
+}
+
+
+#sidemenu li > a {
+    font-size: 14px;
+    line-height: 25px;
+    padding: 8px 30px; 
+    display: block;
+}
+
+
+#sidemenu ul#menu-secondary-menu li>a:hover {
+      background: $gray-darker;
+      color: $green;
+}
+
+
+/* #nav-item-9616 {
+   &:before {
+      content: "e60e";
+      font-family: 'icomoon';
+      display: inline-block;
+      color: red;
+      font-style: normal;
+      font-weight: normal;
+      font-variant: normal;
+      text-transform: none;
+      line-height: 1;
+   }
+}
+
+ */
+
+
+#sidemenu {
+   background-color: $green;
+   border-color: transparent;
+   // padding: 20px;
+
+   .navbar-nav .nav-item+.nav-item {
+      margin-left: 0;
+   }
+
+   ul#menu-secondary-menu li {
+      display: block;
+      width: 100%;
+
+      > a {
+         color: $gray-darker;
+         font-size: 14px;
+      }
+   }
+
+   li#nav-item-9621, li#nav-item-9622, li#nav-item-9623, li#nav-item-13658, li#nav-item-13659, li#nav-item-13660 {
+      a {
+         color: #fff!important;
+          text-transform: uppercase;
+          letter-spacing: 2px;
+          font-size: 11px!important;
+          font-weight: 500;
+
+      }
+      margin-top: 30px;
+      &:first-of-type {
+         margin-top: 0;
+      }
+   }
+}
+
+.bg-unverse {
+  background: $white;
+}
+
+
+.navbar-light li > a {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: $gray-darker;
+    transition: all .2s;
+    line-height: 80px;
+    display: block;
+       &:hover {
+          opacity: .8;
+       }
+}
+
+.navbar-light li.current_page_item > a {
+   color: $green;
+      &:hover {
+         color: $green;
+         opacity: 1;
+      }
+}
+
+
+.navbar-light .navbar-brand {
+   text-indent: -9999px;
+   background: url(../../../../../assets/temp-ngi-k-52-2x.png);
+   height: 50px;
+   background-position: left center;
+   background-repeat: no-repeat;
+   background-size: contain;
+   margin-top: 7px;
+   @include break-min($break-md) {
+      background: url(../../../../../assets/ngi-k-header-4171.png);
+      height: 80px;
+      width: 419px;
+      background-repeat: no-repeat;
+      margin-top: 0;
+   }
+}
+
+button.navbar-toggler {
+   margin-top: 10px;
+   @include break-min($break-sm) {
+      margin-top: 18px;
+   }
+}
+
+ul#menu-mobile-menu {
+/*     background: red;
+float: left;
+width: 100%;
+display: block; */
+margin-top: 10px;
+    li {
+        display: block;
+        width: 100%;
+        margin: 0;
+        a {
+           line-height: 40px;
+        }
+     }
+}
+
+
+div#navbar-mobile {
+    float: left;
+    /* background: pink; */
+    width: 100%;
+    /* display: block; */
+}
+
+
+ul#menu-mobile li {
+    display: block;
+    width: 100%;
+    margin-left: 0;
+
+     & >a {
+      line-height: 50px;
+     }
+  }
+
+
+
+.subnav-left li {
+   margin-top: 17px;
+}
+
+.subnav-left li a {
+   text-transform: uppercase;
+   font-size: 14px;
+   letter-spacing: 1px;
+   color: #fff;
+   font-weight: 400;
+}
+
+.subnav-right .btn {
+   font-size: 13px;
+   @include upo(1px);
+   margin-top: 10px;
+}

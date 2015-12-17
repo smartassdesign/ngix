@@ -1,0 +1,309 @@
+.tribe-events-single {
+  margin-top: 60px;
+}
+
+
+/////CHECKOUT
+
+th.product-thumbnail {
+  display: none;
+}
+
+td.product-thumbnail {
+  display: none;
+}
+
+
+table.shop_table.cart th {
+  font-size: 11px;
+  @extend %upbo;
+}
+
+
+
+.woocommerce table.shop_table {
+  border: 0;
+
+}
+
+.woocommerce a.remove {
+  color: $black!important;
+}
+
+
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+  background-color: $green;
+  border-radius: 0;
+}
+
+
+
+/*------------------------------------*\
+    $NOT SO BASIC... IT'S CLASSES!!!!
+\*------------------------------------*/
+
+//$CLASSES (THE DETAIL PAGE)
+#class {
+
+  .tribe-events-single header {
+    margin-bottom: 20px;
+    a {
+      color: $gray-darker;
+    }
+  }
+
+  .page-wrap.raw {margin: $pad 0; @include break-min($break-md){ margin: $pad*2 0; } }
+
+  .class-description p:first-of-type {
+    @extend .lede;
+  }
+
+  .class-dishes ul {
+    @extend .two-col;
+    @extend .list-unstyled;
+    margin-bottom: 0;
+
+    li {
+      padding-bottom: 10px;
+    }
+  }
+
+  .class-sales p{
+    font-size: $delta;
+    &:last-of-type {
+      margin-top: 0;
+      margin-bottom: $pad;
+    }
+  }
+
+  .notable .quantity .buttons_added {
+    float: left;
+  }
+
+  .tickets_price {
+    display: block;
+    float: none;
+    // line-height: 41px;
+    // font-size: 29px;
+    margin-top: 10px;
+    text-align: right;    
+
+    
+    // display: inline-block;
+    // float: right;
+    // line-height: 41px;
+    font-size: $gamma;
+  }
+
+  .btn-primary {
+    margin-top: 20px;
+    line-height: 40px;
+  }
+
+  input[type="number"] {
+    border: 1px solid $gray-light;
+  }
+}
+
+
+.tribe-events-list .type-tribe_events.tribe-events-first {
+  @extend .sub-pod;
+}
+
+
+
+//$CLASSES (HEADERS)
+
+.events-gridview .ngi-hero, .events-list .ngi-hero { @extend %hero-height; @include background-cover("/assets/class-header.jpg", center, center); margin-bottom: 0; }
+
+//$CLASSES (THE LIST PAGE)
+
+.events-list .catalog-item {
+
+  @extend .sub-pod;
+  cursor: pointer;
+
+  .item-description {
+    font-weight: normal;
+    color: $gray;
+    font-size: $zeta;
+    line-height: 1.5em;
+    // @extend .hide-below-480; $1215
+  }
+
+  .item-details, .instructor {
+    font-size: 13px;
+    margin: 0;
+    // @include mini-hed($mini, 2px); $1215
+    @extend %upbo;
+    color: $gray;
+  }
+
+  .instructor, .item-category {
+    @extend %upli;
+    font-weight: 400;
+    // $TODO FIX MARGINS HERE
+    margin-top: 2rem;
+  }
+
+  .item-category {
+    // @extend .hide-below-480; $1215
+  }
+
+  .item-details {
+    @include break-min($break-xs){ text-align: right; }
+    margin-top: 7px;
+    line-height: 1.5em;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  .item-badge {
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  &:hover {
+    transition: all 0.2s ease-out;
+    opacity: .88;
+
+    .item-title {
+      color: $green;
+      transition: all 0.2s ease-in-out;
+    }
+  }
+}
+
+.tribe-events-list-separator-month {
+  display: block;
+  border-top: 15px solid $gray-darker;
+  margin-top: $pad*2;
+  color: $gray-darker;
+  font-family: "Austin Web";
+  font-weight: 700;
+  line-height: 1.3em;
+  font-size: 40px;
+  @include break-min($break-xs){ font-size: 60px; }
+  @include break-min($break-md){ font-size: 100px; }
+  @include break-min($break-lg){ font-size: 150px; }
+
+  &:first-of-type {
+    display: none;
+  }
+}
+
+.events-list .tribe-events-list .vevent.hentry.tribe-event-end-month, .tribe-events-last .catalog-item {
+  border-bottom: 0;
+}
+
+.tribe-events-ical {
+  display: none;
+}
+
+//$CLASSES (THE GRID PAGE)
+
+#tribe-events-content table .vevent a {
+  font-family: $graphik;
+  color: $gray-darker;
+  // color: #818181;
+  font-weight: 400;
+}
+
+#tribe-events-content table th {
+  font-weight: 600;
+}
+
+.tribe-events-calendar .vcalendar  {
+  color: $gray-darker!important;
+  font-weight: 400!important;
+}
+
+#tribe-events-content table.tribe-events-calendar,
+#tribe-events-content .tribe-events-calendar td {
+  border: $border!important; }
+
+.tribe-events-calendar div[id*="tribe-events-daynum-"],
+.tribe-events-calendar div[id*="tribe-events-daynum-"] a {
+  font-weight: 600!important;
+}
+
+#tribe-events-content table.tribe-events-calendar td.tribe-events-present {
+  background: $gray-lighter;
+}
+
+#tribe-events-content table.tribe-events-calendar td.tribe-events-past a {
+  color: #818181;
+}
+
+.events-gridview #tribe-events-header a {
+  margin: 0 15px;
+}
+
+//$THE TOOLTIP
+
+.tribe-events-calendar .tribe-events-tooltip {
+  background: #fff!important;
+  padding: 15px!important;
+  border: 0!important;
+  box-shadow: 6px 6px 7px 0px rgba(50, 50, 50, 0.20)!important;
+}
+
+.tribe-events-tooltip h4.entry-title.summary {
+  font-family: "Austin Web"!important;
+  font-size: 32px!important;
+  font-weight: 900!important;
+  color: $gray-darker!important;
+  margin-bottom: 5px!important;
+  text-transform: none!important;
+  line-height: 1em!important;
+}
+
+.tribe-events-tooltip .tribe-events-event-body p.entry-summary {
+  margin: 20px 0 0;
+  font-size: 13px!important;
+  color: #818181!important;
+  line-height: 1.6em!important;
+  font-weight: 400!important;
+}
+
+.tribe-events-tooltip .duration {
+  font-size: 13px!important;
+  color: #818181!important;
+  font-weight: 500!important;
+  font-style: normal!important;
+  margin: 0!important;
+}
+
+.tribe-events-tooltip .tribe-events-arrow {
+  background-image: none!important;
+}
+
+.tribe-events-arrow:before {
+  content: '\f0d7';
+  color: #fff!important;
+  font-family: "icofont";
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+  position: absolute;
+  font-size: 40px;
+  bottom: -22px;
+}
+
+// $LITTLE GRID BITS
+
+h3.tribe-events-month-event-title {
+  font-size: 11px;
+}
+
+
+
+#tribe-events-header .col-xs-6 a {
+  @extend .btn-text;
+}
+
+.tribe-events-month #tribe-events-footer {
+  display: none;
+}

@@ -1,0 +1,165 @@
+/*!
+ * Jasny Bootstrap v3.1.0 (http://jasny.github.com/bootstrap)
+ * Copyright 2011-2014 Arnold Daniels.
+ * Licensed under Apache-2.0 (https://github.com/jasny/bootstrap/blob/master/LICENSE)
+ */
+
+.container-smooth {
+  max-width: 1170px;
+}
+@media (min-width: 1px) {
+  .container-smooth {
+    width: auto;
+  }
+}
+
+.navmenu {
+   /* transition: all 350ms; */
+}
+
+.navmenu,
+.navbar-offcanvas {
+  width: 300px;
+  height: auto;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 4px;
+  /* transition: all 300ms; */
+}
+.navmenu-fixed-left,
+.navmenu-fixed-right,
+.navbar-offcanvas {
+  position: fixed;
+  z-index: 1040;
+  top: 0;
+  bottom: 0;
+  overflow-y: auto;
+  border-radius: 0;
+}
+.navmenu-fixed-left,
+.navbar-offcanvas.navmenu-fixed-left {
+  left: 0;
+  right: auto;
+  border-width: 0 1px 0 0;
+}
+.navmenu-fixed-right,
+.navbar-offcanvas {
+  left: auto;
+  right: 0;
+  border-width: 0 0 0 1px;
+}
+.navmenu-nav {
+  margin-bottom: 10px;
+}
+
+.navbar-offcanvas .navbar-nav {
+  margin: 0;
+}
+@media (min-width: 768px) {
+  .navbar-offcanvas {
+    width: auto;
+    border-top: 0;
+    box-shadow: none;
+  }
+  .navbar-offcanvas.offcanvas {
+    position: static;
+    display: block !important;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+  }
+  .navbar-offcanvas .navbar-nav.navbar-left:first-child {
+    margin-left: -15px;
+  }
+  .navbar-offcanvas .navbar-nav.navbar-right:last-child {
+    margin-right: -15px;
+  }
+  .navbar-offcanvas .navmenu-brand {
+    display: none;
+  }
+}
+
+@media (min-width: 992px) {
+  .alert-fixed-top,
+  .alert-fixed-bottom {
+    width: 992px;
+    left: 50%;
+    margin-left: -496px;
+  }
+}
+.alert-fixed-top {
+  top: 0;
+  border-width: 0 0 1px 0;
+}
+@media (min-width: 992px) {
+  .alert-fixed-top {
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-width: 0 1px 1px 1px;
+  }
+}
+.alert-fixed-bottom {
+  bottom: 0;
+  border-width: 1px 0 0 0;
+}
+@media (min-width: 992px) {
+  .alert-fixed-bottom {
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-width: 1px 1px 0 1px;
+  }
+}
+.offcanvas {
+  display: none;
+}
+.offcanvas.in {
+  display: block;
+}
+@media (max-width: 767px) {
+  .offcanvas-xs {
+    display: none;
+  }
+  .offcanvas-xs.in {
+    display: block;
+  }
+}
+@media (max-width: 991px) {
+  .offcanvas-sm {
+    display: none;
+  }
+  .offcanvas-sm.in {
+    display: block;
+  }
+}
+@media (max-width: 1199px) {
+  .offcanvas-md {
+    display: none;
+  }
+  .offcanvas-md.in {
+    display: block;
+  }
+}
+.offcanvas-lg {
+  display: none;
+}
+.offcanvas-lg.in {
+  display: block;
+}
+.canvas-sliding {
+  /* transition: top 0.35s, left 0.35s, bottom 0.35s, right 0.35s; */
+  transition: left 400ms linear;
+}
+.offcanvas-clone {
+  height: 0px !important;
+  width: 0px !important;
+  overflow: hidden !important;
+  border: none !important;
+  margin: 0px !important;
+  padding: 0px !important;
+  position: absolute !important;
+  top: auto !important;
+  left: auto !important;
+  bottom: 0px !important;
+  right: 0px !important;
+  opacity: 0 !important;
+}

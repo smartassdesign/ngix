@@ -1,0 +1,56 @@
+
+
+
+
+
+.form-control {
+	height: 47px;
+}
+
+
+// PLACEHOLDERS
+
+
+
+
+// TEXT SELECTION
+
+::selection {
+	background: $gray-darker;
+	color: $brand-primary;
+}
+
+*:focus {outline:0px none transparent!important;}
+
+
+// REMOVE FOCUS OUTLINE
+
+:focus {
+	outline: 0;
+	// outline: -webkit-focus-ring-color auto 5px;
+}
+
+
+
+// VERTICAL MODAL TEST #3
+
+.vertical-alignment-helper {
+    display:table;
+    height: 100%;
+    width: 100%;
+    pointer-events:none;
+}
+.vertical-align-center {
+    /* To center vertically */
+    display: table-cell;
+    vertical-align: middle;
+    pointer-events:none;
+}
+.modal-content {
+    /* Bootstrap sets the size of the modal in the modal-dialog class, we need to inherit it */
+    width:inherit;
+    height:inherit;
+    /* To center horizontally */
+    margin: 0 auto;
+    pointer-events:all;
+}

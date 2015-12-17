@@ -1,0 +1,87 @@
+/* -webkit-font-smoothing: antialiased; */
+
+$background: #3d566e;
+$color: $gray-darker;
+
+$height-icon: 20px;
+$width-line: 30px;
+$height-line: 4px;
+
+$transition-time: 0.4s;
+$rotation: 45deg;
+$translateY: ($height-icon / 2);
+$translateX: 0;
+
+#hamburger-icon, #minihamburger-icon {
+  width:$width-line;
+  height:$height-icon;
+  position:relative;
+  display: inline-block;
+  float: left;
+  cursor: pointer;
+
+
+
+  .line {
+    display:block;
+    background:$color;
+    width:$width-line;
+    height:$height-line;
+    position:absolute;
+    left:0;
+   border-radius: 0;
+    /* border-radius:($height-line / 2); */
+    transition: all $transition-time;
+
+    &.line-1 {
+      top:0;
+    }
+    &.line-2 {
+      top:50%;
+    }
+    &.line-3 {
+      top:100%;
+    }
+  }
+  &:hover, &:focus {
+
+     .line-1 {
+        transform: translateY($height-line / 2 * -1);
+     }
+    .line-3 {
+        transform: translateY($height-line / 2);
+    }
+  }
+  &.active {
+    .line-1 {
+      transform: translateY($translateY) translateX($translateX) rotate($rotation);
+    }
+    .line-2 {
+      opacity:0;
+    }
+    .line-3 {
+      transform: translateY($translateY * -1) translateX($translateX) rotate($rotation * -1);
+    }
+  }
+}
+
+#hamburger-icon {
+   margin: 27px auto $height-icon 20px;
+}
+
+#minihamburger-icon {
+   margin: 17px auto $height-icon 20px;   
+   @include break-min($break-md) {
+       margin: 27px auto $height-icon 20px;   
+   }
+}
+
+a {
+  text-decoration:none;
+/*   color:#95a5a6;
+margin: 0.5em 1.5em;
+display:inline-block;
+&:hover, &:focus {
+  color:$color;
+}
+ */}

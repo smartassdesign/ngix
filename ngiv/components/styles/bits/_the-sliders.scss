@@ -1,0 +1,132 @@
+@media screen and (min-width: 0px) and (max-width: 479px) {
+  .royalSlider.heroSlider,
+  .royalSlider.heroSlider .rsOverflow {
+    height: 300px !important;                                                         // $KEY
+  }
+}
+
+@media screen and (min-width: 480px) and (max-width: 800px) {
+  .royalSlider.heroSlider,
+  .royalSlider.heroSlider .rsOverflow {
+    height: 450px !important;                                                         // $KEY
+  }
+}
+
+// TRYING TO PREVENT FLASH OF SLIDES BEFORE LOAD
+
+.royalSlider > .rsContent {
+  visibility: hidden!important;
+}
+
+.royalSlider > .ngi-slide {
+  float: left!important;
+}
+
+
+.royalSlider {
+  overflow-y: hidden!important;
+}
+
+.rsNav {
+  display: none; 
+}
+
+#full-width-slider {
+  width: 100%;
+  color: $gray-darker;
+}
+
+
+.infoBlock {
+  position: absolute;
+  top: auto;
+  left: auto;
+  right: 0;
+  bottom: 0;
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow: hidden;
+  padding: 20px 20px 0px 20px;
+  @include break-min($break-xs){ padding: 40px; }
+}
+
+.infoBlock h2 {
+  font-family: $graphik;
+  @include upo(2px);
+  font-size: $zeta;
+  font-weight: 500;
+  @include break-min($break-sm){ font-size: $delta; }
+  margin-bottom: 20px;
+}
+
+.infoBlock h5 {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.hero-slide-text {
+  width: 100%;
+  @include break-min($break-sm){ text-align: right; width: 50%; float: right; }
+  @include break-min($break-md){ width: 33%; float: right; }
+}
+
+// $FIX for home slider with no scrim
+.infoBlock h2, .infoBlock h5 {
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+}
+
+.rsDefault .rsGCaption {
+  position: absolute;
+  float: none;
+  bottom: 6px;
+  left: 6px;
+  text-align: left;
+  background: #000000;
+  background: rgba(0, 0, 0, 0.75);
+  color: #FFF;
+  padding: 2px 8px;
+  width: auto;
+  font-size: 12px;
+  border-radius: 2px;
+}
+
+.coloredBlock {
+  padding: 12px;
+  background: rgba(255, 0, 0, 0.6);
+  color: #FFF;
+  width: 200px;
+  left: 20%;
+  top: 5%;
+}
+.photosBy {
+  line-height: 24px;
+  font-size: 12px;
+  background: #FFF;
+  color: #000;
+  padding: 0px 10px;
+  position: absolute;
+  left: 12px;
+  bottom: 12px;
+  top: auto;
+  border-radius: 2px;
+  z-index: 25;
+}
+.photosBy a {
+  color: #000;
+}
+.fullWidth {
+  margin: 0 auto;
+}
+@media screen and (min-width: 960px) and (min-height: 660px) {
+  .heroSlider .rsOverflow,
+  .royalSlider.heroSlider {
+    height: 520px !important;                                                         // $KEY
+  }
+}
+@media screen and (min-width: 960px) and (min-height: 1000px) {
+  .heroSlider .rsOverflow,
+  .royalSlider.heroSlider {
+    height: 660px !important;                                                         // $KEY
+  }
+}

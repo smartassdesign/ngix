@@ -1,0 +1,205 @@
+// TRY TO HIDE THE PW FIELD
+li#field_2_4 {
+   display: none;
+}
+
+
+
+
+.gform_wrapper ul {
+  @extend .list-unstyled;
+}
+.gform_wrapper li {
+  @extend .form-group;
+}
+.gform_wrapper form {
+  margin-bottom: 0;
+}
+.gform_wrapper .gfield_required {
+  padding-left: 1px;
+  color: $state-danger-text;
+}
+.ginput_container input,
+.ginput_container select,
+.ginput_container textarea {
+	@extend .form-control;
+}
+.ginput_container textarea {
+  height: auto;
+}
+/* .gform_button {
+   @extend .btn;
+   @extend .btn-primary;
+} */
+.gform_wrapper .gfield_error {
+  .gfield_label {
+    color: $state-danger-text;
+  }
+  input,
+  select,
+  textarea {
+    border-color: $brand-primary;
+    // background-color: $alert-danger-bg;
+    background-color: lighten($brand-primary, 55%);
+    color: $alert-danger-text;
+    @include form-control-focus;
+  }
+}
+.validation_error {
+	@extend .alert;
+	@extend .alert-danger;
+}
+#gforms_confirmation_message {
+	@extend .alert;
+	@extend .alert-success;
+}
+
+@media (min-width: 768px) {
+   .ginput_complex {
+      margin-left: -0.9375rem;
+      margin-right: -0.9375rem;
+   }
+}
+/* .ginput_complex {
+   @include break-max($break-sm) {
+      margin: 0;
+   }
+} */
+
+/* #input_2_3_3_container, #input_2_3_6_container, #input_2_4_1_container, #input_2_4_2_container {
+   @extend .col-md-6
+}
+ */
+
+// GLOBAL validation styles
+
+.gfield_description.validation_message {
+  font-family: $font-family-sans-serif;
+  font-weight: 500;
+  letter-spacing: .03em;
+  font-size: 13px;
+  color: $gray-dark;
+  text-transform: uppercase;
+  line-height: 25px;
+
+    &:before {
+    content: "\f0d8";
+    font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: uppercase;
+  line-height: 1;
+  padding-right: 7px;
+  padding-left: 7px;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+
+.gform_wrapper .gfield_error input::-webkit-input-placeholder, .gform_wrapper .gfield_error select::-webkit-input-placeholder, .gform_wrapper .gfield_error textarea::-webkit-input-placeholder {
+  color: darken($input-color-placeholder, 20%);
+}
+
+
+
+// OPEN HOUSE FORM
+
+#gform_wrapper_5 .gfield_label, #gform_wrapper_2 label {
+   display: none;
+}
+
+
+// MAILING LIST FORM {
+
+#gform_wrapper_8 {
+   label {
+      display: none;
+   }
+
+   #input_8_1_3_container, #input_8_1_6_container {
+      @extend .col-md-6;
+   }
+
+}
+
+
+// REQUEST INFO FORM
+
+#gform_wrapper_3 {
+   #field_3_1, #field_3_3, #field_3_7, #field_3_6 {
+      label {
+         display: none;
+      }
+   }
+
+   #input_3_1_3_container, #input_3_1_6_container {
+      @extend .col-md-6
+   }
+
+   li.choice_3_2_0, li.choice_3_2_1 {
+      float: left;
+      width: 50%;
+   }
+
+   li#field_3_2 {
+       float: left;
+       width: 100%;
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ADD SELECT ARROWS, if'n we can...
+
+#field_1_4 .ginput_container  {
+  position: relative
+}
+
+#field_1_4 .ginput_container:after {
+    content: "\f0dc";
+    font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  padding-right: 15px;
+  // color: rgba(255, 181, 47, .5);
+  color: #333;
+  // background-color: yellow;
+  position: absolute;
+  right: 0;
+  top: 15px;
+  font-size: 20px;
+  // width: 40px;
+  display: block;
+  z-index: 9999;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+#gform_wrapper_6 label {
+   display: none;
+}

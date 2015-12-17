@@ -1,0 +1,310 @@
+/* body {
+   background: red;
+}
+ */
+
+ header, footer {
+ 	flex: none; /* 2 */
+ 	z-index: 1;
+ }
+
+
+ body.flexbox {
+ 	display: flex;
+ 	flex-direction: column;
+ 	height: 100vh;
+   min-height: 100vh;
+ }
+
+
+ .site-content {
+   // flex: 1; /* 2 */
+   flex:1 0 auto;
+   // padding:1.5em 1.5em 0;
+   padding: 0;
+   // padding: var(--space) var(--space) 0;
+   width: 100%;
+   position: relative;
+   // overflow-y: auto;
+ }
+
+
+// header.primary-header {
+//    margin-bottom: 96px;
+// }
+
+
+
+
+// FOOTER
+
+footer {
+   // margin-top: 60px;
+   background: $gray-darker;
+}
+
+.btn-info {
+   &:hover {
+      background: $green;
+      color: $white;
+   }
+}
+
+.btn-info-outline {
+   &:hover, &:focus, &:active {
+      color: $brand-primary;
+   }
+}
+
+
+
+
+
+
+// WELLS (we'll need to retire these)
+
+.well {
+  background: $gray-lighter;
+  min-height: 20px;
+  padding: 20px;
+  margin-bottom: 20px;
+   @include all-text {
+    font-size: 85%;
+    line-height: 1.615em;
+  }
+}
+
+
+
+
+
+// Background Colors
+.bg-green {background: $green; @include on-green; }
+.bg-white {background: #fff; }
+.bg-dark {background: $gray-darker; @include on-dark; }
+
+/* .two-col { @include break-min($break-xs) { @include content-columns(2, 20px); } } */
+
+
+
+
+.btn-text {
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 51px;
+  color: $gray-darker;
+  margin-top: -10px;
+  @include upo(2px);
+  padding-bottom: 5px;
+  border-bottom: 3px solid transparent;
+  transition: all 200ms;
+  &:hover {
+    color: $gray-darker;
+    border-bottom: 3px solid;
+  }
+}
+
+.btn.btn-jumbo {
+   font-size: 18px;
+   line-height: 30px;
+  padding: 0 46px;
+  white-space: normal;
+  @include break-min($break-sm){
+     font-size: 27px;
+     line-height: 90px;
+  }
+}
+.btn-lg {
+  font-size: 16px;
+  line-height: 47px;
+  padding: 0 23px;
+}
+.btn-sm {
+  font-size: 11px;
+  line-height: 39px;
+  padding: 0 23px;
+}
+
+.btn-default {
+  background: #e2e2e2;
+  border-color: transparent;
+  &:hover {
+    background-color: darken(#e2e2e2, 6.5%);
+    border-color: transparent;
+  }
+}
+
+
+
+footer {
+
+  .badge-1977 {
+    padding: 0;
+    @include break-min($break-sm){ padding: 20px 0; }
+  }
+
+  background: $gray-darker;
+  color: #818181;
+  padding: $pad 0;
+
+  .footer-brand {
+    margin-bottom: 20px;
+    @include break-min($break-sm){ margin-bottom: 0; }
+  }
+
+  .footer-contact {
+    text-align: center;
+    margin: 20px 0;
+    @include break-min($break-sm){ text-align: left;  margin: 0; }
+  }
+
+  .footer-social {
+    text-align: center;
+    @include break-min($break-sm){ text-align: right;  }
+    p {
+      margin-top: 0;
+    }
+  }
+
+  p {
+    @include upo(1px);
+    font-size: $mini;
+    line-height: 2em;
+    @include break-min($break-sm){ line-height: inherit; }
+  }
+
+  p a {
+    color: #818181;
+
+  }
+
+  [class*='icon-'] {
+    padding-right: 15px;
+    font-size: 21px;
+  }
+
+  .icon-linkedin {
+    padding-right: 0;
+  }
+
+}
+
+.cutbox p {
+   margin-bottom: 0;
+}
+
+
+
+.modal-content {
+   border-radius: 0;
+}
+
+
+
+/// FOR ACTIVATION PAGE
+
+div#content {
+  margin-top: 60px;
+  text-align: center;
+}
+
+
+span.h3 {
+  font-family: $graphik;
+}
+
+
+
+
+
+
+
+
+button:focus {outline:0!important;}
+button:active {outline:0!important;}
+
+textarea,
+input[type="text"],
+input[type="email"],
+input[type="button"],
+input[type="number"],
+input[type="password"],
+input[type="submit"] {
+  -webkit-appearance: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+
+
+// $TODO toss, probably
+textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-    input:focus {
+  border-color: none!important;
+  box-shadow: none!important;
+  -webkit-box-shadow: none!important;
+  outline: -webkit-focus-ring-color auto 0!important;
+}
+
+textarea:focus, input:focus{
+  outline: none;
+  box-shadow: none!important;
+  -webkit-box-shadow: none!important;
+
+}
+
+input select, select {
+  -webkit-border-radius: none;
+  background: #fff;
+  outline: none;
+  box-shadow: none!important;
+}
+
+*:focus {
+  outline: none;
+}
+
+.form-control:focus {
+  -webkit-transition: all .3s ease-in-out;
+  border-color: $gray-darker;
+
+}
+
+
+
+
+  // Prevent homepage royalslider images from being too large on retina displays
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+
+  #container{
+
+    .sliderContainer{
+
+      #full-width-slider{
+        max-height: 330px;
+
+        .rsSlide{
+          max-height: 330px;
+        }
+
+      } // #full-width-slider
+
+    } // .sliderContainer
+
+  } // #container
+
+} // retina media query
+
+$border: 1px solid #ddd;
+$pad: 30px;
+
+
+
+%hero-height{ height: 200px; @include break-min($break-xs){ height: 500px; } }
+
+.page-wrap { 
+  margin: 30px 0; 
+  @include break-min($break-md) { 
+    margin: 60px 0; 
+  } 
+}
+

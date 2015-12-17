@@ -1,0 +1,276 @@
+//$FILTER BAR for CLASSES
+
+//$TODO PLEASE PLEASE PLEASE CLEAN THIS UP
+
+// Some responsive tweaks here
+
+div.tribe-bar-filters-inner {
+  padding: 0;
+  @include break-max($break-md){ padding: 0 0 $pad 0; }
+}
+
+// That's it for now on the responsive stuff
+
+#tribe-events-content ul.tribe-events-sub-nav {
+  padding-left: 0;
+}
+
+// $TODO Crazy hack on search filter to get spacing right. look at the placeholder!!!
+
+#tribe-events-bar {
+  width: 100%;
+  min-width: 220px;
+  height: auto;
+  position: relative;
+  clear: none;
+  background: $gray-darker;
+  padding: 0;
+  @include break-min($break-md){ padding: 15px 0; }
+}
+
+.tribe-bar-views-inner label {
+  float: left;
+  font-size: $micro;
+  color: #fff;
+  font-weight: 500;
+  @include upo (2px);
+  line-height: 41px;
+  margin-bottom: 0;
+}
+
+.tribe-bar-filters label {
+  display: none;
+}
+
+.tribe-bar-views-list {
+  list-style-type: none;
+  margin-bottom: 0;
+  @extend .list-inline;
+  li a {
+    color: $gray-darker;
+  }
+}
+
+// $TODO Clean tribe placeholder and input
+
+[class*='tribe-bar-'] input[type="text"] {
+  padding: 10px 12px;
+  background: rgba(255,255,255,0.1);
+  border: 0;
+  border-bottom: 1px solid transparent;    // $gray
+  -webkit-appearance: none;
+  font-size: 15px;
+  color: #fff;
+  transition: all .3s ease-in-out;
+}
+
+input[name*="tribe-bar-"]::-webkit-input-placeholder {
+  font-family: $graphik;
+  @include upo(2px);
+  color: #fff;
+  font-size: 11px;
+  padding-left: 22px;
+  line-height: 23px;
+
+}
+
+input[name*="tribe-bar-"]::-webkit-input-placeholder {
+  font-family: $graphik;
+  @include upo(2px);
+  color: #fff;
+  font-size: 11px;
+  font-weight: normal;
+  line-height: 23px;
+}
+
+input[name*="tribe-bar-"]:-moz-placeholder {
+  font-family: $graphik;
+  @include upo(2px);
+  color: #fff;
+  font-size: 11px;
+  font-weight: normal;
+  line-height: 23px;
+}
+
+#tribe-bar-form input[type=text]:focus {
+  outline: none;
+  color: $green;
+  border-bottom: 1px solid transparent;
+  background: rgba(255,255,255,0.171);
+}
+
+/* END TRIBE-BAR INPUT AREA */
+
+.tribe-bar-views-select {
+  display: none;
+}
+
+.tribe-bar-date-filter {
+  @extend .col-md-3;
+  input {
+    width: 100%;
+  }
+}
+
+.tribe-bar-search-filter {
+  @extend .col-md-4;
+  input {
+    width: 100%;
+
+    @include break-max($break-md){ margin: 10px 0; }
+  }
+
+}
+
+.tribe-bar-submit {
+  @extend .col-md-3;
+  input[type="submit"] {
+    @extend .btn-block;
+    @extend .btn-default;
+    line-height: 41px!important;
+    margin: 0;
+    // height: 41px;
+    border: 1px solid transparent;
+    font-size: 13px;
+  }
+}
+
+.tribe-bar-collapse #tribe-bar-views {
+  // $TODO
+  display: none;
+}
+
+.tribe-icon-list, .tribe-icon-month {
+  font-size: 0;
+  position: absolute;
+
+}
+
+// $TODO CLEAN + MINIFY THESE
+.tribe-icon-month:before {
+  position: absolute;
+  color: #818181;
+  font-size: 29px;
+  bottom: -43px;
+  left: 40px;
+  content: '\e604';
+  font-family: "icofont";
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  width: 40px;
+}
+
+.tribe-icon-list:before {
+  position: absolute;
+  bottom: -43px;
+  left: 15px;
+  color: #818181;
+  font-size: 29px;
+  content: '\e605';
+  font-family: "icofont";
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  width: 40px;
+}
+
+.events-gridview .tribe-icon-list:before {
+  left: 0;
+}
+
+.tribe-bar-active .tribe-icon-list:before, .tribe-bar-active .tribe-icon-month:before  {
+  color: $green;
+}
+
+// $CHANGE moved the placeholders inline
+
+input[name*="tribe-bar-date"]::-webkit-input-placeholder:before {
+  color: #818181;
+  position: absolute;
+  left: 12px;
+  top: 8px;
+  font-size: 16px;
+  content: '\e600';
+  font-family: "icofont";
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  line-height: inherit;
+}
+
+input[name*="tribe-bar-search"]::-webkit-input-placeholder:before {
+  color: #818181;
+  position: absolute;
+  left: 25px;
+  top: 7px;
+  font-size: 17px;
+  content: '\f002';
+  font-family: "icofont";
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: none;
+  line-height: inherit;
+  @include break-max($break-md){ top: 17px; left: 25px; }
+}
+
+/* Tribe Bar Collapse Styles */
+#tribe-bar-collapse-toggle {
+  display: none;
+  padding: 15px;
+  position: relative;
+  font-size: 13px;
+  line-height: 28px;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 500;
+  background: transparent;
+  width: 100% !important; }
+
+#tribe-bar-collapse-toggle:hover {
+  cursor: pointer; }
+
+#tribe-bar-collapse-toggle span.tribe-bar-toggle-arrow {
+  display: inline-block;
+  margin: 0 4px;
+  position: absolute;
+  right: 10px; }
+
+#tribe-bar-collapse-toggle span.tribe-bar-toggle-arrow:after {
+  top: 10px;
+  right: 0;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-color: rgba(136, 183, 213, 0);
+  border-top-color: inherit;
+  border-width: 8px; }
+
+#tribe-bar-collapse-toggle.tribe-bar-filters-open span.tribe-bar-toggle-arrow:after {
+  top: 0px;
+  border-top-color: transparent;
+  border-bottom-color: inherit; }
+
+#tribe-bar-form.tribe-bar-collapse #tribe-bar-views + .tribe-bar-filters {
+  display: none;
+  margin-top: 5px;
+  overflow: hidden;
+  clear: both;
+  left: auto;
+  right: auto;
+  width: 100%; }
+
+.tribe-bar-collapse .tribe-bar-filters-inner > div, .tribe-bar-collapse #tribe-bar-views {
+  width: 100%;
+  height: auto;
+  margin: 0; }
+
+.tribe-bar-collapse #tribe-bar-collapse-toggle {
+  display: block;
+  width: 70%; }
+
+.tribe-bar-collapse #tribe-bar-collapse-toggle.tribe-bar-collapse-toggle-full-width {
+  width: 100%; }

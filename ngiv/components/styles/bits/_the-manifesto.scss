@@ -1,0 +1,102 @@
+//$MANIFESTO
+
+#manifesto {
+  background: transparent;
+  position: relative;
+
+  &:after {
+
+    @include break-min($break-sm){
+      content: '';
+      background: url(/assets/temp-beet.jpg) no-repeat right 50%;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      position: absolute;
+      z-index: -1;
+      background-size: contain;
+    }
+  }
+
+  dt {
+    @extend h1;
+    position: relative;
+    padding: 20px 0 0 0;				// $TODO H1 PADDING
+    margin: 0;
+    font-size: 30px;
+    @include break-min($break-xs){ font-size: 36px; }
+    @include break-min($break-md){ font-size: 60px; }
+
+    &:after {
+      display: block;
+      content: '';
+      position: absolute;
+      left: 50%;
+      width: 130px;
+      margin-left: -65px;
+      top: 0;
+      height: 1px;
+      background: $green;
+    }
+  }
+
+  dd {
+    padding: 0 0 $pad 0;			// $TODO H1 PADDING
+  }
+
+}
+
+.page-about #manifesto {
+
+  background: transparent;
+  position: relative;
+
+  &:after {
+
+    @include break-min($break-sm){
+      content: '';
+      background: url(/assets/fpo-combo-carrot.jpg) no-repeat left 50%;
+      opacity: 0.86;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      position: absolute;
+      z-index: -1;
+      background-size: contain;
+    }
+
+    @include break-min($break-md){
+      background: url(/assets/fpo-combo-carrot.jpg) no-repeat 25% 50%;
+      opacity: 1;
+    }
+  }
+
+  dt {
+    @extend h1;
+    position: relative;
+    padding: 20px 0 0 0;				// $TODO H1 PADDING
+    margin: 0;
+    font-size: 30px;
+    @include break-min($break-xs){ font-size: 36px; }
+    @include break-min($break-md){ font-size: 60px; }
+
+    &:after {
+      display: block;
+      content: '';
+      position: absolute;
+      left: 50%;
+      width: 130px;
+      margin-left: -65px;
+      top: 0;
+      height: 1px;
+      background: $green;
+    }
+  }
+
+  dd {
+    padding: 0 0 $pad 0;			// $TODO H1 PADDING
+  }
+
+}

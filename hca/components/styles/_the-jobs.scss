@@ -1,0 +1,126 @@
+.single_job_listing .application .application_button {
+   line-height: 40px;
+}
+
+
+/* .job_types, .job_listings {
+   @extend .list-unstyled;
+}
+
+.job_types {
+   @extend .list-inline;
+}
+
+ */
+
+.page-job-board .job_listing a h3 {
+   color: $gray-darker;
+
+}
+
+
+#job .job_description {
+  margin-bottom: $pad;
+}
+
+// Fix the jump w/ the apply button.
+
+.single_job_listing .application .application_details {
+  border: 0;
+  margin-top: 51px;
+  padding: 1em;
+}
+
+.single_job_listing .application .application_details p:last-child {
+  margin-bottom: 0;
+}
+
+// Hide the optionalness of the location field
+
+fieldset.fieldset-job_location label small {
+  display: none;
+}
+
+// THIS IS JUST TO get rid of the location description field, hopefully we do that manually later.
+
+#post-job .fieldset-job_location .description {
+  display: none;
+}
+
+// $TODO V2 to get rid of extra spacing on job pages
+.single-job_listing .blog-header.trailer {
+  display: none;
+}
+
+.search_keywords {
+  @include break-max($break-sm) { margin-bottom: 20px; }
+}
+
+// PREVIEW PAGE STYLES
+
+#job_preview .job_listing_preview_title {
+  padding: .75em 1em;
+}
+
+#job_preview .job_listing_preview_title h2 {
+  line-height: 51px;
+  @extend h4;
+  margin-bottom: 0;
+  @include break-max($break-xs) { width: 100%; margin-left: 0; margin-bottom: 10px; }
+}
+
+.job_listing_preview.single_job_listing h1 {
+  margin-top: 1rem;
+}
+
+.job_listing_preview_title .button, .entry-content .job_listing_preview_title .button {
+  @extend .btn-extend;
+  @extend .btn-primary;
+  border: transparent;
+  margin-left: 15px;
+
+  @include break-max($break-xs) { width: 100%; margin-left: 0; margin-bottom: 10px; }
+}
+
+#job_preview .single-back-link {
+  display: none;
+}
+
+// END PREVIEW PAGE
+
+.job-manager-form fieldset div.field {
+  width: auto!important;
+  float: none!important;
+}
+
+.job-manager-form fieldset label {
+  float: none!important;
+  width: auto!important;
+  @include upo(1px);
+  font-weight: 500;
+  font-size: $micro;
+}
+
+// $TODO REMOVE, not hide logo
+
+.fieldset-company_logo, .fieldset-company_tagline {
+  display: none;
+}
+
+#submit-job-form input[type="submit"] {
+  @include break-min($break-xs) { float: right; }
+  @extend .btn-extend;
+  @extend .btn-primary;
+}
+
+.job-manager-form fieldset input.input-text, .job-manager-form fieldset select, .job-manager-form fieldset textarea {
+  @extend .form-control;
+}
+
+.job-manager-error.job-manager-error:before, .job-manager-info.job-manager-error:before, .job-manager-message.job-manager-error:before {
+  display: none;
+}
+
+.job-manager-error, .job-manager-info, .job-manager-message {
+  @extend .alert;
+}

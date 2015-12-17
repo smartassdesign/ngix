@@ -1,0 +1,230 @@
+.feralf_form input[type="submit"] {
+	@extend .btn-primary;
+	// @extend .btn;
+	width: 100%;
+	border: 0;
+	line-height: 47px;
+	@include upo(2px);
+	font-weight: 500;
+}
+
+
+input#feralf_user_login {
+	margin-bottom: 20px;
+}
+
+
+input#feralf_user_login, input#feralf_user_pass {
+    @extend .form-control;
+    box-sizing: border-box;
+}
+
+#feralf_login_form {
+    margin-top: 30px;
+    padding: 20px;
+    background: #eee;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.lost-password a {
+	font-size: 14px;
+	color: $gray;
+	&:hover {
+		color: $brand-primary;
+	}
+}
+
+.page-venture-incubation .rcp_logged_in {
+	display: none;
+}
+
+
+.page-venture-incubation .top-section p a {
+	// font-size: 14px;
+	color: $gray;
+	display: block;
+	&:hover {
+		color: $brand-primary;
+	}
+}
+
+// FROM THEM
+
+.feralf_form legend {
+	display: none;
+}
+
+
+.feralf_form fieldset {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+.feralf_form label {
+	display: none;
+	float: left;
+    float: left;
+    font-size: 14px;
+    color: #262626;
+    padding-right: 7px;
+	// width: 280px;
+}
+
+.feralf_remember_me {
+	display: block!important;
+}
+
+
+.feralf_form input[type="text"], .feralf_form input[type="password"],
+.feralf_form input[type="email"] {
+	// padding: 4px 8px; margin: 0;
+	// @extend .form-control;
+}
+
+
+.feralf_form input[type="checkbox"] {
+	float: left; margin: 5px 8px 0 0;
+}
+
+.feralf_form input[type="text"]:focus,
+.feralf_form input[type="password"]:focus,
+.feralf_form input[type="email"]:focus {
+	border-color: #aaa;
+}
+
+
+.feralf_form input.required {
+	color: #000;
+}
+
+
+.feralf_form input.error,
+.feralf_form input[type="text"]:focus.error,
+.feralf_form input[type="password"]:focus.error,
+.feralf_form input[type="email"]:focus.error {
+	border-color: #ffa5a5;
+	box-shadow: 0 0 3px #ffbfbf;
+}
+
+.feralf_form p {
+	margin: 0 0 10px;
+	min-height: 20px;
+	&:last-child {
+		margin-bottom: 0;
+	}
+}
+
+
+// .rcp-submission {
+// 	width: 100%;
+// float: right;
+// text-align: right;
+// margin-bottom: 0!important;
+// }
+
+
+
+.feralf_form p br {
+	display: none; /* fix for stupid theme's that mess with wpautop */
+}
+
+.feralf_form ul {
+	margin: 0 0 15px;
+	padding: 0;
+}
+
+.feralf_form li {
+	list-style: none;
+	margin: 0 0 15px;
+}
+
+
+.rcp_message {
+	margin: 0 0 15px;
+}
+
+.rcp_message.error {  }
+
+.rcp_level_description {
+	border-left: 1px solid #f0f0f0;
+	margin-left: 10px;
+	padding-left: 8px;
+	font-size: 12px;
+}
+
+.rcp_discount_valid {
+	color: #42961e;
+}
+
+.rcp_discount_invalid {
+	color: #b01000;
+}
+
+p.rcp_error {
+	border-radius: 3px;
+	border: 1px solid #c00;
+	margin: 0 0 10px;
+	padding: 4px;
+	background: #ffebe8;
+	color: #333;
+}
+
+
+p.rcp_success span, p.rcp_error span {
+	margin: 0 !important;
+	padding:10px;
+}
+
+p.rcp_success {
+	border-radius: 3px;
+	border: 1px solid #E6DB55;
+	margin: 0 0 10px;
+	padding: 4px;
+	background: #FFFFE0;
+	color: #333;
+}
+
+
+table.rcp-table {
+	text-align: left;
+	width: 100%;
+	border: none;
+	margin: 0 0 21px;
+}
+
+
+table.rcp-table th, table.rcp-table td {
+	text-align: left;
+	border: 1px solid #eee;
+	color: #666;
+	padding: 0.3em 1em;
+}
+
+table.rcp-table th {
+	background: #fafafa;
+	font-weight: bold;
+}

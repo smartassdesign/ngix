@@ -1,0 +1,240 @@
+// NEW FROM ME...
+$white: #fff;
+$black: #000;
+
+
+$break-xxs: 300px; 		// 480px
+$break-xs: 480px; 		// 480px
+$break-sm: 544px; 		// 768px
+$break-md: 768px; 		// 992px
+$break-lg: 992px; 		// 1200px
+$break-xl: 1280px; 			// desktop
+$break-xxl: 1440px; 		// desktop
+
+// Type sizing.
+
+$ultra: 150px;
+$tera: 85px;
+
+$giga: 72px;
+$mega: 60px;
+$alpha: 50px;
+$beta: 32px;
+$gamma: 29px;
+$delta: 24px;
+
+$epsilon: 21px;
+$zeta: 18px;
+
+$xero: 16px;
+$mini: 13px;
+$micro: 11px;
+
+.ultra {font-size: $ultra; }
+.tera {font-size: $tera; }
+.giga {font-size: $giga; }
+.mega {font-size: $mega; }
+.alpha {font-size: $alpha; }
+.beta {font-size: $beta; }
+.gamma {font-size: $gamma; }
+.delta {font-size: $delta; }
+.epsilon {font-size: $epsilon; }
+.zeta {font-size: $zeta; }
+.xero {font-size: $xero; }
+.mini {font-size: $mini; }
+.micro {font-size: $micro; }
+
+
+
+
+// Global styles
+$border: 1px solid #ddd;
+$pad: 30px;
+
+//$TODO For getting semibold to act as bold
+
+$bold: 600;
+
+strong, b {
+  font-weight: 600;
+}
+
+%bold {
+  font-family: $graphik;
+  font-weight: 600;
+}
+
+// Type spacing (and some sizing)
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 1rem;
+}
+
+p+h1,p+h2,p+h3,p+h4,p+h5,p+h6 {
+  margin-top: 1rem;
+}
+
+p+p:not(.form-row), p+ul, p+form, p+section, p+.two-col, p+blockquote, blockquote+p {
+  margin-top: 1rem;
+}
+
+h1, .h1 { font-weight: 900; font-size: 72px; line-height: 1.1em; }
+h2, .h2 { font-weight: 700; font-size: 54px; line-height: 1.1em; }
+h3, .h3 { font-weight: 500; }
+h4, .h4 { font-weight: 600; font-size: 16px; @include upo(2px); }
+h5, .h5 { font-weight: 600; font-size: 14px; @include upo (4px) }
+h6, .h6 { font-weight: 500; }
+
+@include headings {
+  &:first-of-type {
+    @extend .no-leader;
+  }
+}
+
+h1.large, .modal h1 {
+  font-size: 40px;
+  margin-top: 0;
+  @include break-min($break-xs){ font-size: 60px; }
+  @include break-min($break-md){ font-size: 72px; }
+}
+
+// $FIX THIS RESPONSIVE SIZING
+h1.tera {
+  font-size: $gamma;
+  margin-top: 0;
+  @include break-min($break-xs){ font-size: $alpha; }
+  @include break-min($break-lg){ font-size: $tera; }
+}
+
+
+.tribe-events-month h2.tribe-events-page-title {
+  @extend h1.large;
+  margin: 20px 0 0 0;
+  // font-size: 18px;
+}
+
+// $FIX whatever's going on here
+.tribe-events-list .vevent.hentry h2 { line-height: 1em!important }
+
+h2, h2.item-title {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.1em;
+  @include break-min($break-xs){ font-size: 36px; font-weight: 700; }
+  @include break-min($break-md){ font-size: 40px; font-weight: 900; }
+  @include break-min($break-lg){ font-size: 54px; font-weight: 900; }
+}
+
+// $TODO AVOID THIS SPECIFICITY
+#recent-news h2 {
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 0;
+  @include break-min($break-xs){ font-size: 32px; }
+  @include break-min($break-md){ font-size: 36px; }
+}
+
+.lede {
+  font-size: $zeta;
+  line-height: 1.61712em;
+
+  @include break-min($break-xs){ font-size: $epsilon; }
+  @include break-min($break-md){ font-size: $delta; ; }
+}
+
+.super-lede {
+  font-size: $epsilon;
+  margin: 1.25rem 0;
+  line-height: 1.41617;
+  @include break-min($break-xs){ font-size: $delta; }
+  @include break-min($break-md){ font-size: $gamma; margin: 2.5rem 0; }
+
+}
+
+
+.pod { padding: $pad*1.25 0; @include break-min($break-xs){ padding: $pad*2.5 0; } }
+.pod-mega { padding: $pad*3 0; }
+.pod-mini { padding: $pad 0; }
+.pod-micro { padding: 20px 0; }
+
+.sub-pod { @extend .pod; border-bottom: $border; &:last-of-type { border-bottom: 0; } }
+.sub-pod-mega { @extend .pod-mega; border-bottom: $border; &:last-of-type { border-bottom: 0; } }
+.sub-pod-mini { @extend .pod-mini; border-bottom: $border; &:last-of-type { border-bottom: 0; } }
+.sub-pod-micro { @extend .pod-micro; border-bottom: $border; &:last-of-type { border-bottom: 0; } }
+
+.boxed {padding: 20px; }
+
+.unpadded { padding: 0; }
+.unmargined { margin: 0; }
+.raw, .page-wrap.raw { margin: 0; padding: 0; }
+
+.leader { margin-top: 30px; }
+.trailer { margin-bottom: 30px; }
+.no-leader        { margin-top: 0; }
+.no-trailer       { margin-bottom: 0; }
+
+
+
+%hero-height{ height: 200px; @include break-min($break-xs){ height: 500px; } }
+
+
+
+
+%default-button-styles {
+  font-size: 13px;
+  @include upo(2px);
+  font-family: $graphik;
+  font-weight: 600;
+  font-style: normal;
+  /* line-height: 49px; */
+  text-shadow: none;
+  transition: all 0.2s linear;
+  text-decoration: none;
+  outline: 0;
+  margin: 0;
+  transition: all 200ms;
+  /* padding: 0 23px; */
+  -webkit-font-smoothing: antialiased;
+  &:focus {
+    outline: 0;
+  }
+}
+
+
+.btn {
+   @extend %default-button-styles;
+}
+
+.btn-extend {
+  @extend %default-button-styles;
+  border: 0;
+  padding: 10px 15px;
+}
+
+
+
+%upbo {
+  @extend %bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+%upli {
+  font-family: $graphik;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+
+
+
+
+// Mobile spacing
+
+%sub-768-trailer { @include break-max($break-sm){ margin-bottom: $pad; } }
+
+%sub-480-trailer { @include break-max($break-xs){ margin-bottom: 20px; } }
+
+%sub-768-leader { @include break-max($break-sm){ margin-top: $pad; } }
+
+%sub-480-leader { @include break-max($break-xs){ margin-top: 20px; } }

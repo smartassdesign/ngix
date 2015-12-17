@@ -1,0 +1,64 @@
+// Application Style Controller
+// Description: Set Imports and Variables (Image) Here
+
+// Paths Relative to /app/_/css
+// ------------------------------------------------------------------------
+
+$img-url: "/assets/";
+
+// Example of how to use -- background: url("#{$img-url}/background-image.png") repeat top left;
+
+// Include Libaries
+@import "libraries";
+
+// Color Palette & Mixins for the Application
+// ------------------------------------------------------------------------
+// @import "globals/colors";
+// @import "globals/custom-mixins";
+// @import "globals/fonts";
+
+// Globals
+// ------------------------------------------------------------------------
+// @import "globals/defaults";
+
+// Start Application Styles & Settings
+// ------------------------------------------------------------------------
+// @import "partials/viewport";
+
+// Add additional /partials Below
+// ------------------------------------------------------------------------
+// @import "partials/...";
+
+// Mobile Specific Styles & Settings
+// @import "globals/mobile";
+
+
+@import "the-mixins";
+@import "the-extendables";
+@import "the-globals";
+@import "the-faculty";
+@import "the-details";
+@import "the-ctp";
+@import "the-type";
+@import "the-nav";
+@import "the-pages";
+@import "the-gforms";
+@import "the-app";
+@import "../lib/job-manager";
+@import "the-jobs";
+@import "the-rcp";
+@import "the-burger";
+/* @import "the-home"; */
+/*@import "the-navs";
+@import "the-pages";
+@import "the-inputs";
+@import "the-modals";
+@import "the-animations";
+@import "the-shame"; */
+// @import "globals/the-basics";
+// @import "globals/the-modules";
+// @import "globals/global-styles";
+// @import "globals/new-basics";
+// @import "globals/the-cards";
+// @import "globals/the-modals";
+// @import "globals/basic-pages";

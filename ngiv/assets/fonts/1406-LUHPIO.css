@@ -1,0 +1,90 @@
+/*
+        This font software is the property of Commercial Type.
+
+        You may not modify the font software, use it on another website, or install it on a computer.
+
+        License information is available at http://commercialtype.com/eula
+        For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+        Copyright (C) 2013 Schwartzco Inc.
+        License: 1406-LUHPIO     
+*/
+
+@font-face {
+  font-family: 'Austin Web';
+  src: url('Austin-Extrabold-Web.eot');
+  src: url('Austin-Extrabold-Web.eot?#iefix') format('embedded-opentype'),
+     url('Austin-Extrabold-Web.woff') format('woff'),
+     url('Austin-Extrabold-Web.ttf') format('truetype'),
+     url('Austin-Extrabold-Web.svg#Austin Web') format('svg');
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.Austin-Extrabold-Web {
+  font-family: 'Austin Web';
+  font-weight:  700;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Austin Web';
+  src: url('Austin-ExtraboldItalic-Web.eot');
+  src: url('Austin-ExtraboldItalic-Web.eot?#iefix') format('embedded-opentype'),
+     url('Austin-ExtraboldItalic-Web.woff') format('woff'),
+     url('Austin-ExtraboldItalic-Web.ttf') format('truetype'),
+     url('Austin-ExtraboldItalic-Web.svg#Austin Web') format('svg');
+  font-weight:  700;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+.Austin-ExtraboldItalic-Web {
+  font-family: 'Austin Web';
+  font-weight:  700;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Austin Web';
+  src: url('Austin-Fat-Web.eot');
+  src: url('Austin-Fat-Web.eot?#iefix') format('embedded-opentype'),
+     url('Austin-Fat-Web.woff') format('woff'),
+     url('Austin-Fat-Web.ttf') format('truetype'),
+     url('Austin-Fat-Web.svg#Austin Web') format('svg');
+  font-weight:  900;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.Austin-Fat-Web {
+  font-family: 'Austin Web';
+  font-weight:  900;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+@font-face {
+  font-family: 'Austin Web';
+  src: url('Austin-FatItalic-Web.eot');
+  src: url('Austin-FatItalic-Web.eot?#iefix') format('embedded-opentype'),
+     url('Austin-FatItalic-Web.woff') format('woff'),
+     url('Austin-FatItalic-Web.ttf') format('truetype'),
+     url('Austin-FatItalic-Web.svg#Austin Web') format('svg');
+  font-weight:  900;
+  font-style:   italic;
+  font-stretch: normal;
+}
+
+.Austin-FatItalic-Web {
+  font-family: 'Austin Web';
+  font-weight:  900;
+  font-style:   italic;
+  font-stretch: normal;
+}

@@ -1,0 +1,25 @@
+ .single-tribe_events table.tribe-events-tickets {
+ 	span.tribe-tickets-remaining, td.tickets_name, td.tickets_description,  {
+ 		display: none;
+ 	}
+ } 
+
+ .class-sales {
+ 	h2.tribe-events-tickets-title {
+		display: none;
+ 	}
+
+ td.tickets_price {
+ 	text-align: right;
+ }
+
+ table.tribe-events-tickets td {
+ 	padding: 0;
+ 	border: 0;
+ }
+
+ table.tribe-events-tickets .tickets_price {
+ 	font-style: normal;
+ 	font-weight: 600;
+ }
+}

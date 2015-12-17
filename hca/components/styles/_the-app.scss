@@ -1,0 +1,579 @@
+.ginput_complex {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+a.gform_save_link {
+   color: $gray-darker!important;
+}
+
+
+
+
+// FOR ALUMNI UPDATER.
+
+#gform_fields_7 .ginput_container input[type="text"], #gform_fields_7 .ginput_container input[type="email"], #gform_fields_7 .ginput_container input[type="password"], #gform_fields_7 input[type="number"], #gform_fields_7 input[type="tel"], #gform_fields_7  select {
+  @extend .form-control;
+  margin-bottom: 30px;
+}
+
+#gform_wrapper_7.gform_wrapper ul {
+  padding: 0;
+}
+
+#input_7_4_1_container input#input_7_4_1, #input_7_4_2_container input#input_7_4_2 {
+  margin-bottom: 30px;
+  @include break-min($break-md){ margin-bottom: 0; }
+}
+
+input#input_7_4_1, input#input_7_4_2, input#input_7_4_3, input#input_7_4_4, input#input_7_4_5, select#input_7_4_6, input#input_7_4_7 {
+  @include break-max($break-md){ margin-bottom: 30px; }
+}
+
+// COUNTRY
+label#input_7_4_6_label  {
+  display: none;
+}
+
+// FOR THE OPEN HOUSE FORM
+#gform_fields_5 .ginput_container input  {
+  @extend .form-control;
+  margin-bottom: 30px;
+}
+
+#gform_wrapper_5.gform_wrapper ul {
+  padding: 0;
+}
+
+// FOR THE REQUEST INFO + MAILING LIST MODALS
+
+#gform_fields_3 .ginput_container input[type="text"], #gform_fields_3 .ginput_container input[type="email"], #gform_fields_8 .ginput_container input[type="text"], #gform_fields_8 .ginput_container input[type="email"] {
+  @extend .form-control;
+  margin-bottom: 30px;
+}
+
+#gform_wrapper_3.gform_wrapper ul, #gform_wrapper_8.gform_wrapper ul {
+  padding: 0;
+}
+
+label#label_2_0,label#label_2_1 {
+  margin-left: 10px;
+}
+
+input#gform_submit_button_3, input#gform_submit_button_8 {
+  margin-top: 20px;
+}
+
+// FOR THE REGISTER PAGE
+
+#gform_fields_2 .ginput_container input[type="text"], #gform_fields_2 .ginput_container input[type="email"], #gform_fields_2 .ginput_container input[type="password"] {
+  @extend .form-control;
+  margin-bottom: 30px;
+}
+
+#gform_wrapper_2.gform_wrapper ul {
+  padding: 0;
+}
+
+// FOR THE CONTACT PAGE
+
+#gform_wrapper_6.gform_wrapper ul {
+  padding: 0;
+}
+
+#gform_fields_6 .ginput_container input[type="text"], #gform_fields_6 .ginput_container input[type="email"], #gform_fields_6 .ginput_container textarea, #gform_fields_6 .ginput_container select {
+  @extend .form-control;
+  margin-bottom: 30px;
+}
+
+// Hide the router label.
+#field_6_7 label {
+  display: none;
+}
+
+#gform_wrapper_1 label {
+  font-weight: 500;
+}
+
+.gfield_label {
+  font-size: 21px;
+  font-weight: 500;
+}
+
+// FOR QUESTIONS (labels)
+
+%label-1 {
+  font-weight: 500;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+// AND FOR ANSWERS (labels)
+
+%label-a {
+  font-weight: 500;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.gform_fields {
+  @extend .list-unstyled;
+  width: 100%;
+  margin: 15px 0;
+  padding: 0;
+}
+
+.gfield_radio {
+  list-style-type: none;
+  padding-left: 0;
+  li {
+    @extend .col-xs-6;
+  }
+}
+
+.gform_wrapper ul {
+
+  @media screen and (max-width: $break-md) {
+    padding: 0 15px;
+  }
+
+}
+
+.gform_wrapper .gfield_radio {
+  padding: 0;
+
+  li {
+    padding: 0;
+  }
+}
+
+#gform_fields_1 input[type="text"], #gform_fields_1 input[type="email"], #gform_fields_1 input[type="number"], #gform_fields_1 input[type="tel"], #gform_fields_1 .ginput_complex input, #gform_fields_1  select,
+#gform_fields_11 input[type="text"], #gform_fields_11 input[type="email"], #gform_fields_11 input[type="number"], #gform_fields_11 input[type="tel"], #gform_fields_11 .ginput_complex input, #gform_fields_11  select {
+  @extend .form-control;
+}
+
+.gform_page_footer {
+  margin-top: 30px;
+  width: 100%;
+  float: left;
+}
+
+.ginput_complex .ginput_full {
+  padding: 0;
+  margin-bottom: 30px;
+}
+
+//.. I'M NOT DOING THIS AGAIN, SO LABEL ALL OF THE OVERRIDES .. //
+
+///// PAGE ONE //////
+
+// CITY + STATE // ZIP + COUNTRY
+#input_1_7_3_container, #input_1_7_4_container, #input_1_7_5_container, #input_1_7_6_container,
+#input_11_7_3_container, #input_11_7_4_container, #input_11_7_5_container, #input_11_7_6_container {
+  margin-bottom: 30px;
+}
+
+input#input_1_7_1, input#input_1_7_2, input#input_1_7_3, input#input_1_7_4, input#input_1_7_5, select#input_1_7_6, input#input_1_7_7,
+input#input_11_7_1, input#input_11_7_2, input#input_11_7_3, input#input_11_7_4, input#input_11_7_5, select#input_11_7_6, input#input_11_7_7 {
+  @include break-max($break-md){ margin-bottom: 30px; }
+}
+
+// COUNTRY
+label#input_1_7_6_label,
+label#input_11_7_6_label  {
+  display: none;
+}
+
+// PHONES
+#field_1_8 .ginput_container, #field_1_9 .ginput_container,
+#field_11_8 .ginput_container, #field_11_9 .ginput_container {
+  margin-bottom: 30px;
+}
+
+// CITIZEN and PROGRAM
+label#label_1_0, label#label_1_1, label#label_1_0, label#label_11_0, label#label_11_1 {
+  margin-left: 10px;
+}
+
+///// PAGE TWO //////
+
+.gform_wrapper textarea {
+  max-width: 100%;
+  width: 100%;
+  min-height: 400px;
+}
+
+///// PAGE THREE //////
+
+#gform_drag_drop_area_1_25.gform_drop_area {
+  margin-bottom: 30px;
+}
+
+li#field_1_42 ul li,
+li#field_11_42 ul li {
+  list-style-type: disc;
+}
+
+li#field_1_33 .well,
+li#field_11_33 .well {
+  margin-top: 30px;
+}
+
+///// PAGE FOUR //////
+
+// Hide card stuff for now...
+div.gform_card_icon_container.gform_card_icon_style1, #field_1_34, #field_11_34 {
+  display: none;
+}
+
+#input_1_36, #input_11_36 {
+  @extend .well;
+  float: left;
+  width: 100%;
+  padding-top: 30px;
+}
+
+// Card number and card holder
+input#input_1_36_1, input#input_1_36_5,
+input#input_11_36_1, input#input_11_36_5 {
+  @extend .form-control;
+}
+
+div#input_1_36 label,
+div#input_11_36 label {
+  @include upo(1px);
+  font-weight: 500;
+  font-size: $micro;
+}
+
+span.ginput_card_expiration_container.ginput_card_field label {
+  float: left;
+  margin-left: 0;
+  @include break-min($break-md) { margin-left: -15px; }
+}
+
+span#input_1_36_2_cardinfo_left,
+span#input_11_36_2_cardinfo_left {
+  @extend .col-md-9;
+}
+
+span#input_1_36_2_cardinfo_right,
+span#input_11_36_2_cardinfo_right {
+  @extend .col-md-3;
+  padding-right: 15px;
+  @include break-min($break-md) { padding-right: 0; }
+}
+
+input#input_1_36_3,
+input#input_11_36_3 {
+  @extend .form-control;
+}
+
+.ginput_card_expiration.ginput_card_expiration_month, .ginput_card_expiration.ginput_card_expiration_year {
+  @extend .form-control;
+}
+select#input_1_36_2_month, select#input_1_36_2_year,
+select#input_11_36_2_month, select#input_11_36_2_year {
+  @extend .col-md-6;
+}
+
+select#input_1_36_2_month,
+select#input_11_36_2_month {
+  margin: 0 0 30px 0;
+  @include break-min($break-md) { margin: 0 15px 0 -15px;  }
+}
+
+// End with no bottom margin, please.
+
+#input_1_36_5_container.ginput_full,
+#input_11_36_5_container.ginput_full {
+  margin-bottom: 0;
+}
+
+// Let's make this specific to the application page, ok?
+#application .gform_wrapper textarea {
+  margin-bottom: 50px;
+}
+
+.ginput_complex .ginput_left, .gf_left_half, .gf_left_third  {
+  @extend .col-md-6;
+  padding-left: 0;
+
+  @media screen and (max-width: $break-md) {
+    padding: 0;
+  }
+}
+
+
+.ginput_complex .ginput_right, .gf_right_half, .gf_right_third {
+  @extend .col-md-6;
+  padding-right: 0;
+
+  @media screen and (max-width: $break-md) {
+    padding: 0;
+  }
+}
+
+.ginput_complex .ginput_full {
+  @extend .col-md-12;
+  padding: 0;
+}
+
+.gfield_date_month.ginput_container, .gfield_date_day.ginput_container, .gfield_date_year.ginput_container  {
+  @extend .col-xs-4;
+}
+
+// FIRST AND LAST NAME + BIRTHDAY + ADDRESSES
+#input_1_4_3_container, #input_1_4_6_container, #input_1_10_1_container, #input_1_10_2_container, #input_1_10_3_container, #input_1_7_1_container, #input_1_7_2_container, #input_1_7_3_container, #input_1_7_4_container, #input_1_7_5_container, #input_1_7_6_container,
+#input_11_4_3_container, #input_11_4_6_container, #input_11_10_1_container, #input_11_10_2_container, #input_11_10_3_container, #input_1_7_1_container, #input_11_7_2_container, #input_11_7_3_container, #input_11_7_4_container, #input_11_7_5_container, #input_11_7_6_container {
+  font-size: small;
+}
+
+#input_1_10_1_container, #input_11_10_1_container {
+  padding-left: 0;
+}
+
+#input_1_10_3_container, #input_11_10_3_container {
+  padding-right: 0;
+}
+
+// US CITIZEN / RADIO BUTTONS
+
+.gchoice_11_0, .gchoice_11_1 {
+  @extend .col-md-6;
+}
+
+// FULL-TIME PROGRAM / RADIO BUTTONS
+.gchoice_1_0, .gchoice_1_1 {
+  @extend .col-sm-6;
+}
+
+// CTP SIGN UP
+
+#gform_wrapper_4 {
+  width: 100%;
+
+  .gfield_label {
+    color: $gray-darker;
+  }
+
+  .gform_button {
+    @extend .btn-block;
+  }
+
+}
+
+.gform_confirmation_message_4 {
+  font-weight: 500;
+  font-size: $delta;
+  color: #fff;
+}
+
+.prefooter h3 {
+  margin-top: 0;
+}
+
+#gform_wrapper_1 .gform_next_button, #gform_wrapper_1 .gform_save_state,
+#gform_wrapper_11 .gform_next_button, #gform_wrapper_11 .gform_save_state,
+#gform_wrapper_11 .gform_save_link {
+  @include break-min($break-sm){
+    float: right;
+  }
+}
+
+#gform_wrapper_1 .gform_save_state,
+#gform_wrapper_11 .gform_save_state,
+#gform_wrapper_11 .gform_save_link {
+  @extend .btn-default;
+  background: transparent;
+  border: 0;
+
+  margin-right: 15px;
+  @include break-max($break-sm){
+    // background: transparent;
+    // border: 0;
+  }
+}
+
+#gform_wrapper_1 #gform_submit_button_1,
+#gform_wrapper_11 #gform_submit_button_11 {
+  float: right;
+}
+
+.gform_button, .gform_next_button, .gform_previous_button, .gform_button_select_files, .gform_save_link, #gform_send_resume_link_button_11 {
+  @include upo(2px);
+  text-align: center;
+  vertical-align: middle;
+  font-style: normal;
+  line-height: 49px;
+  text-shadow: none;
+  transition: all 0.2s linear;
+  text-decoration: none;
+  outline: 0;
+  cursor: pointer;
+
+  padding: 0 23px;
+  background-image: none;
+
+  -webkit-font-smoothing: antialiased;
+  white-space: nowrap;
+  display: inline-block;
+  @include user-select(none);
+
+  font-size: 13px;
+  font-weight: 600;
+  border: 1px solid transparent;
+  margin: 0;
+
+  color: #fff;
+  background: $green;
+
+  &:active,
+  &.active {
+    outline: 0;
+    background-image: none;
+  }
+
+  &:hover,
+  &:focus {
+    background: #71923d;
+    text-decoration: none;
+    color: #fff;
+  }
+
+}
+
+.gform_button, .gform_next_button, .gform_previous_button {
+
+  @include break-max($break-sm){
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
+
+// $CTP APP HEADER
+
+.gf_page_steps {
+  @extend .row;
+  margin-bottom: 20px;
+}
+
+.gf_step {
+  @extend .col-md-3;
+  text-align: center;
+  border-bottom: 4px solid $gray-lighter;
+  @extend h5;
+
+  color: $gray;
+  margin: 0 0 10px 0;
+  padding: 10px 0;
+  @include break-min($break-md){ padding: 20px 0; }
+
+  .gf_step_number {
+    display: none;
+    @include break-max($break-sm) {
+      font-size: .875rem;
+      float: left;
+      margin: 0 10px;
+    }
+  }
+
+  &.gf_step_active {
+    color: $green;
+    border-bottom: 4px solid $green;
+  }
+}
+
+.gform_drop_area {
+  border: 4px dashed $gray-darker;
+  padding: 7em 20px;
+  text-align: center;
+  background: #fff;
+  -webkit-appearance: none;
+  min-height: 150px;
+
+  input {
+    /* color: #fff; */
+    background: $gray-darker;
+    color: $white;
+    @extend .btn-block;
+    max-width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    @include break-max($break-xs){ max-width: 100%; }
+  }
+}
+
+// $FORM ERRORS
+
+.has-error .help-block, .has-error .control-label, .has-error .radio, .has-error .checkbox, .has-error .radio-inline, .has-error .checkbox-inline {
+  color: $gray-darker;
+  font-weight: 600;
+}
+
+div.instruction.validation_message, .gfield_description.validation_message {
+  font-weight: 500;
+  color: $state-danger-bg;
+  font-size: 85%;
+  line-height: 1.3em;
+}
+
+// $CTP APP REGISTRATION (ALSO WOO)
+
+.pre-app-page, .custom-woo-login, #alumni {
+
+  .nav-tabs {
+    border: 0;
+  }
+
+  .nav-tabs > li {
+    border: 0;
+    min-width:	120px;
+    text-align: center;
+  }
+
+  .nav > li > a {
+    line-height: 30px;
+    background: #818181;
+    color: #fff;
+    border: 0;
+  }
+
+  .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    color: $gray-darker;
+    background: $gray-lighter;
+    border: 0;
+  }
+
+  .nav-tabs > li > a:hover {
+    background: lighten(#818181, 12%);
+    border: 0;
+    color: #fff;
+  }
+
+  .well {
+    border-color: transparent;
+  }
+
+  .pre-app-login-user label, .pre-app-login-pw label, .custom-woo-register-user label, .custom-woo-register-pw label, .custom-woo-login-user label, .custom-woo-login-pw label {
+    display: none;
+  }
+
+  h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+  }
+
+  h4+p {
+    @extend %sub-768-trailer;
+  }
+
+}
+
+.custom-woo-login  form {
+  background: transparent!important;
+  padding: 0!important;
+  margin: 0!important;
+}

@@ -1,0 +1,151 @@
+
+@mixin break-min($size) {
+  @media (min-width: $size) { @content; }
+}
+
+/* ==========================================================================
+   Media Query (Max-Width)
+   Example: @include break-max(700px){ Custom CSS Styles }
+   ========================================================================== */
+
+@mixin break-max($size) {
+  @media (max-width: $size) { @content; }
+}
+
+@mixin upo ($spacing) {
+  text-transform: uppercase;
+  letter-spacing: $spacing;
+}
+
+@mixin quote-bg($path, $x-axis, $y-axis) {
+  min-height: 250px;
+  @include break-min($break-lg){ min-height: 450px;  }
+  width: 100%;
+  background: url($path) no-repeat $x-axis $y-axis;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+
+  &.bg-green {
+    background: $green url($path) no-repeat $x-axis $y-axis;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+  }
+
+  &.bg-dark {
+    background: $gray-darker url($path) no-repeat $x-axis $y-axis;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+  }
+
+  &.bg-white {
+    background: #fff url($path) no-repeat $x-axis $y-axis;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+  }
+
+}
+
+
+
+@mixin headings {
+  h1, h2 ,h3, h4, h5, h6 {
+    @content;
+  }
+}
+
+@mixin all-text {
+  h1, h2 ,h3, h4, h5, h6, p, q, li, th, td, dt, dd {
+    @content;
+  }
+}
+
+
+
+@mixin on-green {
+  @include all-text {
+    color: #fff;
+  }
+
+  .btn-alpha {
+    border-color: #fff;
+    color: #fff;
+    &:hover {
+      border-color: #fff;
+      background: #fff;
+      color: $gray-darker;
+    }
+  }
+
+  .btn-text {
+    color: #fff;
+    &:hover {
+      color: $gray-darker;
+    }
+  }
+}
+
+@mixin on-dark {
+  @include all-text {
+    color: #fff;
+  }
+
+  .btn-alpha {
+    border-color: #fff;
+    color: #fff;
+
+    &:hover {
+      background: $green;
+      border-color: $green;
+      color: #fff;
+    }
+  }
+
+  .btn-default {
+    border-color: #fff;
+    color: $gray-darker;
+    background: #fff;
+
+
+    &:hover {
+      background: $green;
+      border-color: $green;
+      color: #fff;
+    }
+  }
+
+  .btn-text {
+    color: $green;
+    &:hover {
+      color: #fff;
+    }
+  }
+}
+
+
+@mixin background-cover($path, $x-axis, $y-axis) {
+  background: url($path) no-repeat $x-axis $y-axis;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+// User select
+// For selecting text on the page
+
+@mixin user-select($select) {
+  -webkit-user-select: $select;
+     -moz-user-select: $select;
+      -ms-user-select: $select; // IE10+
+          user-select: $select;
+}
