@@ -394,3 +394,12 @@ if (class_exists('Tribe__Tickets_Plus__Commerce__WooCommerce__Main')) {
 
 
 
+// Simple products
+add_filter( 'woocommerce_quantity_input_args', 'jk_woocommerce_quantity_input_args', 10, 2 );
+function jk_woocommerce_quantity_input_args( $args, $product ) {
+    $args['input_value'] 	= 1;	// Starting value
+    return $args;
+}
+
+
+
