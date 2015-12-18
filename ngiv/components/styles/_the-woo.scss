@@ -356,3 +356,14 @@ input#place_order {
     text-transform: uppercase;
     padding: .618em 4em;
 }
+
+
+input.gift_receiver_email {
+	margin-bottom: 20px;
+}
+
+
+#gift-certificate-receiver-form-single .email, textarea.gift_receiver_message {
+	width: 100%;
+}
+
