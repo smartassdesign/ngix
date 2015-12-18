@@ -340,3 +340,19 @@
 .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
 	border-radius: 0!important;
 }
+
+
+
+.woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc, .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry, .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number {
+	font-size: 1em;
+}
+
+
+
+
+input#place_order {
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: .618em 4em;
+}
