@@ -152,8 +152,6 @@
 		<?php include("layouts/recent-news.php"); ?>
 
 
-		<?php include("parts/snippets/quote-terry.php"); ?>
-
 
 <div id="instafeed"></div>
 
@@ -181,12 +179,10 @@
 			<p class="gr-super-lede">Interested in the Chef's Training Program?</p>
 		</div> <!-- /.col-md-9 -->
 		<div class="col-md-3">
-			<a href="#" class="btn btn-alpha btn-block open-popup-link" data-toggle="modal" data-target="#infoModal">Request Info</a>
+			<a href="http://ngihca.edu" class="btn btn-alpha btn-block">Request Info</a>
 		</div> <!-- .col-md-3 -->
 	</div> <!-- /.container -->
 </section> <!-- /#open-house -->
-
-	<?php include("parts/snippets/modal-info.php"); ?>
 
 </div> <!-- /.page-wrap .raw -->
 
