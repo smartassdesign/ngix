@@ -43,6 +43,16 @@
 // .gift-certificate-receiver-form-single
 
 
+//// CHECKOUT
+
+.woocommerce-checkout #payment {
+	background: transparent;
+}
+
+.woocommerce-checkout #payment ul.payment_methods {
+	border: 0;
+}
+
 
 
 ////
@@ -313,6 +323,9 @@
 	border-color: transparent!important;
 	background-image: none;
 }
+
+
+
 
 
 

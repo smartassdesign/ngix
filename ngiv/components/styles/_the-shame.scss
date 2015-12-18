@@ -339,3 +339,33 @@ li#field_5_5 {
 }
 
 
+
+
+// PAGINATION FIXES
+.pager {
+
+}
+
+
+
+
+
+.woocommerce-message a.button.wc-forward {
+	display: none;
+}
+
+
+
+#sidemenu ul#menu-secondary-menu li.pushy-p>a:hover {
+    background: inherit;
+    color: #fff;
+    cursor: default;
+}
+
+
+
+
+.single-tribe_events input[type="number"] {
+    border: 1px solid #ddd!important;
+    margin-bottom: 10px;
+}
