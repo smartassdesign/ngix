@@ -405,10 +405,3 @@ function jk_woocommerce_quantity_input_args( $args, $product ) {
 
 
 
-/**
- * @ Remove in all product type
- */
-function wc_remove_all_quantity_fields( $return, $product ) {
-    return true;
-}
-add_filter( 'woocommerce_is_sold_individually', 'wc_remove_all_quantity_fields', 10, 2 );
