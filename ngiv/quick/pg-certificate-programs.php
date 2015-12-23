@@ -16,9 +16,6 @@
 
 Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Taught by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions. 
 </p>
-<p>*Definition of Culinary Translation: Culinary Translation is a term used to describe the practice of assisting patients in converting a dietary prescription into the practical nourishment components of planning, procuring, preparing, eating, absorbing and assimilating whole foods.
-</p>
-&nbsp;
 
 					<h4>Coursework</h4>
 					<ul><li> Exploring the differences between "illness" and "disease"</li>
@@ -49,7 +46,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 						<p>Mondays + Tuesdays: <br>6:00 pm &mdash; 10:00 pm<br>
 						February 1, 2016 &mdash; April 5, 2016</p>
 						<h5>Cost</h5>
-						<p><strike>$6,495</strike> Holiday Pricing $5,550 until December 21st! / Deposit: $1,624</p>
+						<p>$6,495 / Deposit: $1,624</p>
 						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
 
 						<p>Students will receive a certificate of completion.</p>
