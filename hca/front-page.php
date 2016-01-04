@@ -255,8 +255,7 @@
                   </div> <!-- /.panel-heading -->
                   <div id="partner" class="collapse panel-collapse">
                      <div class="panel-body">
-                        <p class="lede"><a href="<?php bloginfo('url');?>/edible-schoolyard-scholarship/" class="ww">Edible Education</a> </p>
-                        <p class="lede"><a href="<?php bloginfo('url');?>/academy-of-nutrition-and-dietetics-scholarship/" class="ww">Natural Gourmet Institute Community Scholarship</a></p>
+                        <p class="lede"><a href="<?php bloginfo('url');?>/vegetarian-times-scholarship/" class="ww">Natural Gourmet Institute Vegetarian Times Scholarship</a></p>
                         <p class="lede"><a href="<?php bloginfo('url');?>/yoga-journal-scholarship/" class="ww">Natural Gourmet Institute Yoga Journal Scholarship</a></p>
                         </p>
                      </div> <!-- /.panel-body -->
@@ -270,6 +269,7 @@
                   </div> <!-- /.panel-heading -->
                   <div id="foundation" class="collapse panel-collapse">
                      <div class="panel-body">
+                        <p class="lede"><a href="<?php bloginfo('url');?>/annemarie-colbin-scholarship/" class="ww">Dr. Annemarie Colbin Scholarship</a></p>
                         <p class="lede"><a href="<?php bloginfo('url');?>/james-beard-scholarship/" class="ww">James Beard Foundation Scholarship</a></p>
                      </div> <!-- /.panel-body -->
                   </div> <!-- /.culinary-trust -->

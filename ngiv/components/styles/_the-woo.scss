@@ -1,3 +1,15 @@
+/// FND CONDITIONAL CHECKOUT
+
+// .page-checkout .woocommerce #customer_details .col-2 {
+//     float: left;
+//     display: block;
+//     width: 100%;
+// }
+
+
+
+
+
 /// GIFT CERTIFICATES 3.0
 
 .gift_cert_field_wrapper {
@@ -117,13 +129,22 @@ input#ign_receiver_name, input#ign_receiver_email {
 .page-checkout .woocommerce {
 
 	#customer_details .col-2 {
-		display: none;
+        float: left;
+        display: block;
+        width: 100%;
 	}
 	
 	#customer_details .col-1 {
 		float: left;
 		width: 100%;
 	}
+
+    /// ONLY SHOW IF THERE ARE FNDs in the basket
+
+    .woocommerce-shipping-fields h3 {
+        display: none;
+    }
+
 	
 	label, #account_password_field label {
 		text-transform: uppercase;
