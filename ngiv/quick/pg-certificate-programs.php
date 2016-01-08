@@ -171,7 +171,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 						<p>March 7, 2016 &mdash; April 7, 2016 <br> 6:00pm &mdash; 10:00pm<br>
 						Mondays + Thursdays <br>
 						<h5>Cost</h5>
-						<p>$4,200 / Deposit: $1,400</p>
+						<p>$2,800 / Deposit: $934</p>
 						<p>Students will receive a certificate of completion.</p>
 					</aside>
 
@@ -239,7 +239,8 @@ Students will also gain an understanding of how specific diets and cooking techn
 					<a href="/request-info-culinary-nutrition/"class="btn btn-primary btn-block">Request Info</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>2016 dates coming soon!</p>
+						<p>March 30th through May 25, 2016</p>
+						<p>Monday and Wednesday evenings from 6:30-9:30 pm</p>
 						<p>Students will receive a certificate of completion.</p>
 					</aside>
 
