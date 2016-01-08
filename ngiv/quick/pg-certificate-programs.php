@@ -236,11 +236,12 @@ Students will also gain an understanding of how specific diets and cooking techn
 
 					
 				<div class="col-md-4">
-					<a href="/request-info-culinary-nutrition/"class="btn btn-primary btn-block">Request Info</a>
+					<a href="/certificate-programs/?add-to-cart=771" rel="nofollow" data-product_id="771" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>March 30th through May 25, 2016</p>
-						<p>Monday and Wednesday evenings from 6:30-9:30 pm</p>
+						<p>March 30, 2016 — May 25, 2016 <br />
+						6:30pm — 9:30pm<br />
+						Mondays + Wednesdays</p>
 						<p>Students will receive a certificate of completion.</p>
 					</aside>
 
