@@ -242,6 +242,8 @@ Students will also gain an understanding of how specific diets and cooking techn
 						<p>March 30, 2016 — May 25, 2016 <br />
 						6:30pm — 9:30pm<br />
 						Mondays + Wednesdays</p>
+						<h5>Cost</h5>
+						<p>$5,550 / Deposit: $1,833</p>						
 						<p>Students will receive a certificate of completion.</p>
 					</aside>
 
