@@ -46,7 +46,7 @@
 
 .hbar h4 {
     color: #fff;
-    margin: 20px 0;
+    margin: 20px 0!important;
 }</style>
 
 
