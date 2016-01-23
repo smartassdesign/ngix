@@ -37,6 +37,19 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.min.js"></script>
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
+<style>.hbar {
+    text-align: center;
+    padding: 0;
+    background: red;
+    color: #fff;
+}
+
+.hbar h4 {
+    color: #fff;
+    margin: 20px 0;
+}</style>
+
+
 		<?php wp_head(); ?>
 	</head>
 	<body <?php body_class( 'viewport flexbox' ); ?>>
@@ -88,6 +101,8 @@
 	</nav>
 
 </header>
+<div class="hbar"><h4>On account of the weather, the school is closed today, January 23rd.</h4></div>
+
 <main class="site-content">
 
 
