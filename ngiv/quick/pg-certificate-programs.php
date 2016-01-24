@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#culinary-nutrition-la">Culinary Nutrition Los Angeles</a>, <a href="#gluten-free"> Gluten-Free Baking</a>, <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#raw-and-living"> Raw and Living Foods</a>, <a href="#food-entrepreneurship">Food Entrepreneurship</a> and <a href="#food-media">Writing for Food Media</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#culinary-nutrition-la">Culinary Nutrition Los Angeles</a>, <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#raw-and-living"> Raw and Living Foods</a>, <a href="#food-entrepreneurship">Food Entrepreneurship</a> and <a href="#food-media">Writing for Food Media</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 <div class="sub-pod">
 		<section id="food-therapy">
@@ -127,64 +127,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 		</section> <!-- /#culinary-nutrition -->		
 		</div>			
 
-	<div class="sub-pod">
-			<section id="gluten-free">
-			<img src ="/assets/NGI-Gluten-Free.jpg" alt="NGI Gluten Free Certificate Program" class="img-fluid trailer">
 
-			<div class="row">
-				<div class="col-md-8">
-					<header>	
-			      		<h2>Gluten-Free Baking Certificate Program </h2>
-					</header>
-
-					<!-- <h4>Overview</h4> -->
-					<p class="trailer">Natural Gourmet Institute’s Gluten-Free Baking Certificate Program will teach culinary professionals and home cooks about the spectrum of gluten intolerance from gluten sensitivity to celiac disease, as well as provide introductory hands-on instruction in gluten-free baking.</p>
-						
-					<h4>Students will learn:</h4>
-						<ul>
-							<li>to define gluten sensitivity, intolerance, and celiac disease</li>
-							<li>to source gluten-free ingredients</li>
-							<li>to locate and assess the best gluten-free online resources</li>
-							<li>the latest nutritional science and research on gluten</li>
-							<li>how gluten functions in bread and pastry applications</li>
-							<li>execute various types of gluten-free breads</li>
-							<li>execute various basic gluten-free pastry recipes</li>
-						</ul>
-						<h4>About the instructor</h4>
-
-<p>This program will be led by Karen Freer, Founder of <a href="http://www.freebreadinc.com/">Free Bread Inc.</a>  Free Bread's founder, Karen Freer, was diagnosed with celiac disease as an adult. During those first few challenging months, she found that the only thing she really missed was bread -- hearty, crusty, seedy, toothy bread. Always a sucker for a challenge, Karen soon set out to achieve a nearly impossible and often outrageously frustrating goal -- to make gluten-free bread taste, look, and feel delicious by any means necessary. After much trial and error, Karen developed recipes that were deemed delicious by not only her fellow gluten-free friends, but her gluten-loving friends, colleagues, and even strangers. Before she had the chance to change her mind, Free Bread was off and running, and she hasn't looked back since.</p>
-						<p class="trailer"><a href="/request-info-gluten-free/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
-
-					<div class="well">
-						<p>To register for the Gluten-Free Baking Certificate Program click enroll and submit the deposit payment. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download payment plan selection form. There will be 2 additional payments due on the first day of class and at the midpoint. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
-
-						<p>Refund policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal less the deposit. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
-					</div> <!-- /.well -->	
-
-				</div> <!-- /.col-md-8 -->	
-
-					
-				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=13910" rel="nofollow" data-product_id="13910" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
-					<aside class="well">
-						<h5>Dates</h5>
-						<p>March 7, 2016 &mdash; April 7, 2016 <br> 6:00pm &mdash; 10:00pm<br>
-						Mondays + Thursdays <br>
-						<h5>Cost</h5>
-						<p>$2,800 / Deposit: $934</p>
-						<p>Students will receive a certificate of completion.</p>
-					</aside>
-
-				</div> <!-- /.col-md-4 -->
-				
-			</div> <!-- /.row -->
-		</section> <!-- /#gluten-free -->		
-		</div>			
-		
-				
-			</div> <!-- /.row -->		
-		</section> <!-- /#cooking-for-illness -->
-	</div>	
 
 		<div class="sub-pod">
 			<section id="culinary-nutrition">
