@@ -197,34 +197,34 @@ Students will also gain an understanding of how specific diets and cooking techn
 		</div>			
 		<div class="sub-pod">
 	<section id="food-entrepreneurship">
-			<img src ="/assets/food-entrepreneurship.jpg" alt="NGI Food Entrepreneurship Certificate Program" class="img-fluid trailer">
+			<img src ="/assets/food-entrepreneurship.jpg" alt="NGI Food Entrepreneurship Bootcamp" class="img-fluid trailer">
 
 			<div class="row">
 				<div class="col-md-8">
 					<header>	
-			      		<h2>Food Entrepreneurship Certificate Program</h2>
+			      		<h2>Food Entrepreneurship Bootcamp</h2>
 					</header>
 
 					<!-- <h4>Overview</h4> -->
-					<p>Do you dream of transforming your passion for food into an exciting new business or career? This fall, learn the recipe for success from some of New York’s best food and business entrepreneurs, while actively participating in Natural Gourmet Institute’s new Food Entrepreneurship Certificate Program.</p>
-					<p>Led by award-winning Food Marketing and Business Consultant Terry Frishman of <a href="http://culinest.com/">"Culinest™</a>, students will learn what it takes to start a successful food business from up and coming food entrepreneurs from companies like <a href="http://www.robertaspizza.com/">Roberta’s</a>, <a href="http://krumvillebakeshop.com/">Krumville Bake Shop</a>, <a href="http://www.quinciple.com/">Quinciple</a> and more!  Field visits also include visits to industry experts like <a href="https://www.bakednyc.com/">Baked</a>, <a href="http://www.greatperformances.com/">Great Performances</a>, <a href="http://hukitchen.com/">Hu Kitchen</a> and <a href="http://www.ediblecommunities.com/content/">Edible Publications</a>.</p>
-					<p>Throughout this inspiring and educational course, students will champion new business ideas while conceptualizing a plan and learning what is involved in running a food start-up. The class culminates with a virtual capital pitch to a panel of private equity investors who regularly review businesses for investment, and will provide invaluable feedback.</p>
-					<p>In addition to gaining real world experience while receiving expert advice and hearing war stories from seasoned food entrepreneurs, you will also:</p>
-						<ul><li>Build a winning concept</li>
-						<li>Have free access to LeanStack canvases during the program</li>
-						<li>Write an executive summary, mission and goals</li>
-						<li>Learn the ins and outs of sales and operations</li>
-						<li>Understand the elements and importance of a financial plan and how to get started!</li>
-						<li>Virtually pitch to investors who will give real-world advice</li>
-						<li>Learn from a wonderful range of guest speakers during each field trip</li>
-						<li>Get expert feedback and advice on your individual business concept during weekly elevator pitches, field trips</li>
+					<p>Do you dream of transforming your passion for food into an exciting new business or career? This spring, learn the recipe for success from some of New York’s best food and business entrepreneurs, while actively participating in Natural Gourmet Institute’s Food Entrepreneurship Bootcamp. Led by experienced food business manager and leader Ariel Kalishman Walsh, MBA (formerly of Saxelby Cheesemongers and Sea to Table) and food start-up founder and advisor Jennifer Goggin (formerly of FarmersWeb), students will learn what it takes to start a successful food business from established food entrepreneurs. Past program partners include <a href="http://www.robertaspizza.com/">Roberta’s</a>, <a href="http://krumvillebakeshop.com/">Krumville Bake Shop</a>, <a href="http://www.quinciple.com/">Quinciple</a> and more!</p>
 
-						<li>And more</li></ul>
 
-						<p class="trailer"><a href="/request-info-food-entrepreneurship/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
+					<p>Throughout this inspiring and educational course, students will champion their own business ideas while conceptualizing a plan and learning what is involved in running a food start-up. The class culminates with a pitch to a panel of industry experts and investors, who will provide valuable feedback on each student’s business.</p>
+
+					<p>In addition to gaining real world experience, receiving expert advice, and hearing war stories from seasoned food entrepreneurs, you will also:</p>
+
+					<ul>
+						<li>Build a winning concept</li>
+						<li>Create and refine business model canvases to shape your concept</li>
+						<li>Understand the elements and importance of a financial model and build your own</li>
+						<li>Develop a powerful pitch deck for investors or a sales deck for initial customers</li>
+						<li>Get expert feedback and advice on your individual business concept during regular workshopping sessions</li>
+						<li>Create a 6-month roadmap to build on your momentum after the course ends</li>
+						<li>Leave with a list of resources for next steps and an expanded network of food industry connections</li>
+					</ul>		
 
 					<div class="well">
-						<p>To register for Food Entrepreneurship click enroll and submit the deposit payment. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download the payment plan selection form. There will be 2 additional payments of $1,276 (includes a 6% interest fee) due on the first day of class and at the midpoint. To confirm your place in the class and complete registration, fill out the payment form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
+						<p>The total cost of the program is $3,300. To register, submit the deposit payment of $1,100. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download the payment plan selection form.</p>
 
 						<p>Refund policy: Students completing less than 50% of the coursework will receive a refund based on the number of course hours completed less the deposit, which is nonrefundable 2 weeks prior to your start date.  Students completing more than 50% of the program are not eligible for a refund.</p>
 					</div> <!-- /.well -->							
@@ -233,14 +233,13 @@ Students will also gain an understanding of how specific diets and cooking techn
 					
 				<div class="col-md-4">
 
-					<a href="/certificate-programs/?add-to-cart=755" rel="nofollow" data-product_id="755" data-product_sku="" class="btn btn-primary btn-block">Class in Session</a>
+					<a href="/certificate-programs/?add-to-cart=16138" rel="nofollow" data-product_id="16138" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>Tuesdays: 6:00pm &mdash; 9:30pm<br>
-						October 6, 2015 &mdash; December 15, 2015</p>
+						<p>Wednesdays: 6:30pm &mdash; 9:30pm*<br>
+						March 9, 2016 &mdash; May 11, 2011</p>
 						<h5>Cost</h5>
-						<p>$3,800 / Deposit: $1,254</p>
-						<p>Students will receive a certificate of completion.</p>
+						<p>$3,300 / Deposit: $1,100</p>
 					</aside> <!-- /.well -->
 				</div> <!-- /.col-md-4 -->
 				
