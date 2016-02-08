@@ -237,7 +237,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>Wednesdays: 6:30pm &mdash; 9:30pm*<br>
-						March 9, 2016 &mdash; May 11, 2011</p>
+						March 9, 2016 &mdash; May 11, 2016</p>
 						<h5>Cost</h5>
 						<p>$3,300 / Deposit: $1,100</p>
 					</aside> <!-- /.well -->
