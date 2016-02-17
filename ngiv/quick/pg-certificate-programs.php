@@ -57,75 +57,6 @@ Students will also gain an understanding of how specific diets and cooking techn
 			</div> <!-- /.row -->		
 		</section> <!-- /#food-therapy -->
 	</div>	
-	<div class="sub-pod">
-			<section id="culinary-nutrition-la">
-			<img src ="/assets/NGI-Culinary-Nutrition-LA.jpg" alt="NGI Culinary Nutrition Certificate Program Los Angeles" class="img-fluid trailer">
-
-			<div class="row">
-				<div class="col-md-8">
-					<header>	
-			      		<h2>Culinary Nutrition Certificate Program - New! Los Angeles Location</h2>
-					</header>
-
-					<!-- <h4>Overview</h4> -->
-					<p class="trailer">The Culinary Nutrition Certificate Program with Natural Gourmet Institute provides students with an in-depth and hands-on understanding of nutrition theory. The program explores the science of nutrition, nutrition in the marketplace, trends, and specialized diets through lecture and kitchen labs. Led by Kayleen St. John, MS RD, students will learn from expert guest speakers from the food, health, and nutrition fields!</p>
-
-<p>The program will be held at Cook LA, in Studio City, Los Angeles. Upon completion of the course, students will have learned how to incorporate the fundamentals of nutrition into their culinary perspective.
-</p><br>
-						
-					<h4>Coursework</h4>
-						<b>Fundamentals in Nutrition</b>
-						<ul>
-							<li>Food-based micronutrients and macronutrients</li>
-							<li>Optimizing nutrients through food</li>
-							<li>Nutrient retention</li>
-							<li>Food synergies</li>
-							<li>Nutrient analysis of menus</li>
-							<li>Nutrition in the marketplace</li>
-						</ul>
-						<b>Specialized Diets</b>
-						<ul>
-							<li>Life cycle nutrition</li>
-							<li>Vegetarian and vegan nutrition</li>
-							<li>Diabetes and metabolic syndrome</li>
-							<li>Food allergies and intolerances</li>
-							<li>Gluten sensitivity/intolerance</li>
-						</ul>
-						<b>Trends in Nutrition</b>
-						<ul>
-							<li>Alternative diets</li>
-							<li>Weight management</li>
-							<li>Inflammation</li>
-							<li>Econutrition</li>
-						</ul>
-
-						<p class="trailer"><a href="/request-info-culinary-nutrition-la/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
-
-					<div class="well">
-						<p>To register for Culinary Nutrition click enroll and submit the deposit payment. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download payment plan selection form. There will be 2 additional payments due on the first day of class and at the midpoint. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
-
-						<p>Refund policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
-					</div> <!-- /.well -->	
-
-				</div> <!-- /.col-md-8 -->	
-
-					
-				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=13430" rel="nofollow" data-product_id="6747" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
-					<aside class="well">
-						<h5>Dates</h5>
-						<p>February 15, 2016 &mdash; February 26, 2016 9:00am &mdash; 4:00pm<br>
-						Monday &mdash; Friday </p>
-						<h5>Cost</h5>
-						<p>$5,550 / Deposit: $1,833</p>
-						<p>Students will receive a certificate of completion.</p>
-					</aside>
-
-				</div> <!-- /.col-md-4 -->
-				
-			</div> <!-- /.row -->
-		</section> <!-- /#culinary-nutrition -->		
-		</div>			
 
 
 
@@ -295,3 +226,78 @@ Students will also gain an understanding of how specific diets and cooking techn
 			</div> <!-- /.row -->		
 		</section> <!-- /#food-media -->
 	</div>	
+
+
+
+
+
+
+		<div class="sub-pod">
+			<section id="culinary-nutrition-la">
+			<img src ="/assets/NGI-Culinary-Nutrition-LA.jpg" alt="NGI Culinary Nutrition Certificate Program Los Angeles" class="img-fluid trailer">
+
+			<div class="row">
+				<div class="col-md-8">
+					<header>	
+			      		<h2>Culinary Nutrition Certificate Program - New! Los Angeles Location</h2>
+					</header>
+
+					<!-- <h4>Overview</h4> -->
+					<p class="trailer">The Culinary Nutrition Certificate Program with Natural Gourmet Institute provides students with an in-depth and hands-on understanding of nutrition theory. The program explores the science of nutrition, nutrition in the marketplace, trends, and specialized diets through lecture and kitchen labs. Led by Kayleen St. John, MS RD, students will learn from expert guest speakers from the food, health, and nutrition fields!</p>
+
+<p>The program will be held at Cook LA, in Studio City, Los Angeles. Upon completion of the course, students will have learned how to incorporate the fundamentals of nutrition into their culinary perspective.
+</p><br>
+						
+					<h4>Coursework</h4>
+						<b>Fundamentals in Nutrition</b>
+						<ul>
+							<li>Food-based micronutrients and macronutrients</li>
+							<li>Optimizing nutrients through food</li>
+							<li>Nutrient retention</li>
+							<li>Food synergies</li>
+							<li>Nutrient analysis of menus</li>
+							<li>Nutrition in the marketplace</li>
+						</ul>
+						<b>Specialized Diets</b>
+						<ul>
+							<li>Life cycle nutrition</li>
+							<li>Vegetarian and vegan nutrition</li>
+							<li>Diabetes and metabolic syndrome</li>
+							<li>Food allergies and intolerances</li>
+							<li>Gluten sensitivity/intolerance</li>
+						</ul>
+						<b>Trends in Nutrition</b>
+						<ul>
+							<li>Alternative diets</li>
+							<li>Weight management</li>
+							<li>Inflammation</li>
+							<li>Econutrition</li>
+						</ul>
+
+						<p class="trailer"><a href="/request-info-culinary-nutrition-la/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
+
+					<div class="well">
+						<p>To register for Culinary Nutrition click enroll and submit the deposit payment. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download payment plan selection form. There will be 2 additional payments due on the first day of class and at the midpoint. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
+
+						<p>Refund policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
+					</div> <!-- /.well -->	
+
+				</div> <!-- /.col-md-8 -->	
+
+					
+				<div class="col-md-4">
+					<a href="/certificate-programs/?add-to-cart=13430" rel="nofollow" data-product_id="6747" data-product_sku="" class="btn btn-primary btn-block disabled">In Session</a>
+					<aside class="well">
+						<h5>Dates</h5>
+						<p>February 15, 2016 &mdash; February 26, 2016 9:00am &mdash; 4:00pm<br>
+						Monday &mdash; Friday </p>
+						<h5>Cost</h5>
+						<p>$5,550 / Deposit: $1,833</p>
+						<p>Students will receive a certificate of completion.</p>
+					</aside>
+
+				</div> <!-- /.col-md-4 -->
+				
+			</div> <!-- /.row -->
+		</section> <!-- /#culinary-nutrition -->		
+		</div>			
