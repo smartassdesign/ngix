@@ -40,13 +40,13 @@ Students will also gain an understanding of how specific diets and cooking techn
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=6747" rel="nofollow" data-product_id="6747" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=17040" rel="nofollow" data-product_id="17040" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>Mondays + Tuesdays: <br>6:00 pm &mdash; 10:00 pm<br>
-						February 1, 2016 &mdash; April 5, 2016</p>
+						<p>July 11, 2016 &mdash; July 22, 2016<br>
+						9:00 am &mdash; 4:00 pm<br></p>
 						<h5>Cost</h5>
-						<p>$6,495 / Deposit: $1,624</p>
+						<p>$5,500 / Deposit: $1,833</p>
 						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
 
 						<p>Students will receive a certificate of completion.</p>
