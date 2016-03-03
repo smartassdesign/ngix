@@ -154,6 +154,8 @@ Students will also gain an understanding of how specific diets and cooking techn
 						<li>Leave with a list of resources for next steps and an expanded network of food industry connections</li>
 					</ul>		
 
+					<p class="trailer"><a href="/request-info-food-entrepreneurship/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
+
 					<div class="well">
 						<p>The total cost of the program is $3,300. To register, submit the deposit payment of $1,100. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download the payment plan selection form.</p>
 
