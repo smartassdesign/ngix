@@ -7,6 +7,13 @@ function faculty_shortcode( $attr ) {
 }
 add_shortcode( 'faculty', 'faculty_shortcode' );
 
+function staff_shortcode( $attr ) {
+    ob_start();
+    get_template_part( 'quick/pg-staff' );
+    return ob_get_clean();
+}
+add_shortcode( 'staff', 'staff_shortcode' );
+
 function alumni_shortcode( $attr ) {
     ob_start();
     get_template_part( 'quick/pg-alumni' );

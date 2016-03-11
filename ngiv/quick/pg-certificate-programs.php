@@ -31,7 +31,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 					<p class="trailer"><a href="/request-info-food-therapy/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
 
 					<div class="well">
-						<p>To register for Food Therapy click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. There will be 1 additional payments of $4,871. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
+						<p>To register for Food Therapy click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
 
 						<p>Refund policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
 					</div> <!-- /.well -->					
