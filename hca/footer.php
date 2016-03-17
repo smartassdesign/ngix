@@ -2,6 +2,7 @@
 
 
 
+<div id="darkness"></div>
 
  <footer class="p-y-md">
 	<div class="container">
@@ -21,6 +22,7 @@
 			  <div class="cutbox">
              <p><a href="https://www.facebook.com/naturalgourmetinstitute" target="_blank"><i class="icon-facebook"></i></a> <a href="https://twitter.com/naturalgourmet" target="_blank"><i class="icon-twitter"></i></a> <a href="http://instagram.com/naturalgourmetinstitute" target="_blank"><i class="icon-instagram"></i></a><a href="http://www.pinterest.com/naturalgourmet/" target="_blank"><span class="icon-pinterest"></span></a><a href="http://www.linkedin.com/company/natural-gourmet-institute" target="_blank"><span class="icon-linkedin"></span></a></p>
              <p><a href="#mailingModal" data-toggle="modal" data-target="#mailingModal">Sign up for our Mailing List</a></p>
+             <p><a href="//www.iubenda.com/privacy-policy/337201" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script></p>
 			  </div>
         </div><!-- /.col-md-4 -->
 			</div> <!-- ./div-aligner -->

@@ -97,7 +97,7 @@ document.createElement('video');document.createElement('audio');document.createE
 
 <div id="the-dropper" class="dropper collapse">
 
-	
+	<?php get_template_part('layouts/dropper');  ?>
 
 </div> <!-- /.dropper -->
 
