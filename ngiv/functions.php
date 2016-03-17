@@ -405,3 +405,115 @@ function jk_woocommerce_quantity_input_args( $args, $product ) {
 
 
 
+// CONCEIVABLY SOLVING CAREER MANAGER PERMISSIONS ISSUE
+class JPB_User_Caps {
+  
+  // Add our filters
+  function JPB_User_Caps(){
+    add_filter( 'editable_roles', array(&$this, 'editable_roles'));
+    add_filter( 'map_meta_cap', array(&$this, 'map_meta_cap'),1,4);
+  }
+  // Remove 'Administrator' from the list of roles if the current user is not an admin
+  function editable_roles( $roles ){
+    global $blog_id;
+    
+    if( isset( $roles['administrator'] ) && !current_user_can('administrator') ){
+      unset( $roles['administrator']);
+    }
+    
+    return $roles;
+  }
+  // If someone is trying to edit or delete an admin and that user isn't an admin, don't allow it
+  function map_meta_cap( $caps, $cap, $user_id, $args ){
+    switch( $cap ){
+        case 'edit_user':
+        
+        case 'remove_user':
+           if( !isset($args[0]) )
+                break;
+            $other = new WP_User( absint($args[0]) );
+            if( $other->has_cap( 'administrator' ) ){
+                if(!current_user_can('administrator')){
+                    $caps[] = 'do_not_allow';
+                }
+            }
+            break;
+        case 'promote_user':
+            if( isset($args[0]) && $args[0] == $user_id )
+                break;
+            elseif( !isset($args[0]) )
+                $caps[] = 'do_not_allow';
+            $other = new WP_User( absint($args[0]) );
+            if( $other->has_cap( 'administrator' ) ){
+                if(!current_user_can('administrator')){
+                    $caps[] = 'do_not_allow';
+                }
+            }
+            break;
+        case 'delete_user':
+        case 'delete_users':
+            if( !isset($args[0]) )
+                break;
+            $other = new WP_User( absint($args[0]) );
+            if( $other->has_cap( 'administrator' ) ){
+                if(!current_user_can('administrator')){
+                    $caps[] = 'do_not_allow';
+                }
+            }
+            break;
+        default:
+            break;
+      }
+      return $caps;
+    }
+}
+add_action('admin_init', 'as_cap_edits');
+function as_cap_edits(){
+  $jpb_user_caps = new JPB_User_Caps();  
+}
+
+/*Hack WP Multisite to allow Editors to edit user accounts for their site*/
+function edit_perm_check() { //The mac_admin_users_cap function bleow has a flaw that allows edit access to all users if they change the user ID in the URL - this patches that bug
+  $screen = get_current_screen(); //get the relevant info for this page
+
+  global $current_user; //user doing the editing
+  get_currentuserinfo();
+
+  global $profileuser; //The person whose profile we are accessing
+  if($screen->base === 'user-edit' || $screen->base === 'user-edit-network') {    //make sure we care about this page
+    if (!is_super_admin($current_user->ID)) { //Skip all of this is the user is super admin.
+      //Next, check to see if the user being edited is a member of this blog AND check if the current user is a member of this blog
+      if (!(is_user_member_of_blog($profileuser->ID, get_current_blog_id()) && is_user_member_of_blog($current_user->ID, get_current_blog_id()))) {
+        wp_die( __( 'You do not have permission to edit this user.' ) );
+      } //end permission check
+    } //end Super admin check
+  }
+}
+add_filter( 'admin_head', 'edit_perm_check', 1, 4 );
+
+remove_all_filters( 'enable_edit_any_user_configuration' );
+add_filter( 'enable_edit_any_user_configuration', '__return_true'); // '__return_true' is a WordPress API function in wp-includes/functions.php
+
+function mc_admin_users_caps( $caps, $cap, $user_id, $args ){
+  foreach( $caps as $key => $capability ){
+    if( $capability != 'do_not_allow' )
+      continue;
+
+    switch( $cap ) {
+      case 'edit_user':
+      case 'edit_users':                  
+        $caps[$key] = 'edit_users';
+        break;
+      case 'delete_user':
+      case 'delete_users':
+        $caps[$key] = 'delete_users';
+        break;
+      case 'create_users':
+        $caps[$key] = $cap;
+        break;
+    }
+  }
+
+  return $caps;
+}
+add_filter( 'map_meta_cap', 'mc_admin_users_caps', 1, 4 );

@@ -95,6 +95,12 @@ document.createElement('video');document.createElement('audio');document.createE
 
 	</nav>
 
+<div id="the-dropper" class="dropper collapse">
+
+	
+
+</div> <!-- /.dropper -->
+
 
 <?php if ( is_front_page()) { ?>
 <div class="the-subnav bg-green hidden-md-down">

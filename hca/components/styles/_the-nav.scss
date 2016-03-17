@@ -167,3 +167,40 @@ div#navbar-mobile {
    @include upo(1px);
    margin-top: 10px;
 }
+
+
+
+
+
+
+
+// THE DROPPER
+
+#navbar {
+
+  li.dropdown {
+    position: inherit;
+  }
+
+  .dropdown-menu {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+
+
+}
+.dropper {
+  width: 100%;
+  height: 500px;
+  background: red;
+  position: relative;
+  top: 97px;
+  z-index: 2;
+  // top: 159px;
+}
+
+
+

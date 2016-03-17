@@ -94,7 +94,19 @@ add_filter('wp_nav_menu_items', 'add_search_form', 10, 2);
 
  function add_search_form($items, $args) {
           if( $args->theme_location == 'primary' )
-          $items .= '<a id="hamburger-icon" class="offcanvas-toggle" data-toggle="offcanvas" data-target="#sidemenu" data-canvas="body">  <span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></a>';
+          $items .= '<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item"><a data-toggle="collapse" href="#the-dropper">Dropper</a></li>
+
+      <li class="menu-item menu-item-type-post_type menu-item-object-page nav-item dropdown">
+       <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="#">Another action</a>
+      <a class="dropdown-item" href="#">Something else here</a>
+      </div>
+      <li>
+
+          
+        <a id="hamburger-icon" class="offcanvas-toggle" data-toggle="offcanvas" data-target="#sidemenu" data-canvas="body">  <span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></a>';
      return $items;
 }
 
