@@ -12,7 +12,7 @@
          </div> <!-- /.col-sm-4 -->
       </div> <!-- /.row -->
 
-		<div class="row">
+		<div class="row p-b-md">
 			<!-- <div class="div-aligner"> -->
 		  <div class="col-sm-6 footer-contact"> <!-- align-kid -->
             <p>48 W 21 Street, 2nd Floor, NYC 10010 <br>212 645 5170 <a href="mailto:info@nginyc.com">info@nginyc.com</a></p>

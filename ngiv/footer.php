@@ -38,14 +38,14 @@
 
 
 
-    <?php if (is_page( 4 )): ?>
+    <?php /* if (is_page( 4 )): ?>
 <script type="text/javascript">
     $(window).load(function(){
         $('#ngihcaModal').modal('show');
     });
 </script>
 
-<?php endif; ?>
+<?php endif; */ ?>
 
 
 
