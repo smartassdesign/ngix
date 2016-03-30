@@ -51,6 +51,14 @@ jQuery(document).ready(function($){
 </script>
 
 
+<script>
+jQuery(document).ready(function($){
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip('show')
+})
+});
+</script>
+
 
 <script>
     //Google Analytics

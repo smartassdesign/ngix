@@ -95,11 +95,13 @@ document.createElement('video');document.createElement('audio');document.createE
 
 	</nav>
 
-<div id="the-dropper" class="dropper collapse">
+<?php /* <div id="the-dropper" class="dropper collapse">
 
 	<?php get_template_part('layouts/dropper');  ?>
 
 </div> <!-- /.dropper -->
+
+*/ ?>
 
 
 <?php if ( is_front_page()) { ?>

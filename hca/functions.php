@@ -9,7 +9,13 @@
      wp_deregister_script('jquery');
      wp_register_script('jquery', "https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js", false, null);
      wp_enqueue_script('jquery');
+
+   wp_enqueue_script( 'tether', get_stylesheet_directory_uri() . '/assets/js/tether.min.js', array(), '1.1', true );
+
+
  }
+
+
 
 
  	add_action( 'wp_enqueue_scripts', 'hca_load_javascript_files' );
@@ -94,7 +100,7 @@ add_filter('wp_nav_menu_items', 'add_search_form', 10, 2);
 
  function add_search_form($items, $args) {
           if( $args->theme_location == 'primary' )
-          $items .= '<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item dropper-nav"><a class="droppable" data-toggle="collapse" href="#the-dropper">Recreational Courses + Dinners </span></a></li>
+          $items .= '<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item dropper-nav"><a class="droppable" data-toggle="tooltip" data-placement="bottom" href="http://naturalgourmetinstitute.com" title="For Certificate Programs, Recreational Classes and Friday Night Dinners, click to visit naturalgourmetinsitute.com." target="_blank">Recreational Courses + Dinners </a></li>
 
 
 

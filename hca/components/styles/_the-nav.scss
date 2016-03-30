@@ -170,15 +170,30 @@ div#navbar-mobile {
 
 
 
+// THE TOOLTIP
+
+.tooltip-inner {
+   font-size: 85%;
+   max-width: 250px;
+   padding: 10px;
+   background: $white;
+   color: $black;
+   box-shadow: -14px 10px 20px -8px rgba(0,0,0,0.45);
+}
 
 
+.tooltip.tooltip-bottom .tooltip-arrow, .tooltip.bs-tether-element-attached-top .tooltip-arrow {
+    top: -10px;
+    left: 50%;
+    margin-left: -15px;
+    border-width: 0 15px 15px;
+    border-bottom-color: #fff;
+}
 
-
-// THE DROPPER
 
 #navbar {
 
-  li.dropdown {
+  li.dropper-nav {
     position: inherit;
   }
 
@@ -186,139 +201,20 @@ div#navbar-mobile {
 
       a.droppable:after {
         // position: absolute;
-        font-size: 14px;
+        font-size: 10px;
         line-height: 1;
         // top: 19px;
         // right: 20px;
-        content: '\e608';
+        content: '\f08e';
         font-family: "icofont";
         font-style: normal;
         font-weight: normal;
         text-decoration: none;
+        padding-left: 4px;
       } 
-
-
-      a.droppable.collapsed:after {
-        // position: absolute;
-        font-size: 14px;
-        line-height: 1;
-        // top: 19px;
-        // right: 20px;
-        content: '\e607';
-        font-family: "icofont";
-        font-style: normal;
-        font-weight: normal;
-        text-decoration: none;
-      } 
-
-  .dropdown-menu {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    border: 0;
-  }
-
-  .dropdown:hover .dropdown-menu {
-    display: block;
-  }
-
-
-}
-.dropper {
-  width: 100%;
-  position: fixed;
-  top: 97px;
-  z-index: 2;
-  background: red;
-  // top: 159px;
 }
 
-#the-dropper {
-
-  a {
-    display: block;
-    color: $black;
-
-    .pc {
-      background: #f1f1f1;
-      transition: all .4s;
-
-      &:hover {
-        background: $green;
-      }
-    }
-
-    .cp {
-      background: url(../../..//hca/assets/img/nav-cp.jpg) no-repeat;
-    }
-
-    .fnd {
-      background: url(../../..//hca/assets/img/nav-fnd.jpg) no-repeat;
-
-        h2 {
-          color: $white;
-          text-shadow: 2px 2px 7px rgba(150, 150, 150, 0.5);
-        }
-      // background: #f1f1f1;
-      // transition: all .4s;
-
-      // &:hover {
-      //   background: $green;
-      // }
-    } 
-
-    .pc, .cp, .fnd {
-      background-size: cover;
-        filter: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale");
-        /* Firefox 10+, Firefox on Android */
-        -webkit-filter: grayscale(100%);
-        filter: grayscale(100%);
-        filter: gray;
-        /* IE 6-9 */
-        -moz-transition: all 0.4s ease-in;
-        -o-transition: all 0.4s ease-in;
-        -webkit-transition: all 0.4s ease-in;
-        transition: all 0.4s ease-in;   
-
-      &:hover {
-      filter: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='1 0 0 0 0, 0 1 0 0 0, 0 0 1 0 0, 0 0 0 1 0'/></filter></svg>#grayscale");
-      -webkit-filter: none;
-      filter: none;   
-
-        p {
-          opacity: 1;
-        }
-      }      
-    }       
-
-
-  }
-
-  // .cp {
-  //   border-left: 1px solid rgba(0,0,0,0.08);
-  //   border-right: 1px solid rgba(0,0,0,0.08);
-  // }
-
-  .cp, .pc, .fnd {
-    min-height: 400px;
-    background: $white;
-
-    h2 {
-      position: absolute;
-      bottom: 20px;
-      margin-bottom: 0;
-      font-size: 40px;
-    }
-
-    p {
-      margin: 20px;
-      opacity: 0;
-      transition: opacity .35s ease-in;
-      font-size: 24px;
-    }
-  }
-
-}
+// THE DROPPER
 
 
 
