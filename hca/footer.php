@@ -54,7 +54,7 @@ jQuery(document).ready(function($){
 <script>
 jQuery(document).ready(function($){
 $(function () {
-  $('[data-toggle="tooltip"]').tooltip('show')
+  $('[data-toggle="tooltip"]').tooltip()
 })
 });
 </script>

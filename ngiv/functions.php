@@ -9,15 +9,13 @@
      wp_deregister_script('jquery');
      wp_register_script('jquery', "https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js", false, null);
      wp_enqueue_script('jquery');
+   wp_enqueue_script( 'tether', get_stylesheet_directory_uri() . '/assets/js/tether.min.js', array(), '1.1', true );
+
  }
 
 
  	add_action( 'wp_enqueue_scripts', 'hca_load_javascript_files' );
  	function hca_load_javascript_files() {
-
-
-
-   wp_enqueue_script( 'tether', get_stylesheet_directory_uri() . '/assets/js/tether.min.js', array(), '1.1', true );
 
 
    wp_enqueue_script( 'global', get_stylesheet_directory_uri() . '/assets/js/global-min.js', array( 'jquery' ), '1.0', true );   
@@ -75,7 +73,13 @@ add_filter('wp_nav_menu_items', 'add_search_form', 10, 2);
 
  function add_search_form($items, $args) {
           if( $args->theme_location == 'primary' )
-          $items .= '<a id="hamburger-icon" class="offcanvas-toggle" data-toggle="offcanvas" data-target="#sidemenu" data-canvas="body">  <span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></a>';
+          $items .= '<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item dropper-nav"><a class="droppable" data-toggle="tooltip" data-placement="bottom" href="http://ngihca.edu" title="For Information About Professional Culinary Training, click to visit NGIHCA.edu." target="_blank">Chef’s Training </a></li>
+
+
+<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item"><a href="#"><span class="icon-wire-basket"></span></a></li>
+
+
+        <a id="hamburger-icon" class="offcanvas-toggle" data-toggle="offcanvas" data-target="#sidemenu" data-canvas="body">  <span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></a>';
      return $items;
 }
 

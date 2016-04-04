@@ -48,6 +48,14 @@
 <?php endif; */ ?>
 
 
+<script>
+jQuery(document).ready(function($){
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+});
+</script>
+
 
 <script>
     //Google Analytics

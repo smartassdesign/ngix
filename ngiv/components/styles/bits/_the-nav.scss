@@ -154,7 +154,17 @@ li.pushy-p {
    background-repeat: no-repeat;
    background-size: contain;
    margin-top: 7px;
+
    @include break-min($break-md) {
+    background: url(../../../../../assets/temp-ngi-k-52-2x.png);
+      height: 50px;
+      width: 219px;
+      background-repeat: no-repeat;
+      margin-top: 17px;
+      background-size: contain;
+   }
+
+   @include break-min($break-xl) {
       background: url(../../../../../assets/ngi-k-header-4171.png);
       height: 80px;
       width: 419px;
@@ -224,3 +234,56 @@ ul#menu-mobile li {
    @include upo(1px);
    margin-top: 10px;
 }
+
+
+
+
+
+// THE TOOLTIP
+
+.tooltip-inner {
+   font-size: 85%;
+   max-width: 250px;
+   padding: 10px;
+   background: $green;
+   color: $white;
+   box-shadow: -14px 10px 20px -8px rgba(0,0,0,0.45);
+}
+
+
+.tooltip.tooltip-bottom .tooltip-arrow, .tooltip.bs-tether-element-attached-top .tooltip-arrow {
+    top: -10px;
+    left: 50%;
+    margin-left: -15px;
+    border-width: 0 15px 15px;
+    border-bottom-color: $green;
+}
+
+.tooltip.in {
+  opacity: 1;
+}
+
+#navbar {
+
+  li.dropper-nav {
+    position: inherit;
+  }
+
+  
+
+      a.droppable:after {
+        // position: absolute;
+        font-size: 10px;
+        line-height: 1;
+        // top: 19px;
+        // right: 20px;
+        content: '\f08e';
+        font-family: "icofont";
+        font-style: normal;
+        font-weight: normal;
+        text-decoration: none;
+        padding-left: 4px;
+      } 
+}
+
+// THE DROPPER
