@@ -100,7 +100,7 @@ add_filter('wp_nav_menu_items', 'add_search_form', 10, 2);
 
  function add_search_form($items, $args) {
           if( $args->theme_location == 'primary' )
-          $items .= '<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item dropper-nav"><a class="droppable" data-toggle="tooltip" data-placement="bottom" href="http://naturalgourmetinstitute.com" title="For Certificate Programs, Recreational Classes and Friday Night Dinners, click to visit naturalgourmetinsitute.com." target="_blank">Recreational Courses + Dinners </a></li>
+          $items .= '<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item dropper-nav"><a class="droppable" data-toggle="tooltip" data-placement="bottom" href="http://naturalgourmetinstitute.com" title="For Certificate Programs, Recreational Classes and Friday Night Dinners, click to visit naturalgourmetinsitute.com" target="_blank">Recreational Courses + Events </a></li>
 
 
 
