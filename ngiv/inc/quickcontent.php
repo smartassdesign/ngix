@@ -53,3 +53,11 @@ function certificate_programs_shortcode( $attr ) {
     return ob_get_clean();
 }
 add_shortcode( 'certificate_programs', 'certificate_programs_shortcode' );
+
+
+function annemarie_shortcode( $attr ) {
+    ob_start();
+    get_template_part( 'quick/pg-annemarie' );
+    return ob_get_clean();
+}
+add_shortcode( 'annemarie', 'annemarie_shortcode' );
