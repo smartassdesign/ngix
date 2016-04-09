@@ -116,7 +116,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>July 25, 2016 &mdash; August 5, 2016 <br />
-						(No classes Saturay + Sunday <br />
+						(No classes Saturday + Sunday <br />
 						9am &mdash; 4pm<br />
 						</p>
 						<h5>Cost</h5>
