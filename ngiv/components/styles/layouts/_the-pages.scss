@@ -318,10 +318,54 @@ header {
 
 .page-remembering-annemarie-colbin {
 
+	.navbar-light .navbar-brand {
+		background: url(../../../../../assets/ngi-ko-header-4171-shadowed.png);
+	}
+
+	background: $white;
+
+	span.icon-ngi-mark {
+	font-size: 24px;
+    display: block;
+    margin: 50px 0;
+	}
+
+	.memoriam p {
+		color: $gray-darker;
+		opacity: .85;
+	}
+
+	div#navbar, a#minihamburger-icon {
+		display: none;
+	}
+
+	nav.navbar.navbar-light.bg-unverse.navbar-static-top {
+		background: transparent;
+		position: fixed;
+	}
+
+	.fixedimg {
+		height: 400px;
+		width: 100%;
+		position: relative;
+		background: url(/assets/remembering-annemarie-colbin.jpg) no-repeat center top;
+		background-size: cover;
+    	@include break-min($break-lg){ height: 100vh; width: 50%; position: fixed; }
+	}	
+
+	.bg-dark {
+		background: $gray-lighter;
+	}
+
   .quote {
 	// @include quote-bg;
 	position: relative;
 	margin-bottom: 100px;
+
+	p {
+		color: $gray-darker;
+		opacity: .85;
+	}
 
 	&:before {
 		position: absolute;
@@ -332,7 +376,7 @@ header {
 		height: 0;
 		border-style: solid;
 		border-width: 50px 50px 0 0;
-		border-color: $gray-darker transparent transparent transparent;
+		border-color: $gray-lighter transparent transparent transparent;
 	}
 
 	&:nth-child(odd) {
@@ -346,7 +390,7 @@ header {
 		height: 0;
 		border-style: solid;
 		border-width: 0 50px 50px 0;
-		border-color: transparent $gray-darker transparent transparent;
+		border-color: transparent $gray-lighter transparent transparent;
 		}
 	}
 
