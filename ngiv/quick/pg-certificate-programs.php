@@ -225,7 +225,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=17942" rel="nofollow" data-product_id="17942" data-product_sku="" class="btn btn-text">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=17942" rel="nofollow" data-product_id="17942" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<!-- <a href="/certificate-programs/?add-to-cart=765" rel="nofollow" data-product_id="765" data-product_sku="" class="btn btn-primary btn-block" rel="nofollow" data-product_id="765">Enroll</a> -->
 					<aside class="well">
 						<h5>Dates</h5>
