@@ -71,7 +71,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 					</header>
 
 					<!-- <h4>Overview</h4> -->
-					<p class="trailer">The Culinary Nutrition Certificate Program at Natural Gourmet Institute provides students with an in-depth understanding of nutrition theory. The program explores the science of nutrition, nutrition in the marketplace, trends, and specialized diets. Upon completion of the course, students will have learned how to incorporate the fundamentals of nutrition into their culinary perspective.</p>
+					<p class="trailer">The Culinary Nutrition 2-Week Certificate Program with Natural Gourmet Institute provides students with an in-depth and hands-on understanding of nutrition theory. The program explores the science of nutrition, nutrition in the marketplace, trends, and specialized diets through lecture and kitchen labs. Led by Kayleen St. John, MS RD, students will learn from expert guest speakers from the food, health, and nutrition fields! Upon completion of the course, students will have learned how to incorporate the fundamentals of nutrition into their culinary perspective.</p>
 						
 					<h4>Coursework</h4>
 						<b>Fundamentals in Nutrition</b>
@@ -104,18 +104,21 @@ Students will also gain an understanding of how specific diets and cooking techn
 					<div class="well">
 						<p>To register for Culinary Nutrition click enroll and submit the deposit payment. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download payment plan selection form. There will be 2 additional payments due on the first day of class and at the midpoint. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
 
+						<p>Refund and Cancellation Policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
+
 					</div> <!-- /.well -->	
 
 				</div> <!-- /.col-md-8 -->	
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=771" rel="nofollow" data-product_id="771" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=17940" rel="nofollow" data-product_id="17940" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>March 30, 2016 — May 25, 2016 <br />
-						6:30pm — 9:30pm<br />
-						Mondays + Wednesdays</p>
+						<p>July 25, 2016 &mdash; August 5, 2016 <br />
+						(No classes Saturay + Sunday <br />
+						9am &mdash; 4pm<br />
+						</p>
 						<h5>Cost</h5>
 						<p>$5,550 / Deposit: $1,833</p>						
 						<p>Students will receive a certificate of completion.</p>
@@ -179,6 +182,81 @@ Students will also gain an understanding of how specific diets and cooking techn
 			</div> <!-- /.row -->	
 	</section> <!-- /#food-entrepreneurship -->
 	</div>	
+
+
+
+
+
+
+
+
+		<div class="sub-pod">
+			<section id="sustainable-farming">
+			<img src ="/assets/ngi-certificate-sustainable-farming.jpg" alt="NGI Sustainable Farming Certificate Program" class="img-fluid trailer">
+
+			<div class="row">
+				<div class="col-md-8">
+					<header>	
+			      		<h2>Sustainable Farming Program</h2>
+					</header>
+
+					<!-- <h4>Overview</h4> -->
+					<p>Join Farm to Table expert, Chef Jay Weinstein, for a unique and hands-on experience in Natural Gourmet Institute’s Sustainable Farming program..</p>					
+
+
+
+					<p class="trailer">This program is held entirely in the field on partner farms including <a href="http://www.brooklyngrangefarm.com/" target="_blank">Brooklyn Grange</a>, <a href="http://www.mcenroeorganicfarm.com/" target="_blank">McEnroe Organic Farm</a>, <a href="http://www.grownyc.org/" target="_blank">GrowNYC</a>, <a href="http://www.greenmarketco.org/" target="_blank">Greenmarket Co.</a>, and others.  Students will work side-by-side with seasoned farmers to learn first-hand about topics like soil health, organic farming techniques, sustainable animal husbandry and so much more! This program is ideal for anyone interested in creating bountiful edible gardens, learning more about our local food system and how to source food in sustainable and responsible ways!</p>		
+
+					<p>Upon completing this program, students will achieve a thorough understanding of organic farming, composting, the “locavore” movement, and the relationship between cooks and local farmers.</p>
+
+					<h4>Schedule</h4>
+					<p>Thursday, 8/11: <strong>Brooklyn Grange</strong></p>
+					<p>Friday, 8/12: <strong>Brooklyn Grange</strong></p>
+					<p>Saturday, 8/13: <strong>McEnroe Farm</strong></p>
+					<p>Sunday, 8/14: <strong>Farm visit, upstate New York</strong></p>
+					<p>Monday, 8/15: <strong>Union Square Greenmarket and Distribution Center</strong></p>
+					
+					<div class="well"><p>Refund policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student. </p></div>
+
+					<p class="trailer"><a href="/request-info-sustainable-farming/" class="btn-text">Request Info</a></p>
+
+
+				</div> <!-- /.col-md-8 -->	
+
+					
+				<div class="col-md-4">
+					<a href="/certificate-programs/?add-to-cart=17942" rel="nofollow" data-product_id="17942" data-product_sku="" class="btn btn-text">Enroll</a>
+					<!-- <a href="/certificate-programs/?add-to-cart=765" rel="nofollow" data-product_id="765" data-product_sku="" class="btn btn-primary btn-block" rel="nofollow" data-product_id="765">Enroll</a> -->
+					<aside class="well">
+						<h5>Dates</h5>
+						<p>Thursday &mdash; Monday<br />
+						August 11, 2016 &mdash; August 15, 2016<br />
+						8am &mdash; 4pm</p>
+						<h5>Cost</h5>
+						<p>$1,800 / Deposit: $600</p>
+						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
+
+						<p>Students will receive a certificate of completion.</p>
+
+					</aside> <!-- /.well -->
+				</div> <!-- /.col-md-4 -->
+				
+			</div> <!-- /.row -->
+		</section> <!-- /#sustainable-farming -->
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 	<div class="sub-pod">
 		<section id="food-media">
 
