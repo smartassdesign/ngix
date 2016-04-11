@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a>, <a href="#culinary-nutrition">Culinary Nutrition</a> (<a href="#culinary-nutrition-la">now also in Los Angeles</a>), <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-entrepreneurship">Food Entrepreneurship</a> and <a href="#food-media">Writing for Food Media</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-entrepreneurship">Food Entrepreneurship</a> and <a href="#food-media">Writing for Food Media</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 <div class="sub-pod">
 		<section id="food-therapy">
@@ -102,7 +102,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 						<p class="trailer"><a href="/request-info-culinary-nutrition/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
 
 					<div class="well">
-						<p>To register for Culinary Nutrition click enroll and submit the deposit payment. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download payment plan selection form. There will be 2 additional payments due on the first day of class and at the midpoint. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
+						<p>To register for Culinary Nutrition click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
 
 						<p>Refund and Cancellation Policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
 
@@ -129,6 +129,8 @@ Students will also gain an understanding of how specific diets and cooking techn
 			</div> <!-- /.row -->
 		</section> <!-- /#culinary-nutrition -->		
 		</div>			
+
+
 		<div class="sub-pod">
 	<section id="food-entrepreneurship">
 			<img src ="/assets/food-entrepreneurship.jpg" alt="NGI Food Entrepreneurship Bootcamp" class="img-fluid trailer">
@@ -169,7 +171,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 					
 				<div class="col-md-4">
 
-					<a href="/certificate-programs/?add-to-cart=16138" rel="nofollow" data-product_id="16138" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=16138" rel="nofollow" data-product_id="16138" data-product_sku="" class="btn btn-primary btn-block">In Session</a>
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>Wednesdays: 6:30pm &mdash; 9:30pm*<br>
@@ -216,7 +218,10 @@ Students will also gain an understanding of how specific diets and cooking techn
 					<p>Sunday, 8/14: <strong>Farm visit, upstate New York</strong></p>
 					<p>Monday, 8/15: <strong>Union Square Greenmarket and Distribution Center</strong></p>
 					
-					<div class="well"><p>Refund policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student. </p></div>
+					<div class="well">
+					<p>To register for Sustainable Farming click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
+
+					<p>Refund policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student. </p></div>
 
 					<p class="trailer"><a href="/request-info-sustainable-farming/" class="btn-text">Request Info</a></p>
 
@@ -311,7 +316,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 
 
 
-
+<?php /*
 		<div class="sub-pod">
 			<section id="culinary-nutrition-la">
 			<img src ="/assets/NGI-Culinary-Nutrition-LA.jpg" alt="NGI Culinary Nutrition Certificate Program Los Angeles" class="img-fluid trailer">
@@ -357,9 +362,10 @@ Students will also gain an understanding of how specific diets and cooking techn
 						<p class="trailer"><a href="/request-info-culinary-nutrition-la/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
 
 					<div class="well">
-						<p>To register for Culinary Nutrition click enroll and submit the deposit payment. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download payment plan selection form. There will be 2 additional payments due on the first day of class and at the midpoint. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
+						<p>To register for Culinary Nutrition click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
 
 						<p>Refund policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
+
 					</div> <!-- /.well -->	
 
 				</div> <!-- /.col-md-8 -->	
@@ -381,3 +387,6 @@ Students will also gain an understanding of how specific diets and cooking techn
 			</div> <!-- /.row -->
 		</section> <!-- /#culinary-nutrition -->		
 		</div>			
+
+
+*/ ?>
