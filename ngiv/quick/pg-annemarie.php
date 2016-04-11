@@ -7,14 +7,21 @@
 		<div class="col-lg-6 col-lg-offset-6">
 
 <div class="p-x-2">
-<div class="text-xs-center m-y-3">
+<div class="amc-parlor">
+<div class="text-xs-center p-y-2">
 	<h1 class="large">Remembering Annemarie Colbin</h1>
 	<h4>Founder of the Natural Gourmet Institute</h4>
 	<h4>1941-2015</h4>
-	<span class="icon-ngi-mark"></span>
-</div>	
 
-<div class="memoriam">
+	<p><a class="btn-text" href="#amc-memoriam">A Memorial</a>&emsp;/&emsp;
+	<a class="btn-text" href="#amc-quotes">Your Quotes</a>&emsp;/&emsp;
+	<a class="btn-text" href="#amc-video">A Video Tribute</a></p>
+</div>	
+<!-- &#124; -->
+</div> <!-- /.amc-parlor -->
+
+<div class="memoriam" id="amc-memoriam">
+<div class="text-xs-center"><span class="icon-ngi-mark"></span></div>
 <p>Annemarie Colbin, Ph.D. was a visionary – an industry leader in the conversation of “food as medicine” long before the rest of the world caught on. She founded Natural Gourmet Institute in her Upper West Side apartment, teaching health-supportive culinary techniques to just half a dozen students. Today, NGI is the leader in health-supportive culinary education, having graduated over 2,600 chefs from over 45 countries to date. In addition to founding the Natural Gourmet Institute, she authored many books, including <em>The Book of Whole Meals, Food and Healing, The Natural Gourmet,</em> and <em>The Whole Food Guide to Strong Bones.</em></p>
 
 <p>Though Dr. Colbin is greatly missed, NGI’s philosophy continues to be grounded in her Seven Principles of Food Selection, which state that food should be: seasonal, local, whole, traditional, balanced, fresh and delicious. Her teachings and beliefs continue to empower food professionals and enthusiasts to be leaders in the conversation of food and health.</p>
@@ -22,7 +29,8 @@
 <p>We will always remember Dr. Colbin as a leader, a teacher, a mother, a friend, and a role model for generations of change agents. Her legacy will live on through the work of everyone whose path she inspired.</p>
 </div>
 
-
+<div id="amc-quotes">
+<div class="text-xs-center"><span class="icon-ngi-mark"></span></div>
 <div class="quote bg-dark p-a-2">
 	<p>I'm forever grateful that Annemarie founded Natural Gourmet Institute because there was nothing like it when I attended the Chef’s Training Program in 1992. Annemarie was a true pioneer in the health field. She taught us that what we eat significantly affects our physical, mental and spiritual well-being. No other culinary school connects food and healing. Annemarie was such an inspiration with her wonderful sense of humor and heart full of compassion. She always greeted me with a warm smile and a hug, and knew exactly how to help guide me with stories from her own experiences.</p>
 	<p class="text-xs-right attro">&mdash; Lisa Stimmer</p>
@@ -68,6 +76,7 @@
 	<p>I am grateful to have encountered Annemarie Colbin's Food and Healing at a time when I was trying to understand why my students in an urban middle school were experiencing the devastating impact of a processed foods diet. Grateful to have had the opportunity to share a meal with Annemarie during a dynamite Friday night dinner at NGI. And grateful to know she has touched countless lives and inspired generations of food lovers committed to cooking for a healthier future.</p>
 	<p class="text-xs-right attro">&mdash; Adam Aronovitz</p>
 </div>
+</div> <!-- /#amc-quotes -->
 
 </div> <!-- /.p-x-2 -->
 </div> <!-- /.col-md-6 -->
@@ -75,7 +84,7 @@
 </div> <!-- /.container -->
 
    
-<div class="am-video">
+<div class="am-video" id="amc-video">
    <div class="embed-responsive embed-responsive-16by9">
       <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/teSi-acxu_M?rel=0&amp;controls=1&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
    </div> <!-- /.embed-responsive -->

@@ -318,9 +318,22 @@ header {
 
 .page-remembering-annemarie-colbin {
 
+	.amc-parlor {
+    	// background: red;
+    	
+    	@include break-min($break-lg){	
+    		height: 100vh;
+    		display: flex;
+    		align-items: center;	
+    	}
+	}
+
+	
 	.navbar-light .navbar-brand {
-		background: url(../../../../../assets/ngi-ko-header-4171-shadowed.png);
-		background-repeat: no-repeat;
+		@include break-min($break-xl) {
+			background: url(../../../../../assets/ngi-ko-header-4171-shadowed.png);
+			background-repeat: no-repeat;
+		}
 	}
 
 	background: $white;

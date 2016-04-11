@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#culinary-nutrition-la">Culinary Nutrition Los Angeles</a>, <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#raw-and-living"> Raw and Living Foods</a>, <a href="#food-entrepreneurship">Food Entrepreneurship</a> and <a href="#food-media">Writing for Food Media</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a>, <a href="#culinary-nutrition">Culinary Nutrition</a> (<a href="#culinary-nutrition-la">now also in Los Angeles</a>), <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-entrepreneurship">Food Entrepreneurship</a> and <a href="#food-media">Writing for Food Media</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 <div class="sub-pod">
 		<section id="food-therapy">
@@ -116,7 +116,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>July 25, 2016 &mdash; August 5, 2016 <br />
-						(No classes Saturday + Sunday <br />
+						(No classes Saturday + Sunday)<br />
 						9am &mdash; 4pm<br />
 						</p>
 						<h5>Cost</h5>
@@ -201,11 +201,11 @@ Students will also gain an understanding of how specific diets and cooking techn
 					</header>
 
 					<!-- <h4>Overview</h4> -->
-					<p>Join Farm to Table expert, Chef Jay Weinstein, for a unique and hands-on experience in Natural Gourmet Institute’s Sustainable Farming program..</p>					
+					<p>Join Farm to Table expert, Chef Jay Weinstein, for a unique and hands-on experience in Natural Gourmet Institute’s Sustainable Farming program.</p>					
 
 
 
-					<p class="trailer">This program is held entirely in the field on partner farms including <a href="http://www.brooklyngrangefarm.com/" target="_blank">Brooklyn Grange</a>, <a href="http://www.mcenroeorganicfarm.com/" target="_blank">McEnroe Organic Farm</a>, <a href="http://www.grownyc.org/" target="_blank">GrowNYC</a>, <a href="http://www.greenmarketco.org/" target="_blank">Greenmarket Co.</a>, and others.  Students will work side-by-side with seasoned farmers to learn first-hand about topics like soil health, organic farming techniques, sustainable animal husbandry and so much more! This program is ideal for anyone interested in creating bountiful edible gardens, learning more about our local food system and how to source food in sustainable and responsible ways!</p>		
+					<p class="trailer">This program is held entirely in the field on partner farms including <a href="http://www.brooklyngrangefarm.com/" target="_blank">Brooklyn Grange</a>, <a href="http://www.mcenroeorganicfarm.com/" target="_blank">McEnroe Organic Farm</a>, <a href="http://www.grownyc.org/" target="_blank">GrowNYC</a>, <a href="http://www.greenmarketco.org/" target="_blank">Greenmarket Co.</a>, and others.  Students will work side-by-side with seasoned farmers to learn first-hand about topics like soil health, organic farming techniques, sustainable animal husbandry and so much more! This program is ideal for anyone interested in creating bountiful edible gardens, learning more about our local food system and how to source food in sustainable and responsible ways.</p>		
 
 					<p>Upon completing this program, students will achieve a thorough understanding of organic farming, composting, the “locavore” movement, and the relationship between cooks and local farmers.</p>
 
