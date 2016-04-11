@@ -71,7 +71,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 					</header>
 
 					<!-- <h4>Overview</h4> -->
-					<p class="trailer">The Culinary Nutrition 2-Week Certificate Program with Natural Gourmet Institute provides students with an in-depth and hands-on understanding of nutrition theory. The program explores the science of nutrition, nutrition in the marketplace, trends, and specialized diets through lecture and kitchen labs. Led by Kayleen St. John, MS RD, students will learn from expert guest speakers from the food, health, and nutrition fields! Upon completion of the course, students will have learned how to incorporate the fundamentals of nutrition into their culinary perspective.</p>
+					<p class="trailer">The Culinary Nutrition 2-Week Certificate Program with Natural Gourmet Institute provides students with an in-depth and hands-on understanding of nutrition theory. The program explores the science of nutrition, nutrition in the marketplace, trends, and specialized diets through lecture and kitchen labs. Led by Kayleen St. John, MS RD, and Laura Rosenberg MS RD, students will learn from expert guest speakers from the food, health, and nutrition fields! Upon completion of the course, students will have learned how to incorporate the fundamentals of nutrition into their culinary perspective.</p>
 						
 					<h4>Coursework</h4>
 						<b>Fundamentals in Nutrition</b>
