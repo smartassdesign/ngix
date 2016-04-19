@@ -14,7 +14,7 @@
 					<!-- <h4>Overview</h4> -->
 					<p class="trailer">It is no secret that proper nourishment can be a powerful aid to the healing process. In the Food Therapy Certificate Program, students will learn about whole systems biology, core nutritional imbalances, and how to translate a dietary prescription into practical meal planning and preparation. 
 
-Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Taught by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions. 
+Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Taught by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions. The program will be taught by NGI faculty Chef Celine Beitchman and Chef Elliott Prag.
 </p>
 
 					<h4>Coursework</h4>
@@ -40,7 +40,7 @@ Students will also gain an understanding of how specific diets and cooking techn
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=17040" rel="nofollow" data-product_id="17040" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=17040" rel="nofollow" data-product_id="17040" data-product_sku="" class="btn btn-primary btn-block disabled">Currently Full</a>
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>July 11, 2016 &mdash; July 22, 2016<br>
@@ -50,6 +50,8 @@ Students will also gain an understanding of how specific diets and cooking techn
 						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
 
 						<p>Students will receive a certificate of completion.</p>
+
+						<p><strong>The July 2016 Food Therapy summer program is currently fully enrolled. If you would like to be added to the wait list, please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> with your full name and contact number. Available places will be filled on a first come first served basis.</strong></p>
 
 					</aside> <!-- /.well -->
 				</div> <!-- /.col-md-4 -->
