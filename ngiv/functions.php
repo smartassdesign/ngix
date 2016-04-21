@@ -76,7 +76,7 @@ add_filter('wp_nav_menu_items', 'add_search_form', 10, 2);
           $items .= '<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item dropper-nav"><a class="droppable" data-toggle="tooltip" data-placement="bottom" href="http://ngihca.edu" title="For Information About Professional Culinary Training, click to visit NGIHCA.edu" target="_blank">Professional Training </a></li>
 
 
-<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item"><a href="#"><span class="icon-wire-basket"></span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item"><a href="/cart"><span class="icon-wire-basket"></span></a></li>
 
 
         <a id="hamburger-icon" class="offcanvas-toggle" data-toggle="offcanvas" data-target="#sidemenu" data-canvas="body">  <span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></a>';
