@@ -2,13 +2,13 @@
 
 <div class="container">
 	<div class="row">
-		<div class="col-md-4 trailer hidden-sm">
+		<div class="col-md-4 trailer hidden-sm contact-info">
 			<h4>The Institute</h4>
 			<p>48 West 21st Street, 2nd Floor<br>
 			New York, NY 10010<br>
 			<a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#105;&#110;&#102;&#111;&#064;&#110;&#103;&#105;&#110;&#121;&#099;&#046;&#099;&#111;&#109;">&#105;&#110;&#102;&#111;&#064;&#110;&#103;&#105;&#110;&#121;&#099;&#046;&#099;&#111;&#109;</a><br>
-			Phone: +212 645 5170<br>
-			Fax: +212 989 1493<br></p>
+			Phone: <a href="tel://1-212-645-5170">+212 645 5170</a><br>
+			Fax: <a href="tel://1-212-989-1493">+212 989 1493</a><br></p>
 			<p><a href="https://www.google.com/maps/dir//Natural+Gourmet+Institute,+48+W+21st+St+%232,+New+York,+NY+10010" target="_blank" class="btn-text">Get directions <span class="icon-arrow-right"></span></a></p>
 		</div> <!-- /col-md-4 -->
 	

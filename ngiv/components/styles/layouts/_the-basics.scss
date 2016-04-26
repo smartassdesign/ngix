@@ -51,6 +51,20 @@
   @include break-min($break-sm){ height: 400px;  }
 }
 
+.page-contact {
+  .contact-info a {
+    color: $gray-darker;
+
+    &:hover {
+      color: $brand-primary;
+    }
+
+  }
+
+}
+
+
+
 //$CTP
 
 #chefs-training-program {

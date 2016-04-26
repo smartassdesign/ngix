@@ -11,11 +11,10 @@
 			      		<h2>Food Therapy</h2>
 					</header>
 
-					<!-- <h4>Overview</h4> -->
-					<p class="trailer">It is no secret that proper nourishment can be a powerful aid to the healing process. In the Food Therapy Certificate Program, students will learn about whole systems biology, core nutritional imbalances, and how to translate a dietary prescription into practical meal planning and preparation. 
 
-Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Taught by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions. The program will be taught by NGI faculty Chef Celine Beitchman and Chef Elliott Prag.
-</p>
+					<p class="trailer">It is no secret that proper nourishment can be a powerful aid to the healing process. In the Food Therapy Certificate Program, students will learn about whole systems biology, core nutritional imbalances, and how to translate a dietary prescription into practical meal planning and preparation. Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Led by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions.</p>
+
+					<p>The program will be taught by NGI faculty Chef Celine Beitchman and Chef Elliott Prag. Celine is a member of NYC Nutrition Educators Network and is currently working toward her MS in Nutrition &amp; Health Behavior Education at Maryland University of Integrative Health. Elliott is the Curriculum Development Manager at NGI. A graduate of our Chef’s Training Program, Elliott opened the first health-supportive restaurant in Sofia, Bulgaria. He is a frequent contributor to <em>Vegetarian Times</em> and an expert in bread baking.</p>
 
 					<h4>Coursework</h4>
 					<ul><li> Exploring the differences between "illness" and "disease"</li>
