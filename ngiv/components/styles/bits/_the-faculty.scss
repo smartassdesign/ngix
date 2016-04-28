@@ -1,0 +1,113 @@
+// Staff
+
+#staff {
+  dt {
+    font-size: $xero;
+    font-weight: 400;
+  }
+
+  dd {
+    margin-bottom: 15px;
+    font-size: $micro;
+    @include upo(1px);
+  }
+
+  .nj, .no-nj {
+    line-height: 0;
+  }
+
+  .staff-title { 
+    font-weight: 500;
+    margin-top: $pad;
+    font-size: 18px;
+    margin-bottom: 0!important;
+    padding-bottom: 0!important;
+    line-height: 1;
+    &.no-leader {
+      margin-top: 0;
+    }
+  }
+
+}
+
+.ngi-team {
+  background-color: #fff;
+  overflow: hidden;
+  margin-bottom: 30px;
+
+  .ngi-team-inner {
+    overflow: hidden;
+    width: 100%;
+  }
+
+  .ngi-team-image {
+    position: relative;
+
+    img {
+      width: 100%;
+      vertical-align: middle;
+    }
+  }
+
+  .ngi-team-description-wrapper {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.95);
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    cursor: default;
+  }
+
+  .ngi-team-image:hover .ngi-team-description-wrapper {
+    @include break-min($break-md){ opacity: 1; }
+  }
+
+  .ngi-team-description {
+    display: table;
+    width: 100%;
+    height: 100%;
+  }
+
+  .ngi-team-description-inner {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    padding: 0 50px;
+
+    p {
+      font-size: $mini;
+    }
+  }
+
+  .ngi-team-text {
+    padding: 23px 16px 23px;
+  }
+
+  .ngi-team-title-holder {
+    margin: 0 0 9px;
+    text-align: center;
+    font-size: $mini;
+
+    .ngi-team-name {
+      font-size: $mini;
+      margin-bottom: 7px;
+      margin-top: 0;
+    }
+  }
+
+  .ngi-team-text-inner .separator {
+    background-color: $brand-primary;
+    margin-bottom: 16px !important;
+  }
+
+  .separator {
+    position: relative;
+    display: block;
+    background-color: $brand-primary;
+    margin: 10px auto 20px auto;
+    height: 2px;
+    width: 22px;
+  }
+}
