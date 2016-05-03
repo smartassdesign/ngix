@@ -525,3 +525,11 @@ function mc_admin_users_caps( $caps, $cap, $user_id, $args ){
   return $caps;
 }
 add_filter( 'map_meta_cap', 'mc_admin_users_caps', 1, 4 );
+
+
+
+
+
+remove_action( 'admin_notices', 'ignitewoo_updater_notice' );
+
+
