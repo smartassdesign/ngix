@@ -59,7 +59,7 @@ ob_start();
 
 					do_action( 'wootickets_tickets_after_quantity_input', $ticket, $product );
 				} else {
-					echo '<span class="tickets_nostock">' . esc_html__( 'Sorry, this class is full! Please click the button below to be added to the waitlist.', 'event-tickets-plus' ) . '</span>' . '<a class="btn btn-primary btn-block enabled" href="mailto:classes@nginyc.com">Join Waitlist</a>';
+					echo '<span class="tickets_nostock">' . esc_html__( 'Sorry, this class is full! Please click the button below to be added to the waitlist.', 'event-tickets-plus' ) . '</span>' . '<a class="btn btn-primary btn-block enabled" href="mailto:info@nginyc.com">Join Waitlist</a>';
 				}
 				echo '</td>';
 
