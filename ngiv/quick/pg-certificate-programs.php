@@ -313,7 +313,7 @@
 
 					
 				<div class="col-md-4">
-					<a href="/request-info-writing-for-food-media/" class="btn btn-primary btn-block">Request Info</a>
+					<a href="/certificate-programs/?add-to-cart=772" rel="nofollow" data-product_id="772" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>Monday, 9/12: 6:30pm &mdash; 10pm<br/>
