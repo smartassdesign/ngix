@@ -311,3 +311,25 @@ header {
       background: rgba(0,0,0,0.25);
    }
 }
+
+
+
+
+
+
+// FAQs
+
+.page-faq {
+
+  p.q, p+p.q {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: 600;    
+  }
+
+
+
+
+
+}
