@@ -301,10 +301,10 @@
 					<li>Getting a cookbook deal</li>
 					<li>Bridge jobs and other ways to support your career</li></ul>
 
-					<p class="trailer"><a href="/request-info-writing-for-food-media/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
+					<p class="trailer"><a href="/request-info-writing-food-blogging/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
 
 					<div class="well">
-						<p>To register for Food Blogging Certificate Program click enroll and submit the deposit payment. Once your deposit is received your place on the roster will be held for 1 week.  You will receive an email confirmation and link to download payment plan selection form. There will be 2 additional payments of $1,914 (includes a 6% interest fee) due on the first day of class and at the midpoint. To confirm your place in the class	 and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
+						<p>To register for Food Blogging Certificate Program click enroll and submit the deposit payment. Once your deposit is received your place on the roster will be held for 1 week.  You will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
 
 						<p>Refund policy: Students completing less than 50% of the coursework will receive a refund based on the number of course hours completed less the deposit, which is nonrefundable 2 weeks prior to your start date.  Students completing more than 50% of the program are not eligible for a refund.</p>
 					</div> <!-- /.well -->					
@@ -313,7 +313,7 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=772" rel="nofollow" data-product_id="772" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=19774" rel="nofollow" data-product_id="19774" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>Monday, 9/12: 6:30pm &mdash; 10pm<br/>
