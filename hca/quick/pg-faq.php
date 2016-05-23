@@ -3,106 +3,74 @@
 
 		<h2>Professional Chef's Training Program FAQ’s</h2>
 
-		<div class="panel-group" id="faq-group">
+<?php echo do_shortcode('[collapsibles]')?>
+<?php echo do_shortcode('[collapse title="Are there vacation days and holidays?"
+There are no classes on federal holidays and the week between Christmas and New Year’s, in addition to a few other holidays throughout the year. <a href="/assets/NGIHCA-2016-2017-Holidays.pdf">Click here</a> for the full list of holidays.]')?><?php echo do_shortcode('[/collapse]')?>
 
-			<div class="panel">
-				<div class="panel-heading">
-					<h4><a data-toggle="collapse" data-target="#payment-plans" data-parent="#faq-group" class="panel-plus collapsed">Does NGIHCA offer payment plans?</a></h4>
-						<div id="payment-plans" class="collapse panel-collapse">
-							<div class="panel-body">
-								<p class="lede">Yes, NGIHCA offers payment plans for both full- and part-time programs. <a href="/assets/NGIHCA-2016-2017-payment-plans">Click here</a> for details on the payment plans (link to PDF).</p>
-							</div> <!-- /.panel-body -->
-						</div> <!-- /#payment-plans -->
-			</div> <!-- /.panel -->
+<?php echo do_shortcode('[collapse title="How many students are in a class?"]')?>
+There is a maximum of 16 students per class. <?php echo do_shortcode('[/collapse]')?>
 
+<?php echo do_shortcode('[collapse title="Is the program exclusively vegan or vegetarian?"
+While the program is mostly plant-based, we do work with specific animal proteins including dairy, eggs, poultry, finfish and shellfish. Students who do not eat these items (or any others) may choose not to taste or handle these ingredients without penalty, but will be responsible for any information shared in the class.]')?><?php echo do_shortcode('[/collapse]')?> 
 
-			<div class="panel">
-				<div class="panel-heading">
-					<h4><a data-toggle="collapse" data-target="#student-loans" data-parent="#faq-group" class="panel-plus collapsed">Does NGIHCA accept student loans?</a></h4>
-						<div id="student-loans" class="collapse panel-collapse">
-							<div class="panel-body">
-								<p class="lede">Yes, NGIHCA accepts Sallie Mae smart option student loans and Tuition Flex student loans.  Students can apply for Sallie Mae loans directly by visiting the <a href="https://www.salliemae.com/student-loans/career-training-smart-option-student-loan/" target="_blank">Sallie Mae website</a>. Students are encouraged to apply with a co-signer for more favorable rates and terms.</p>
-								<p>Students wishing to learn more about Tuition Flex may contact <a href="mailto:admissions@nginyc.com">admissions@nginyc.com</a> for more information on loan eligibility and requirements. </p>
-							</div> <!-- /.panel-body -->
-						</div> <!-- /#student-loans -->
-			</div> <!-- /.panel -->
+<?php echo do_shortcode('[collapse title="Do students have to do an internship to graduate?"
+Yes, all students must complete their internship in a professional kitchen in New York State and submit all required paperwork before the program end date in order to graduate.]')?><?php echo do_shortcode('[/collapse]')?>
 
-			<div class="panel">
-				<div class="panel-heading">
-					<h4><a data-toggle="collapse" data-target="#gi-bill" data-parent="#faq-group" class="panel-plus collapsed">Does NGIHCA accept the Post 9/11 GI Bill?</a></h4>
-						<div id="gi-bill" class="collapse panel-collapse">
-							<div class="panel-body">
-								<p class="lede">Yes, NGIHCA accepts Post 9/11 GI Bill benefits and offers military students a $5,000 tuition waiver. Please contact <a href="mailto:admissions@nginyc.com">admissions@nginyc.com</a> for more information.</p>
-							</div> <!-- /.panel-body -->
-						</div> <!-- /#gi-bill -->
-			</div> <!-- /.panel -->
+<?php echo do_shortcode('[collapse title="What credential do students receive at the end of the program?"]')?>
+Students who meet the requirements for graduation will receive a Diploma in Culinary Arts. <?php echo do_shortcode('[/collapse]')?>
 
-			<div class="panel">
-				<div class="panel-heading">
-					<h4><a data-toggle="collapse" data-target="#when-to-apply" data-parent="#faq-group" class="panel-plus collapsed">When should students apply for my program?</a></h4>
-						<div id="when-to-apply" class="collapse panel-collapse">
-							<div class="panel-body">
-								<p class="lede">Enrollment is done on a rolling basis and students are encouraged to submit their completed applications as early as possible for the best chance of acceptance into the program of their choice as classes are limited to only 16 students. Applicants will hear back from admissions 2 weeks after they have applied.</p>
-							</div> <!-- /.panel-body -->
-						</div> <!-- /#when-to-apply -->
-			</div> <!-- /.panel -->
+<?php echo do_shortcode('[collapse title="Is NGIHCA accredited and licensed?"]')?>
+Yes, NGIHCA is accredited by ACCET. For more information, visit <a href="http://ACCET.org" target="_blank">http://ACCET.org</a>. The school is licensed by the New York State Education Department’s Bureau of Proprietary (Career Training) School Supervision (NYSED BPSS). To learn more about NYSED BPSS visit nysed.gov.<?php echo do_shortcode('[/collapse]')?> 
+
+<?php echo do_shortcode('[collapse title="Does NGIHCA offer distance or online classes?"]')?>
+At this time, all programing is offered on-site in New York City only. <?php echo do_shortcode('[/collapse]')?>
+
+<?php echo do_shortcode('[collapse title="What happens if a student needs to take time out of classes?"]')?>
+Students may make up classes according to the class make-up policy. Students needing an extended leave may request a leave of absence from the Senior Director of Chef’s Training and Student Affairs. <?php echo do_shortcode('[/collapse]')?>
+
+<?php echo do_shortcode('[collapse title="What do students do after the program?"]')?>
+Students generally follow three career paths: private chefs, restaurant cooks/chefs, food entrepreneurs.  Some other paths include food media and writing, education, policy and advocacy, and health coaching. You can learn more about our alumni by visiting <a href="https://www.ngihca.edu/alumni">www.ngihca.edu/alumni</a>.<?php echo do_shortcode('[/collapse]')?>
+
+<?php echo do_shortcode('[collapse title="Does NGIHCA have career services?"]')?>
+Yes, students may meet with our Career Services manager at any time during the program or after graduation. Graduates have lifetime access to our alumni-only online job boards where restaurants, caterers, private chef clients, and more post job listings to hire graduates of the Chef’s Training Program.<?php echo do_shortcode('[/collapse]')?>
+
+<?php echo do_shortcode('[collapse title="Is student housing offered?"]')?>
+NGIHCA provides a list of <a href="/assets/NGIHCA-housing-suggestions.pdf">housing resources and recommendations</a> and will connect enrolled students with their classmates to make housing connections.<?php echo do_shortcode('[/collapse]')?>
+
+<?php echo do_shortcode('[collapse title="Does NGIHCA accept international students?"]')?>
+Yes, NGIHCA accepts international students for the full-time Chef’s Training Program who are eligible for M1 visas. In some cases, international students may enroll in the program on an existing visa such as a spousal visa. <a href="/assets/NGIHCA-international-student.pdf">Click here</a> for more information about applying to NGIHCA as an international student.<?php echo do_shortcode('[/collapse]')?>
+
+[/collapsibles]
 
 
-			<div class="panel">
-				<div class="panel-heading">
-					<h4><a data-toggle="collapse" data-target="#how-to-apply" data-parent="#faq-group" class="panel-plus collapsed">How do students apply for the Chef’s Training Program?</a></h4>
-						<div id="how-to-apply" class="collapse panel-collapse">
-							<div class="panel-body">
-								<p class="lede">Students may submit applications through our online <a href="https://www.ngihca.edu/application">Chef’s Training Program application</a>. You may start your application and save it for later. Only applications which include all required documents and information will be reviewed for enrollment.</p>
-							</div> <!-- /.panel-body -->
-						</div> <!-- /#how-to-apply -->
-			</div> <!-- /.panel -->
-
-			<div class="panel">
-				<div class="panel-heading">
-					<h4><a data-toggle="collapse" data-target="#first-choice" data-parent="#faq-group" class="panel-plus collapsed">What happens if a student’s first choice program is full?</a></h4>
-						<div id="first-choice" class="collapse panel-collapse">
-							<div class="panel-body">
-								<p class="lede">If a student’s first choice of program is not available, they may roll the application to the next available start date.  A second application fee is not required.</p>
-							</div> <!-- /.panel-body -->
-						</div> <!-- /#first-choice -->
-			</div> <!-- /.panel -->
 
 
-			<div class="panel">
-				<div class="panel-heading">
-					<h4><a data-toggle="collapse" data-target="#student-visa" data-parent="#faq-group" class="panel-plus collapsed">How do students apply for a student visa?</a></h4>
-						<div id="student-visa" class="collapse panel-collapse">
-							<div class="panel-body">
-								<p class="lede">Students will be able to apply for their M1 visa following acceptance to the program and issuance of their I-20 form. <a href="/assets/NGIHCA-international-student.pdf">Click here</a> to learn more about obtaining a visa.</p>
-							</div> <!-- /.panel-body -->
-						</div> <!-- /#student-visa -->
-			</div> <!-- /.panel -->
+<h4>Finance &amp; Tuition</h4>
 
 
-			<div class="panel">
-				<div class="panel-heading">
-					<h4><a data-toggle="collapse" data-target="#what-documents" data-parent="#faq-group" class="panel-plus collapsed">What documents do I need to apply to the Chef’s Training Program?</a></h4>
-						<div id="what-documents" class="collapse panel-collapse">
-							<div class="panel-body">
-								<p class="lede">View the full Chef’s Training Program application procedure <a href="/assets/NGIHCA-how-to-apply.pdf">here</a>. Students applying to the Chef’s Training Program will need to provide digital copies of the below documents:</p>
-								<ul>
-									<li>Two personal or professional letters of recommendation, these can be from colleagues, former employers, friends or family.</li>
-									<li>Documentation of completion of high school, high school equivalency, or college education (diploma or official transcripts are sufficient)</li>
-									<li>Recent photograph of yourself</li>
-									<li>Your current resume</li>
-									<li>International students must also include the following documents with their application:</li>
-									<li>Copy of your passport</li>
-									<li>Bank letter certifying you have access to at least $36,000 USD</li>
-									<li>TOEFL score of 85+ or intermediate scores in each category. Equivalent proof of English comprehension, such as IELTS, TOEIC, Cambridge ESOL, are also acceptable.</li>
-									<li>Official translation of your diploma or transcripts</li>
-								</ul>
-							</div> <!-- /.panel-body -->
-						</div> <!-- /#what-documents -->
-			</div> <!-- /.panel -->
 
 
-		</div> <!-- /.panel-group -->
+
+[collapsibles]
+
+<?php echo do_shortcode('[collapse title="What is the difference between full-time and part-time programs?"]')?>
+Program duration is the only differentiator between programs. The full-time programs are about 5.5 months long, and the part-time programs are about 11.5 months long, depending on your start date. Curriculum, instruction and coursework are exactly the same for both formats.<?php echo do_shortcode('[/collapse]')?>
+
+<?php echo do_shortcode('[collapse title="Why is there a difference between the full- and part-time tuition?"]')?>
+As NGIHCA is too small to be part of the Federal Financial Aid programs (TITLE IV/FAFSA), we strive to find ways to make our programs more financially accessible to students whenever possible. Part-time program schedules allow us to recognize cost-savings that we pass along to students in order to make the program more financially accessible.<?php echo do_shortcode('[/collapse]')?>
+
+<?php echo do_shortcode('[collapse title="What does tuition cover?"]')?>
+Tuition includes all books, materials, uniforms and 30+ piece professional knife and pastry set made by Mercer. It also includes career services, lifetime access to our alumni-only job board, and inclusion in our 2500+ worldwide alumni community.<?php echo do_shortcode('[/collapse]')?>
+
+<?php echo do_shortcode('[collapse title="Does NGIHCA offer scholarships?"]')?>
+Yes, NGIHCA offers various scholarships which are open for application throughout the year. More information can be found on the scholarship page of our website. <a href="https://www.ngihca.edu/#scholarships">https://www.ngihca.edu/#scholarships</a> <?php echo do_shortcode('[/collapse]')?>
+
+
+[/collapsibles]
+
+<?php echo do_shortcode('[/collapse]')?>
+
+
 
 	</div> <!-- /.col-md-8 -->
 </div> <!-- /.row -->

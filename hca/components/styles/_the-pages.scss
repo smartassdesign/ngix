@@ -1,7 +1,7 @@
 footer {
    .page-chefs-training-program &,
    .page-about & {
-      margin-top: 0;
+	  margin-top: 0;
    }
 }
 
@@ -13,7 +13,7 @@ header {
    .page-hire-a-grad &,
    .page-contact &,
    .page-chloe-coscarelli & {
-      margin-bottom: 0;
+	  margin-bottom: 0;
    }
 }
 
@@ -36,114 +36,114 @@ header {
 .page-chefs-training-program {
 
   .ctp-content {
-    position: relative;
+	position: relative;
   }
 
   #details h4 {
-    font-size: 18px;
+	font-size: 18px;
   }
 
   #details h3 {
-    font-weight: 400;
-    font-size: 23px;
+	font-weight: 400;
+	font-size: 23px;
   }
 
   .panel {
-    background: #eeeeee;
-    transition: all 0.3s;
+	background: #eeeeee;
+	transition: all 0.3s;
 
-    &:hover {
-      background: #fff;
-    }
+	&:hover {
+	  background: #fff;
+	}
   }
 
   .panel-group {
-    margin-bottom: 0;
+	margin-bottom: 0;
   }
 
   .panel-group .panel {
-    margin-bottom: $pad;
-    &:last-child {
-      margin-bottom: 0;
-    }
+	margin-bottom: $pad;
+	&:last-child {
+	  margin-bottom: 0;
+	}
   }
 
   .panel-heading {
-    padding: 0;
-    position: relative;
+	padding: 0;
+	position: relative;
 
-    a {
-      display: block;
-      cursor: pointer;
-      padding: 20px 15px;
-      font-size: 16px;
+	a {
+	  display: block;
+	  cursor: pointer;
+	  padding: 20px 15px;
+	  font-size: 16px;
 
-      &.panel-plus:after {
-        position: absolute;
-        font-size: 16px;
-        top: 19px;
-        right: 20px;
-        content: '\e608';
-        font-family: "icofont";
-        font-style: normal;
-        font-weight: normal;
-        text-decoration: none;
-      }
+	  &.panel-plus:after {
+		position: absolute;
+		font-size: 16px;
+		top: 19px;
+		right: 20px;
+		content: '\e608';
+		font-family: "icofont";
+		font-style: normal;
+		font-weight: normal;
+		text-decoration: none;
+	  }
 
-      &.panel-plus.collapsed:after {
-        position: absolute;
-        font-size: 16px;
-        top: 19px;
-        right: 20px;
-        content: '\e607';
-        font-family: "icofont";
-        font-style: normal;
-        font-weight: normal;
-        text-decoration: none;
-      }
+	  &.panel-plus.collapsed:after {
+		position: absolute;
+		font-size: 16px;
+		top: 19px;
+		right: 20px;
+		content: '\e607';
+		font-family: "icofont";
+		font-style: normal;
+		font-weight: normal;
+		text-decoration: none;
+	  }
 
-    }
+	}
 
-    h4	{
-      margin-bottom: 0;
-    }
+	h4	{
+	  margin-bottom: 0;
+	}
 
   }
 
   .panel-body {
-     padding: 10px  20px;
+	 padding: 10px  20px;
 
-     .lede {
-      margin: 0;
+	 .lede {
+	  margin: 0;
 
-      a {
-         color: $gray-darker;
-         font-size: 20px;
-         transition: all 200ms;
-         &:hover {
-            color: $green;
-         }
-      }
+	  a {
+		 color: $gray-darker;
+		 font-size: 20px;
+		 transition: all 200ms;
+		 &:hover {
+			color: $green;
+		 }
+	  }
    }
  }
 
   .panel h5 {
-    margin-top: $pad;
+	margin-top: $pad;
   }
 
   #tuition-group {
-    margin-top: 20px;
+	margin-top: 20px;
   }
 
   .table {
-    margin-bottom: 0;
+	margin-bottom: 0;
   }
 
   .apply-box {
-    background: url(/assets/ctp-interstitial-3.jpg) no-repeat center top;
-    background-size: cover;
-    padding: 15em 0;
-    text-align: center;
+	background: url(/assets/ctp-interstitial-3.jpg) no-repeat center top;
+	background-size: cover;
+	padding: 15em 0;
+	text-align: center;
   }
 
 }
@@ -187,14 +187,14 @@ header {
 
 .quote {
   .inner-quote {
-    margin-bottom: 400px;
-    @include break-min($break-xs){ margin-bottom: 550px;  }
-    @include break-min($break-sm){ margin-bottom: 0;  }
+	margin-bottom: 400px;
+	@include break-min($break-xs){ margin-bottom: 550px;  }
+	@include break-min($break-sm){ margin-bottom: 0;  }
   }
 
   q {
-    font-size: $delta;
-    @include break-min($break-xs){ font-size: $delta;  }
+	font-size: $delta;
+	@include break-min($break-xs){ font-size: $delta;  }
   }
 }
 
@@ -209,8 +209,8 @@ header {
   @include break-min($break-xxl){ padding: $pad*2 0 0 0; }
 
   h1 {
-    text-align: center;
-    color: $gray-darker;
+	text-align: center;
+	color: $gray-darker;
   }
 }
 
@@ -222,49 +222,49 @@ header {
 
   &:after {
 
-    @include break-min($break-sm){
-      content: '';
-      background: url(/assets/fpo-combo-carrot.jpg) no-repeat left 50%;
-      opacity: 0.86;
-      top: 0;
-      left: 0;
-      bottom: 0;
-      right: 0;
-      position: absolute;
-      z-index: -1;
-      background-size: contain;
-    }
+	@include break-min($break-sm){
+	  content: '';
+	  background: url(/assets/fpo-combo-carrot.jpg) no-repeat left 50%;
+	  opacity: 0.86;
+	  top: 0;
+	  left: 0;
+	  bottom: 0;
+	  right: 0;
+	  position: absolute;
+	  z-index: -1;
+	  background-size: contain;
+	}
 
-    @include break-min($break-md){
-      background: url(/assets/fpo-combo-carrot.jpg) no-repeat 25% 50%;
-      opacity: 1;
-    }
+	@include break-min($break-md){
+	  background: url(/assets/fpo-combo-carrot.jpg) no-repeat 25% 50%;
+	  opacity: 1;
+	}
   }
 
   dt {
-    @extend h1;
-    position: relative;
-    padding: 20px 0 0 0;				// $TODO H1 PADDING
-    margin: 0;
-    font-size: 30px;
-    @include break-min($break-xs){ font-size: 36px; }
-    @include break-min($break-md){ font-size: 60px; }
+	@extend h1;
+	position: relative;
+	padding: 20px 0 0 0;				// $TODO H1 PADDING
+	margin: 0;
+	font-size: 30px;
+	@include break-min($break-xs){ font-size: 36px; }
+	@include break-min($break-md){ font-size: 60px; }
 
-    &:after {
-      display: block;
-      content: '';
-      position: absolute;
-      left: 50%;
-      width: 130px;
-      margin-left: -65px;
-      top: 0;
-      height: 1px;
-      background: $green;
-    }
+	&:after {
+	  display: block;
+	  content: '';
+	  position: absolute;
+	  left: 50%;
+	  width: 130px;
+	  margin-left: -65px;
+	  top: 0;
+	  height: 1px;
+	  background: $green;
+	}
   }
 
   dd {
-    padding: 0 0 $pad 0;			// $TODO H1 PADDING
+	padding: 0 0 $pad 0;			// $TODO H1 PADDING
   }
 
 }
@@ -284,31 +284,31 @@ header {
    border-top: 20px solid $gray-darker;
 
    h1, h4, p {
-      color: #fff;
-      text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+	  color: #fff;
+	  text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
    }
 
    .btmbtm {
-      position: relative;
-      padding-top: 120px;
-      padding-bottom: 40px;
+	  position: relative;
+	  padding-top: 120px;
+	  padding-bottom: 40px;
    }
 
    p.small {
-      font-size: 13px;
-      margin-top: 20px;
+	  font-size: 13px;
+	  margin-top: 20px;
    }
 
    &:before {
-      position: absolute;
-      content: '';
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(0,0,0,0.25);
+	  position: absolute;
+	  content: '';
+	  top: 0;
+	  left: 0;
+	  right: 0;
+	  bottom: 0;
+	  width: 100%;
+	  height: 100%;
+	  background: rgba(0,0,0,0.25);
    }
 }
 
@@ -319,17 +319,123 @@ header {
 
 // FAQs
 
+// .page-faq {
+
+// 	.panel-heading a {
+// 		display: block;
+// 		cursor: pointer;
+// 		padding: 20px 15px;
+// 		font-size: 16px;
+// 	}
+
+// 	.panel {
+// 		background: #eeeeee;
+// 		transition: all 0.3s;
+// 		&:hover {
+// 			background: #fff;
+// 		}
+// 	}
+
+
+//   p.q, p+p.q {
+// 	text-transform: uppercase;
+// 	letter-spacing: 1px;
+// 	font-size: 14px;
+// 	font-weight: 600;    
+//   }
+
+// }
+
+
+
+
+
 .page-faq {
 
-  p.q, p+p.q {
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 14px;
-    font-weight: 600;    
+
+  .panel {
+	background: #eeeeee;
+	transition: all 0.3s;
+
+	&:hover {
+	  background: #fff;
+	}
   }
 
+ //  .panel-group {
+	// margin-bottom: 0;
+ //  }
 
+  .panel-group .panel {
+	margin-bottom: $pad;
+	&:last-child {
+	  margin-bottom: 0;
+	}
+  }
 
+  .panel-heading {
+	padding: 0;
+	position: relative;
 
+	a {
+	  display: block;
+	  cursor: pointer;
+	  padding: 20px 15px;
+	  font-size: 16px;
+
+	  &.panel-plus:after {
+		position: absolute;
+		font-size: 16px;
+		top: 19px;
+		right: 20px;
+		content: '\e608';
+		font-family: "icofont";
+		font-style: normal;
+		font-weight: normal;
+		text-decoration: none;
+	  }
+
+	  &.panel-plus.collapsed:after {
+		position: absolute;
+		font-size: 16px;
+		top: 19px;
+		right: 20px;
+		content: '\e607';
+		font-family: "icofont";
+		font-style: normal;
+		font-weight: normal;
+		text-decoration: none;
+	  }
+
+	}
+
+	h4	{
+	  margin-bottom: 0;
+	}
+
+  }
+
+  .panel-body {
+	 padding: 10px  20px;
+
+	 .lede {
+	  margin: 0;
+
+	  a {
+		 color: $gray-darker;
+		 font-size: 20px;
+		 transition: all 200ms;
+		 &:hover {
+			color: $green;
+		 }
+	  }
+   }
+ }
+
+  .panel h5 {
+	margin-top: $pad;
+  }
 
 }
+
+
