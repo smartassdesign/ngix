@@ -401,6 +401,34 @@ if (class_exists('Tribe__Tickets_Plus__Commerce__WooCommerce__Main')) {
 
 
 
+// DISABLE SENDING TIX EMAIL
+
+/*
+* Events Tickets Plus - WooCommerce Tickets - Prevent Ticket Email from being sent.
+* @ Version 4.0
+*/
+add_action( 'init', 'wootickets_stop_sending_email' );
+function wootickets_stop_sending_email() {
+    if ( class_exists( 'Tribe__Tickets_Plus__Commerce__WooCommerce__Main' ) ) {
+        $woo = Tribe__Tickets_Plus__Commerce__WooCommerce__Main::get_instance();
+        remove_filter( 'woocommerce_email_classes', array( $woo, 'add_email_class_to_woocommerce' ) );
+        add_action( 'woocommerce_email_after_order_table', array( $woo, 'add_tickets_msg_to_email' ) );
+    }
+}
+ 
+/*
+* Events Tickets Plus - WooCommerce Tickets - Hide You'll receive your tickets in another email.
+* @ Version 4.0
+*/
+add_filter( 'wootickets_email_message', 'woo_tickets_filter_completed_order', 10 );
+function woo_tickets_filter_completed_order( $text ) {
+    $text = "";
+ 
+    return $text;
+}
+
+
+
 
 // Simple products
 add_filter( 'woocommerce_quantity_input_args', 'jk_woocommerce_quantity_input_args', 10, 2 );

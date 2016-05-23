@@ -69,3 +69,11 @@ get_template_part( 'quick/rcpjobs' );
 return ob_get_clean();
 }
 add_shortcode( 'rcpjobs', 'rcpjobs_shortcode' );
+
+
+function faq_shortcode( $attr ) {
+ob_start();
+get_template_part( 'quick/pg-faq' );
+return ob_get_clean();
+}
+add_shortcode( 'faq', 'faq_shortcode' );
