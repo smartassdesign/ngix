@@ -301,7 +301,7 @@
 					<li>Getting a cookbook deal</li>
 					<li>Bridge jobs and other ways to support your career</li></ul>
 
-					<p class="trailer"><a href="/request-info-writing-food-blogging/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
+					<p class="trailer"><a href="/request-info-food-blogging/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
 
 					<div class="well">
 						<p>To register for Food Blogging Certificate Program click enroll and submit the deposit payment. Once your deposit is received your place on the roster will be held for 1 week.  You will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
