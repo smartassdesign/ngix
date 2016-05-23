@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-therapy">Food Therapy</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-entrepreneurship">Food Entrepreneurship</a> and <a href="#food-media">Food Blogging</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-therapy">Food Therapy</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-entrepreneurship">Food Entrepreneurship</a> and <a href="#food-blogging">Food Blogging</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 
 
@@ -258,7 +258,7 @@
 
 
 	<div class="sub-pod">
-		<section id="food-media">
+		<section id="food-blogging">
 
 			<img src ="/assets/food-blogging.jpg" alt="Food Blogging Certificate Program – Creating, Managing and Growing a Professional Food Blog " class="img-fluid trailer">			
 			<div class="row">
