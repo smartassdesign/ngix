@@ -353,21 +353,13 @@ header {
 .page-faq {
 
 
-  .panel {
-	background: #eeeeee;
-	transition: all 0.3s;
-
-	&:hover {
-	  background: #fff;
-	}
-  }
-
  //  .panel-group {
 	// margin-bottom: 0;
  //  }
 
   .panel-group .panel {
-	margin-bottom: $pad;
+	margin-bottom: 0;
+	// margin-bottom: $pad;
 	&:last-child {
 	  margin-bottom: 0;
 	}
@@ -382,6 +374,17 @@ header {
 	  cursor: pointer;
 	  padding: 20px 15px;
 	  font-size: 16px;
+	  color: $gray-darker;
+	  background: transparent;
+	  transition: all 0.3s;
+	  border-bottom: 1px solid $gray-darker;
+
+		&:hover {
+			color: $gray;
+			// background: #fff;
+		}
+	
+
 
 	  &.panel-plus:after {
 		position: absolute;
