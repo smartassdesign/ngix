@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-therapy">Food Therapy</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-entrepreneurship">Food Entrepreneurship</a> and <a href="#food-blogging">Food Blogging</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-therapy">Food Therapy</a>, <a href="#food-entrepreneurship">Food Entrepreneurship</a> and <a href="#food-blogging">Food Blogging</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 
 
@@ -61,66 +61,6 @@
 			</div> <!-- /.row -->
 		</section> <!-- /#sustainable-farming -->
 		</div>
-
-
-
-<div class="sub-pod">
-		<section id="food-therapy">
-
-			<img src="/assets/NGI-CFPWI-web.jpg" alt="Food Therapy Certificate Program" class="img-fluid trailer">	
-			<div class="row">
-				<div class="col-md-8">
-					<header>	
-			      		<h2>Food Therapy</h2>
-					</header>
-
-
-					<p class="trailer">It is no secret that proper nourishment can be a powerful aid to the healing process. In the Food Therapy Certificate Program, students will learn about whole systems biology, core nutritional imbalances, and how to translate a dietary prescription into practical meal planning and preparation. Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Led by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions.</p>
-
-					<p>The program will be taught by NGI faculty Chef Celine Beitchman and Chef Elliott Prag. Celine is a member of NYC Nutrition Educators Network and is currently working toward her MS in Nutrition &amp; Health Behavior Education at Maryland University of Integrative Health. Elliott is the Curriculum Development Manager at NGI. A graduate of our Chef’s Training Program, Elliott opened the first health-supportive restaurant in Sofia, Bulgaria. He is a frequent contributor to <em>Vegetarian Times</em> and an expert in bread baking.</p>
-
-					<h4>Coursework</h4>
-					<ul><li> Exploring the differences between "illness" and "disease"</li>
-						<li>Understanding the principles of culinary translation</li>
-					<li>Common issues of chronic disease - genetics, environment and diet</li>
-					<li>Working through the relationship between food and health</li>
-					<li>Cooking concerns for people with cancer, immune disorders, diabetes, inflammation and other illnesses</li>
-					<li>Menu planning for people with illnesses</li>
-					<li>Developing culinary strategies that support well-being and healing</li>
-					<li>And more!</li></ul>	
-	
-
-					<p class="trailer"><a href="/request-info-food-therapy/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
-
-					<div class="well">
-						<p>To register for Food Therapy click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
-
-						<p>Refund policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
-					</div> <!-- /.well -->					
-
-				</div> <!-- /.col-md-8 -->	
-
-					
-				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=17040" rel="nofollow" data-product_id="17040" data-product_sku="" class="btn btn-primary btn-block disabled">Currently Full</a>
-					<aside class="well">
-						<h5>Dates</h5>
-						<p>July 11, 2016 &mdash; July 22, 2016<br>
-						9:00 am &mdash; 4:00 pm<br></p>
-						<h5>Cost</h5>
-						<p>$5,500 / Deposit: $1,833</p>
-						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
-
-						<p>Students will receive a certificate of completion.</p>
-
-						<p><strong>The July 2016 Food Therapy summer program is currently fully enrolled. If you would like to be added to the wait list, please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> with your full name and contact number. Available places will be filled on a first come first served basis.</strong></p>
-
-					</aside> <!-- /.well -->
-				</div> <!-- /.col-md-4 -->
-				
-			</div> <!-- /.row -->		
-		</section> <!-- /#food-therapy -->
-	</div>	
 
 
 
@@ -195,6 +135,66 @@
 			</div> <!-- /.row -->
 		</section> <!-- /#culinary-nutrition -->		
 		</div>			
+
+
+<div class="sub-pod">
+		<section id="food-therapy">
+
+			<img src="/assets/NGI-CFPWI-web.jpg" alt="Food Therapy Certificate Program" class="img-fluid trailer">	
+			<div class="row">
+				<div class="col-md-8">
+					<header>	
+			      		<h2>Food Therapy</h2>
+					</header>
+
+
+					<p class="trailer">It is no secret that proper nourishment can be a powerful aid to the healing process. In the Food Therapy Certificate Program, students will learn about whole systems biology, core nutritional imbalances, and how to translate a dietary prescription into practical meal planning and preparation. Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Led by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions.</p>
+
+					<p>The program will be taught by NGI faculty Chef Celine Beitchman and Chef Elliott Prag. Celine is a member of NYC Nutrition Educators Network and is currently working toward her MS in Nutrition &amp; Health Behavior Education at Maryland University of Integrative Health. Elliott is the Curriculum Development Manager at NGI. A graduate of our Chef’s Training Program, Elliott opened the first health-supportive restaurant in Sofia, Bulgaria. He is a frequent contributor to <em>Vegetarian Times</em> and an expert in bread baking.</p>
+
+					<h4>Coursework</h4>
+					<ul><li> Exploring the differences between "illness" and "disease"</li>
+						<li>Understanding the principles of culinary translation</li>
+					<li>Common issues of chronic disease - genetics, environment and diet</li>
+					<li>Working through the relationship between food and health</li>
+					<li>Cooking concerns for people with cancer, immune disorders, diabetes, inflammation and other illnesses</li>
+					<li>Menu planning for people with illnesses</li>
+					<li>Developing culinary strategies that support well-being and healing</li>
+					<li>And more!</li></ul>	
+	
+
+					<p class="trailer"><a href="/request-info-food-therapy/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
+
+					<div class="well">
+						<p>To register for Food Therapy click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
+
+						<p>Refund policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
+					</div> <!-- /.well -->					
+
+				</div> <!-- /.col-md-8 -->	
+
+					
+				<div class="col-md-4">
+					<a href="/certificate-programs/?add-to-cart=17040" rel="nofollow" data-product_id="17040" data-product_sku="" class="btn btn-primary btn-block disabled">Currently Full</a>
+					<aside class="well">
+						<h5>Dates</h5>
+						<p>July 11, 2016 &mdash; July 22, 2016<br>
+						9:00 am &mdash; 4:00 pm<br></p>
+						<h5>Cost</h5>
+						<p>$5,500 / Deposit: $1,833</p>
+						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
+
+						<p>Students will receive a certificate of completion.</p>
+
+						<p><strong>The July 2016 Food Therapy summer program is currently fully enrolled. If you would like to be added to the wait list, please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> with your full name and contact number. Available places will be filled on a first come first served basis.</strong></p>
+
+					</aside> <!-- /.well -->
+				</div> <!-- /.col-md-4 -->
+				
+			</div> <!-- /.row -->		
+		</section> <!-- /#food-therapy -->
+	</div>	
+
 
 
 		<div class="sub-pod">
