@@ -176,7 +176,7 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=17940" rel="nofollow" data-product_id="17940" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=17940" rel="nofollow" data-product_id="17940" data-product_sku="" class="btn btn-primary btn-block disabled">Currently Full</a>
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>July 25, 2016 &mdash; August 5, 2016 <br />
@@ -186,6 +186,8 @@
 						<h5>Cost</h5>
 						<p>$5,550 / Deposit: $1,833</p>						
 						<p>Students will receive a certificate of completion.</p>
+
+						<p><strong>The 2016 Culinary Nutrition summer program is currently fully enrolled. If you would like to be added to the wait list, please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> with your full name and contact number. Available places will be filled on a first come first served basis.</strong></p>
 					</aside>
 
 				</div> <!-- /.col-md-4 -->
