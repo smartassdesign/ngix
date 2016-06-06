@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-therapy">Food Therapy</a>, <a href="#food-entrepreneurship">Food Entrepreneurship</a> and <a href="#food-blogging">Food Blogging</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-blogging">Food Blogging</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-therapy">Food Therapy</a>, and <a href="#food-entrepreneurship">Food Entrepreneurship</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 
 
@@ -61,6 +61,88 @@
 			</div> <!-- /.row -->
 		</section> <!-- /#sustainable-farming -->
 		</div>
+
+
+
+	<div class="sub-pod">
+		<section id="food-blogging">
+
+			<img src ="/assets/food-blogging.jpg" alt="Food Blogging Certificate Program – Creating, Managing and Growing a Professional Food Blog " class="img-fluid trailer">			
+			<div class="row">
+				<div class="col-md-8">
+					<header>	
+			      		<h2>Food Blogging Certificate Program – Creating, Managing and Growing a Professional Food Blog </h2>
+					</header>
+
+					<!-- <h4>Overview</h4> -->
+					<p>Ever wonder how your favorite food blog went from passion project to profession? Maybe you have been looking for a way to do just that with your blog, or maybe you are just getting started and want expert guidance on creating a professional food blog?</p>
+
+					<p>Join Phoebe Lapine (creator of <a href="http://feedmephoebe.com/" target="_blank">Feed Me Phoebe,</a> author of <em>In the Small Kitchen: 100 Recipes from Our Year of Cooking in the Real World)</em> to learn how she turned her passion for healthy beautiful food into a successful career. In this lecture-based course, you will learn the fundamentals of creating a successful food blog, from creating content to building an audience to generating income. This course is ideal for anyone with an interest in food blogging - currently managing or thinking about starting a food blog.</p> 
+
+					<p>You will gain practical skills and knowledge and, most importantly, gain new tools grow your audience and generate revenue. Over 5 sessions, Phoebe will expertly guide the class through the below topics:</p>
+
+
+					<b>Getting Started – Finding your voice and perspective </b>
+					<ul><li>Choosing a name and look</li>
+					<li>Design and development tips and tricks</li>
+					<li>Plugins and widgets: getting the most out of your site</li>
+					<li>Cost overhead: the most important aspects to invest in your blog</li></ul>
+
+					<b>Content is King – Managing content for impact and engagement</b>
+					<ul><li>Developing your voice</li>
+					<li>The importance of an editorial calendar</li>
+					<li>Recipe development; how to adapt and accredit</li>
+					<li>Best practices to build an engaged audience </li></ul>
+
+					<b>Food Photography – A picture is worth a 1,000 words, what are your photos saying?</b>
+					<ul><li>How to light, compose and edit your best food photos</li></ul>
+
+					<b>Community and Growing Your Site – Technical advice and community building tips</b>
+					<ul><li>Using Google Analytics, SEO, social media and more to promote your site and grow your audience</li>
+					<li>Reciprocity and building a community </li>
+					<li>Methods to build an offline community</li>
+					<li>Getting your name out: guest posting and freelancing</li></ul>
+
+					<b>Hobby to Career – Professional tools to start earning money from your blog</b>
+					<ul><li>Advertising, sponsored posts, brand collaborations and more</li>
+					<li>Getting a cookbook deal</li>
+					<li>Bridge jobs and other ways to support your career</li></ul>
+
+					<p class="trailer"><a href="/request-info-food-blogging/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
+
+					<div class="well">
+						<p>To register for Food Blogging Certificate Program click enroll and submit the deposit payment. Once your deposit is received your place on the roster will be held for 1 week.  You will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
+
+						<p>Refund policy: Students completing less than 50% of the coursework will receive a refund based on the number of course hours completed less the deposit, which is nonrefundable 2 weeks prior to your start date.  Students completing more than 50% of the program are not eligible for a refund.</p>
+					</div> <!-- /.well -->					
+
+				</div> <!-- /.col-md-8 -->	
+
+					
+				<div class="col-md-4">
+					<a href="/certificate-programs/?add-to-cart=19774" rel="nofollow" data-product_id="19774" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<aside class="well">
+						<h5>Dates</h5>
+						<p>Monday, 9/12: 6:30pm &mdash; 10pm<br/>
+						Tuesday, 9/13: 6:30pm &mdash; 10pm<br/>
+						Tuesday, 9/20: 6:30pm &mdash; 10pm<br/>
+						Thursday, 9/22: 6:30pm &mdash; 10pm<br/>
+						Monday, 9/26: 6:30pm &mdash; 10pm</p>
+						<h5>Cost</h5>
+						<p>Full Tuition: $2,400<br />
+						Deposit due at registration: $800</p>
+						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
+
+						<p>Students will receive a certificate of completion.</p>
+
+					</aside> <!-- /.well -->
+				</div> <!-- /.col-md-4 -->
+				
+			</div> <!-- /.row -->		
+		</section> <!-- /#food-media -->
+	</div>	
+
+
 
 
 
@@ -258,84 +340,6 @@
 
 
 
-
-	<div class="sub-pod">
-		<section id="food-blogging">
-
-			<img src ="/assets/food-blogging.jpg" alt="Food Blogging Certificate Program – Creating, Managing and Growing a Professional Food Blog " class="img-fluid trailer">			
-			<div class="row">
-				<div class="col-md-8">
-					<header>	
-			      		<h2>Food Blogging Certificate Program – Creating, Managing and Growing a Professional Food Blog </h2>
-					</header>
-
-					<!-- <h4>Overview</h4> -->
-					<p>Ever wonder how your favorite food blog went from passion project to profession? Maybe you have been looking for a way to do just that with your blog, or maybe you are just getting started and want expert guidance on creating a professional food blog?</p>
-
-					<p>Join Phoebe Lapine (creator of <a href="http://feedmephoebe.com/" target="_blank">Feed Me Phoebe,</a> author of <em>In the Small Kitchen: 100 Recipes from Our Year of Cooking in the Real World)</em> to learn how she turned her passion for healthy beautiful food into a successful career. In this lecture-based course, you will learn the fundamentals of creating a successful food blog, from creating content to building an audience to generating income. This course is ideal for anyone with an interest in food blogging - currently managing or thinking about starting a food blog.</p> 
-
-					<p>You will gain practical skills and knowledge and, most importantly, gain new tools grow your audience and generate revenue. Over 5 sessions, Phoebe will expertly guide the class through the below topics:</p>
-
-
-					<b>Getting Started – Finding your voice and perspective </b>
-					<ul><li>Choosing a name and look</li>
-					<li>Design and development tips and tricks</li>
-					<li>Plugins and widgets: getting the most out of your site</li>
-					<li>Cost overhead: the most important aspects to invest in your blog</li></ul>
-
-					<b>Content is King – Managing content for impact and engagement</b>
-					<ul><li>Developing your voice</li>
-					<li>The importance of an editorial calendar</li>
-					<li>Recipe development; how to adapt and accredit</li>
-					<li>Best practices to build an engaged audience </li></ul>
-
-					<b>Food Photography – A picture is worth a 1,000 words, what are your photos saying?</b>
-					<ul><li>How to light, compose and edit your best food photos</li></ul>
-
-					<b>Community and Growing Your Site – Technical advice and community building tips</b>
-					<ul><li>Using Google Analytics, SEO, social media and more to promote your site and grow your audience</li>
-					<li>Reciprocity and building a community </li>
-					<li>Methods to build an offline community</li>
-					<li>Getting your name out: guest posting and freelancing</li></ul>
-
-					<b>Hobby to Career – Professional tools to start earning money from your blog</b>
-					<ul><li>Advertising, sponsored posts, brand collaborations and more</li>
-					<li>Getting a cookbook deal</li>
-					<li>Bridge jobs and other ways to support your career</li></ul>
-
-					<p class="trailer"><a href="/request-info-food-blogging/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
-
-					<div class="well">
-						<p>To register for Food Blogging Certificate Program click enroll and submit the deposit payment. Once your deposit is received your place on the roster will be held for 1 week.  You will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
-
-						<p>Refund policy: Students completing less than 50% of the coursework will receive a refund based on the number of course hours completed less the deposit, which is nonrefundable 2 weeks prior to your start date.  Students completing more than 50% of the program are not eligible for a refund.</p>
-					</div> <!-- /.well -->					
-
-				</div> <!-- /.col-md-8 -->	
-
-					
-				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=19774" rel="nofollow" data-product_id="19774" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
-					<aside class="well">
-						<h5>Dates</h5>
-						<p>Monday, 9/12: 6:30pm &mdash; 10pm<br/>
-						Tuesday, 9/13: 6:30pm &mdash; 10pm<br/>
-						Tuesday, 9/20: 6:30pm &mdash; 10pm<br/>
-						Thursday, 9/22: 6:30pm &mdash; 10pm<br/>
-						Monday, 9/26: 6:30pm &mdash; 10pm</p>
-						<h5>Cost</h5>
-						<p>Full Tuition: $2,400<br />
-						Deposit due at registration: $800</p>
-						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
-
-						<p>Students will receive a certificate of completion.</p>
-
-					</aside> <!-- /.well -->
-				</div> <!-- /.col-md-4 -->
-				
-			</div> <!-- /.row -->		
-		</section> <!-- /#food-media -->
-	</div>	
 
 
 
