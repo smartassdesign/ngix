@@ -257,10 +257,10 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=17040" rel="nofollow" data-product_id="17040" data-product_sku="" class="btn btn-primary btn-block disabled">Currently Full</a>
+					<a href="/certificate-programs/?add-to-cart=20298" rel="nofollow" data-product_id="20298" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>July 11, 2016 &mdash; July 22, 2016<br>
+						<p>August 16, 2016 &mdash; August 26, 2016<br>
 						9:00 am &mdash; 4:00 pm<br></p>
 						<h5>Cost</h5>
 						<p>$5,500 / Deposit: $1,833</p>
@@ -268,8 +268,8 @@
 
 						<p>Students will receive a certificate of completion.</p>
 
-						<p><strong>The July 2016 Food Therapy summer program is currently fully enrolled. If you would like to be added to the wait list, please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> with your full name and contact number. Available places will be filled on a first come first served basis.</strong></p>
-
+<!-- 						<p><strong>The July 2016 Food Therapy summer program is currently fully enrolled. If you would like to be added to the wait list, please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> with your full name and contact number. Available places will be filled on a first come first served basis.</strong></p>
+ -->
 					</aside> <!-- /.well -->
 				</div> <!-- /.col-md-4 -->
 				
