@@ -56,4 +56,4 @@
 
 
 
-<?php include("snippets/quote-jamieson.php"); ?>
+<?php /* include("snippets/quote-jamieson.php"); */ ?>
