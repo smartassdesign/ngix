@@ -56,4 +56,17 @@
 
 
 
+<!-- <a href="https://naturalgourmetinstitute.com/LINK">Emma Gonzalez</a> used her passions for theater and healthy cooking to create a comedy web series called <em>Eat Our Feelings</em> with friend and actress Sasha Winters.
+
+<a href="https://naturalgourmetinstitute.com/LINK">Stefanie Sacks</a> is a Certified Nutrition Specialist and Certified Dietitian Nutritionist, who has used her knowledge of food, nutrition and health in consulting, radio hosting, blogging and writing her book, <em>What the Fork Are You Eating?</em>
+
+<a href="https://naturalgourmetinstitute.com/LINK">Neely Cohen</a> pursued her dream of making chocolate from scratch by utilizing her culinary training from NGI, learning to harvest cacao fruit in South America, and eventually opening up her own bean-to-bar chocolate factory and café, Vicuña Chocolate.
+
+<a href="https://naturalgourmetinstitute.com/LINK">Dustin Harder</a> is the host and creator of the web series The Vegan Roadie, where he takes viewers on a journey across America exploring vegan businesses and showcasing mouth-watering plant-based eats from chefs around the country.
+
+<a href="https://naturalgourmetinstitute.com/LINK">Tal Ronnen</a> is the founder and chef of the popular Los Angeles restaurant, Crossroads, as well as author of two cookbooks, <em>The Conscious Cook</em> and <em>Crossroads.</em> Additionally, Tal made his culinary mark at several high profile events including Ellen DeGeneres and Portia de Rossi’s wedding, and the U.S. Senate Dinner.
+ -->
+
+
+
 <?php /* include("snippets/quote-jamieson.php"); */ ?>
