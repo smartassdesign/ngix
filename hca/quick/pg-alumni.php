@@ -22,13 +22,23 @@
 	</div>	<!-- /.row -->
 </div> <!-- /.boxed.bg-white.trailer -->
 
-<div class="pod">
-<a href="chloe-coscarelli/" class="btn btn-primary btn-jumbo btn-block">Alumni Spotlight on: Chloe Coscarelli</a><br>
-	<img src="/assets/Alumni-instagram.jpg" class="img-fluid" alt="Alumni">
 
+<div class="boxed bg-white trailer">
+	<div class="row">
+		<section id="profile-tease-2">
+			<div class="col-sm-8">
+				<a href="<?php echo home_url(); ?>/alumni/chloe-coscarelli"><img src="/assets/profile-chloe-coscarelli-teaser.jpg" class="img-fluid" alt="Chloe Coscarelli"></a>
+			</div> <!-- /.col-sm-8 -->
 
-
-</div> <!-- /.pod -->
+			<div class="col-sm-4">
+					<h5>Featured profile</h5>
+					<h3>A Q&amp;A with Chloe Coscarelli</h3>
+					<p>After graduating from the Chef’s Training Program, Chloe Coscarelli broke onto the culinary scene as the first vegan chef to capture the prize on Food Network’s “Cupcake Wars.”</p>
+				<p><a href="<?php echo home_url(); ?>/alumni/chloe-coscarelli" class="btn-text">Read her story <span class="icon-arrow-right"></span></a></p>
+			</div> <!-- /.col-sm-4 -->			
+    </section>
+	</div>	<!-- /.row -->
+</div> <!-- /.boxed.bg-white.trailer -->
 
 <div class="row">
 
@@ -51,11 +61,32 @@
 			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/qa-with-ngi-alum-cara-mangini-author-of-the-vegetable-butcher/">Cara Mangini</a> is an Ohio-based chef who recently published her first cookbook, <em>The Vegetable Butcher.</em>.</small></p>
 	</div> <!-- /.col-md-4 -->		
 
+	  <!-- Add the extra clearfix for only the required viewport -->
+  <div class="clearfix"></div>
+
+	<div class="col-md-4">
+		<a href="https://naturalgourmetinstitute.com/ngi-alum-neely-cohen-vicuna-chocolate/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-cohen.jpg" class="img-fluid"></a>
+			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/ngi-alum-neely-cohen-vicuna-chocolate/">Neely Cohen</a> pursued her dream of making chocolate from scratch by utilizing her culinary training from NGI, learning to harvest cacao fruit in South America, and eventually opening up her own bean-to-bar chocolate factory and café, Vicuña Chocolate.</small></p>
+	</div> <!-- /.col-md-4 -->
+
+	<div class="col-md-4">
+		<a href="https://naturalgourmetinstitute.com/dustin-harder-the-vegan-roadie-2/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-harder.jpg" class="img-fluid"></a>
+			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/dustin-harder-the-vegan-roadie-2/">Dustin Harder</a> is the host and creator of the web series <em>The Vegan Roadie,</em> where he takes viewers on a journey across America exploring vegan businesses and showcasing mouth-watering plant-based eats from chefs around the country.</small></p>
+	</div> <!-- /.col-md-4 -->
+
+	<div class="col-md-4">
+		<a href="https://naturalgourmetinstitute.com/ngi-alumni-tal-ronnen/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-ronnen.jpg" class="img-fluid"></a>
+			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/ngi-alumni-tal-ronnen/">Tal Ronnen</a> is the founder and chef of the popular Los Angeles restaurant, Crossroads, as well as author of two cookbooks, <em>The Conscious Cook</em> and <em>Crossroads.</em> Additionally, Tal made his culinary mark at several high profile events including Ellen DeGeneres and Poria de Rossi’s wedding, and the U.S. Senate Dinner.</small></p>
+	</div> <!-- /.col-md-4 -->	
+
 </div> <!-- /.row -->
 
 
-
-
+<div class="row m-t-lg">
+	<div class="col-md-12">
+		<img src="/assets/Alumni-instagram.jpg" class="img-fluid" alt="Alumni">
+	</div> <!-- /.col-md-12 -->		
+</div> <!-- /.row -->
 <!-- <a href="https://naturalgourmetinstitute.com/LINK">Emma Gonzalez</a> used her passions for theater and healthy cooking to create a comedy web series called <em>Eat Our Feelings</em> with friend and actress Sasha Winters.
 
 <a href="https://naturalgourmetinstitute.com/LINK">Stefanie Sacks</a> is a Certified Nutrition Specialist and Certified Dietitian Nutritionist, who has used her knowledge of food, nutrition and health in consulting, radio hosting, blogging and writing her book, <em>What the Fork Are You Eating?</em>
