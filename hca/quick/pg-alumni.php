@@ -79,25 +79,46 @@
 			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/ngi-alumni-tal-ronnen/">Tal Ronnen</a> is the founder and chef of the popular Los Angeles restaurant, Crossroads, as well as author of two cookbooks, <em>The Conscious Cook</em> and <em>Crossroads.</em> Additionally, Tal made his culinary mark at several high profile events including Ellen DeGeneres and Poria de Rossi’s wedding, and the U.S. Senate Dinner.</small></p>
 	</div> <!-- /.col-md-4 -->	
 
+<div class="clearfix"></div>
+
+	<div class="col-md-4">
+		<a href="https://naturalgourmetinstitute.com/stefanie-sacks-what-the-fork-are-you-eating/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-sacks.jpg" class="img-fluid"></a>
+			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/stefanie-sacks-what-the-fork-are-you-eating/">Stefanie Sacks</a> is a Certified Nutrition Specialist and Certified Dietitian Nutritionist, who has used her knowledge of food, nutrition and health in consulting, radio hosting, blogging and writing her book, <em>What the Fork Are You Eating?</em></small></p>
+	</div> <!-- /.col-md-4 -->
+
+
+
+	<div class="col-md-4">
+		<a href="https://naturalgourmetinstitute.com/chef-jay-astafa/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-astafa.jpg" class="img-fluid"></a>
+			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/chef-jay-astafa/">Jay Astafa</a> runs an NYC-based boutique catering service and recently opened Long Island's first all-vegan restaurant, 3 Brothers Vegan Cafe.</small></p>
+	</div> <!-- /.col-md-4 -->					
+
+
+
+	<div class="col-md-4">
+		<a href="https://naturalgourmetinstitute.com/food-as-medicine-erica-leazenby-chef/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-leazenby.jpg" class="img-fluid"></a>
+			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/food-as-medicine-erica-leazenby-chef/">Erica Leazenby</a> is a Family Physician, who hopes to include culinary classes as part of the healing process in her new practice in Indianapolis.</small></p>
+	</div> <!-- /.col-md-4 -->					
+
+<div class="clearfix"></div>
+
+	<div class="col-md-4">
+		<a href="https://naturalgourmetinstitute.com/march-alum-spotlight-alexandra-jamieson/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-jamieson.jpg" class="img-fluid"></a>
+			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/march-alum-spotlight-alexandra-jamieson/">Alexandra Jamieson</a> is a nutrition coach and has written three cookbooks, including the well-known <em>Living Vegan for Dummies.</em> She is also co-creator the celebrated documentary, <em>Super Size Me.</em></small></p>
+	</div> <!-- /.col-md-4 -->					
+
+
+	<div class="col-md-4">
+		<a href="http://naturalgourmetinstitute.com/june-alum-spotlight-alissa-wagner/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-wagner.jpg" class="img-fluid"></a>
+			<p class="m-t-1"><small><a href="http://naturalgourmetinstitute.com/june-alum-spotlight-alissa-wagner/">Alissa Wagner</a> is a successful restaurateur who co-founded Dimes, a hip, vegetable-forward NYC restaurant which recently expanded to include a deli and market.</small></p>
+	</div> <!-- /.col-md-4 -->					
+ 
+
+	<div class="col-md-4">
+		<a href="https://naturalgourmetinstitute.com/student-stories-pablo-garcia/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-garcia.jpg" class="img-fluid"></a>
+			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/student-stories-pablo-garcia/">Pablo Garcia</a> is co-founder of <a href="http://thevitalguide.com" target="_blank">thevitalguide.com</a>, a coaching business and wellness blog for men.</small></p>
+	</div> <!-- /.col-md-4 -->					
+
+
+ 
 </div> <!-- /.row -->
-
-
-<div class="row m-t-lg">
-	<div class="col-md-12">
-		<img src="/assets/Alumni-instagram.jpg" class="img-fluid" alt="Alumni">
-	</div> <!-- /.col-md-12 -->		
-</div> <!-- /.row -->
-<!-- <a href="https://naturalgourmetinstitute.com/LINK">Emma Gonzalez</a> used her passions for theater and healthy cooking to create a comedy web series called <em>Eat Our Feelings</em> with friend and actress Sasha Winters.
-
-<a href="https://naturalgourmetinstitute.com/LINK">Stefanie Sacks</a> is a Certified Nutrition Specialist and Certified Dietitian Nutritionist, who has used her knowledge of food, nutrition and health in consulting, radio hosting, blogging and writing her book, <em>What the Fork Are You Eating?</em>
-
-<a href="https://naturalgourmetinstitute.com/LINK">Neely Cohen</a> pursued her dream of making chocolate from scratch by utilizing her culinary training from NGI, learning to harvest cacao fruit in South America, and eventually opening up her own bean-to-bar chocolate factory and café, Vicuña Chocolate.
-
-<a href="https://naturalgourmetinstitute.com/LINK">Dustin Harder</a> is the host and creator of the web series The Vegan Roadie, where he takes viewers on a journey across America exploring vegan businesses and showcasing mouth-watering plant-based eats from chefs around the country.
-
-<a href="https://naturalgourmetinstitute.com/LINK">Tal Ronnen</a> is the founder and chef of the popular Los Angeles restaurant, Crossroads, as well as author of two cookbooks, <em>The Conscious Cook</em> and <em>Crossroads.</em> Additionally, Tal made his culinary mark at several high profile events including Ellen DeGeneres and Portia de Rossi’s wedding, and the U.S. Senate Dinner.
- -->
-
-
-
-<?php /* include("snippets/quote-jamieson.php"); */ ?>
