@@ -33,7 +33,7 @@
 			<div class="col-sm-4">
 					<h5>Featured profile</h5>
 					<h3>A Q&amp;A with Chloe Coscarelli</h3>
-					<p>After graduating from the Chef’s Training Program, Chloe Coscarelli broke onto the culinary scene as the first vegan chef to capture the prize on Food Network’s “Cupcake Wars.”</p>
+					<p>After graduating from the Chef’s Training Program, Chloe Coscarelli broke onto the culinary scene as the first vegan chef to capture the prize on Food Network’s “Cupcake Wars.” In 2015, she opened by CHLOE, a fast-casual vegan restaurant in NYC's West Village.</p>
 				<p><a href="<?php echo home_url(); ?>/alumni/chloe-coscarelli" class="btn-text">Read her story <span class="icon-arrow-right"></span></a></p>
 			</div> <!-- /.col-sm-4 -->			
     </section>
@@ -47,9 +47,10 @@
 	</div> <!-- /.col-md-12 -->
 
 	<div class="col-md-4">
-		<a href="https://naturalgourmetinstitute.com/qa-with-alum-davis-lindsey-vegetable-manager-at-stone-barns/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-lindsey.jpg" class="img-fluid"></a>
-			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/qa-with-alum-davis-lindsey-vegetable-manager-at-stone-barns/">Davis Lindsey</a> used his culinary training to land the role of Field Education Manager at Stone Barns Center for Food & Agriculture in Pocantico Hills, New York.</small></p>
-	</div> <!-- /.col-md-4 -->
+		<a href="https://naturalgourmetinstitute.com/student-stories-pablo-garcia/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-garcia.jpg" class="img-fluid"></a>
+			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/student-stories-pablo-garcia/">Pablo Garcia</a> is co-founder of <a href="http://thevitalguide.com" target="_blank">thevitalguide.com</a>, a coaching business and wellness blog for men.</small></p>
+	</div> <!-- /.col-md-4 -->	
+
 
 	<div class="col-md-4">
 		<a href="https://naturalgourmetinstitute.com/chef-elyse-kopecky/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-kopecky.jpg" class="img-fluid"></a>
@@ -58,7 +59,7 @@
 
 	<div class="col-md-4">
 		<a href="https://naturalgourmetinstitute.com/qa-with-ngi-alum-cara-mangini-author-of-the-vegetable-butcher/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-mangini.jpg" class="img-fluid">
-			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/qa-with-ngi-alum-cara-mangini-author-of-the-vegetable-butcher/">Cara Mangini</a> is an Ohio-based chef who recently published her first cookbook, <em>The Vegetable Butcher.</em>.</small></p>
+			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/qa-with-ngi-alum-cara-mangini-author-of-the-vegetable-butcher/">Cara Mangini</a> is an Ohio-based chef who recently published her first cookbook, <em>The Vegetable Butcher.</em></small></p>
 	</div> <!-- /.col-md-4 -->		
 
 	  <!-- Add the extra clearfix for only the required viewport -->
@@ -111,13 +112,14 @@
 	<div class="col-md-4">
 		<a href="http://naturalgourmetinstitute.com/june-alum-spotlight-alissa-wagner/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-wagner.jpg" class="img-fluid"></a>
 			<p class="m-t-1"><small><a href="http://naturalgourmetinstitute.com/june-alum-spotlight-alissa-wagner/">Alissa Wagner</a> is a successful restaurateur who co-founded Dimes, a hip, vegetable-forward NYC restaurant which recently expanded to include a deli and market.</small></p>
-	</div> <!-- /.col-md-4 -->					
- 
+	</div> <!-- /.col-md-4 -->		
 
+ 
 	<div class="col-md-4">
-		<a href="https://naturalgourmetinstitute.com/student-stories-pablo-garcia/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-garcia.jpg" class="img-fluid"></a>
-			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/student-stories-pablo-garcia/">Pablo Garcia</a> is co-founder of <a href="http://thevitalguide.com" target="_blank">thevitalguide.com</a>, a coaching business and wellness blog for men.</small></p>
-	</div> <!-- /.col-md-4 -->					
+		<a href="https://naturalgourmetinstitute.com/qa-with-alum-davis-lindsey-vegetable-manager-at-stone-barns/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-lindsey.jpg" class="img-fluid"></a>
+			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/qa-with-alum-davis-lindsey-vegetable-manager-at-stone-barns/">Davis Lindsey</a> used his culinary training to land the role of Field Education Manager at Stone Barns Center for Food &amp; Agriculture in Pocantico Hills, New York.</small></p>
+	</div> <!-- /.col-md-4 -->
+				
 
 
  
