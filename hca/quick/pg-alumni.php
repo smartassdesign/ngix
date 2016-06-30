@@ -1,5 +1,5 @@
 <section id="intro" class="p-b-lg">
-		<h1 class="large">NGI Alumni: A Global Community of Healthful Gourmets</h1>
+		<h1 class="large">NGI Alumni: A Global Community</h1>
 		<p>Our alumni are renowned chefs, entrepreneurs, thought leaders, teachers, authors, trailblazers. Our alumni cook in professional kitchens, for private clients and in their own homes. They hail from 45 countries - and when they’re not opening restaurants, they’re opening doors for each other.</p>
 </section> <!-- /#intro -->
 
