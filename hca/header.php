@@ -108,11 +108,11 @@ document.createElement('video');document.createElement('audio');document.createE
 <div class="the-subnav bg-green hidden-md-down">
 	<div class="container-fluid">
 
-		<div class="col-sm-6 subnav-left">
+		<div class="col-sm-6">
 			<ul class="list-unstyled list-inline">
-				<li><a href="#overview">Overview</a></li>
-				<li><a href="#tuition-info">Tuition</a></li>
-				<li><a href="#open-house">Open House <?php if(get_field('open_house_date', 'option'))
+				<li class="sub-link"><a href="#overview">Overview</a></li>
+				<li class="sub-link"><a href="#tuition-info">Tuition</a></li>
+				<li class="sub-link"><a href="#open-house">Open House <?php if(get_field('open_house_date', 'option'))
 {
 
 	$date = DateTime::createFromFormat('Ymd', get_field('open_house_date', 'option'));
@@ -122,8 +122,9 @@ document.createElement('video');document.createElement('audio');document.createE
 			</ul>
 		</div> <!-- /.subnav-left -->
 
-		<div class="col-sm-6 subnav-right">
+		<div class="col-sm-6">
 			<ul class="list-unstyled list-inline text-right">
+				<li class="sub-link"><a href="/faq">FAQ</a></li>
 				<li><a href="#" class="btn btn-info-outline" data-toggle="modal" data-target="#infoModal">Request Info</a></li>
 				<li><a href="<?php bloginfo('url');?>/apply" class="btn btn-info">Apply Now</a></li>
 			</ul>
