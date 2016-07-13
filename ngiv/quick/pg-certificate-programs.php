@@ -319,11 +319,13 @@
 					
 				<div class="col-md-4">
 
-					<a href="/certificate-programs/?add-to-cart=16138" rel="nofollow" data-product_id="16138" data-product_sku="" class="btn btn-primary btn-block">In Session</a>
+					<a href="/request-info-food-entrepreneurship/" class="btn btn-primary btn-block">Request Info</a>
+					<!-- <a href="/certificate-programs/?add-to-cart=16138" rel="nofollow" data-product_id="16138" data-product_sku="" class="btn btn-primary btn-block">In Session</a> -->
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>Wednesdays: 6:30pm &mdash; 9:30pm*<br>
-						March 30, 2016 &mdash; June 1, 2016</p>
+						<p>Fall 2016 Program dates coming soon, request info to be added to the notification list</p>
+						<!-- <p>Wednesdays: 6:30pm &mdash; 9:30pm*<br>
+						March 30, 2016 &mdash; June 1, 2016</p> -->
 						<h5>Cost</h5>
 						<p>$3,300 / Deposit: $1,100</p>
 					</aside> <!-- /.well -->
