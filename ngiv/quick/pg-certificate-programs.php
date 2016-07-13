@@ -198,19 +198,20 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=17940" rel="nofollow" data-product_id="17940" data-product_sku="" class="btn btn-primary btn-block disabled">Currently Full</a>
+					<a href="/certificate-programs/?add-to-cart=21105" rel="nofollow" data-product_id="21105" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>July 25, 2016 &mdash; August 5, 2016 <br />
-						(No classes Saturday + Sunday)<br />
-						9am &mdash; 4pm<br />
+						<p>September 6, 2016 &mdash; November 2, 2016 <br />
+						Monday and Wednesday*<br />
+						6:30pm &mdash; 9:30pm<br />
+						<em>*The first class will be held on Tuesday September 6, to accommodate the Labor Day holiday</em>
 						</p>
 						<h5>Cost</h5>
 						<p>$5,550 / Deposit: $1,833</p>						
 						<p>Students will receive a certificate of completion.</p>
 
-						<p><strong>The 2016 Culinary Nutrition summer program is currently fully enrolled. If you would like to be added to the wait list, please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> with your full name and contact number. Available places will be filled on a first come first served basis.</strong></p>
-					</aside>
+<!-- 						<p><strong>The 2016 Culinary Nutrition summer program is currently fully enrolled. If you would like to be added to the wait list, please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> with your full name and contact number. Available places will be filled on a first come first served basis.</strong></p>
+ -->					</aside>
 
 				</div> <!-- /.col-md-4 -->
 				
@@ -257,18 +258,17 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=20298" rel="nofollow" data-product_id="20298" data-product_sku="" class="btn btn-primary btn-block disabled">Currently Full</a>
+					<a href="/certificate-programs/?add-to-cart=21108" rel="nofollow" data-product_id="21108" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>August 15, 2016 &mdash; August 26, 2016<br>
-						9:00 am &mdash; 4:00 pm<br></p>
+						<p>October 10, 2016 &mdash; December 13, 2016<br>
+						Monday and Tuesday<br />
+						6pm &mdash; 10pm<br></p>
 						<h5>Cost</h5>
 						<p>$5,500 / Deposit: $1,833</p>
 						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
 
 						<p>Students will receive a certificate of completion.</p>
-
-						<p><strong>The August 2016 Food Therapy summer program is currently fully enrolled. If you would like to be added to the wait list, please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> with your full name and contact number. Available places will be filled on a first come first served basis.</strong></p>
 
 					</aside> <!-- /.well -->
 				</div> <!-- /.col-md-4 -->
