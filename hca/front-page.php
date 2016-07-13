@@ -147,6 +147,9 @@
 
                $date = date('F j, Y', $session_stamp);
                echo '<h3>'.$date.'</h3>';
+               if(get_sub_field('waitlist')) {
+                  echo '<span class="label label-default">Waitlist Only</span><br />';
+               }
                echo '<span class="designation">Full-Time</span>';
                echo '<p>';
                echo 'Monday to Thursday: '.get_sub_field('times,_monday_to_thursday');
@@ -176,6 +179,9 @@
 
                $date = date('F j, Y', $session_stamp);
                echo '<h3>'.$date.'</h3>';
+               if(get_sub_field('waitlist')) {
+                  echo '<span class="label label-default">Waitlist Only</span><br />';
+               }               
                echo '<span class="designation">Part-Time</span>';
                echo '<p>';
                if(have_rows('schedule')){
