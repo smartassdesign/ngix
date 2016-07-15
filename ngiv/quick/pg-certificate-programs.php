@@ -190,7 +190,7 @@
 					<div class="well">
 						<p>To register for Culinary Nutrition click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
 
-						<p>Refund and Cancellation Policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
+						<p>Refund and Cancellation Policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
 
 					</div> <!-- /.well -->	
 
@@ -249,7 +249,7 @@
 					<div class="well">
 						<p>To register for Food Therapy click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
 
-						<p>Refund policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
+						<p>Refund policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
 					</div> <!-- /.well -->					
 
 				</div> <!-- /.col-md-8 -->	
