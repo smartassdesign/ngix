@@ -64,25 +64,9 @@ $counter = 0;
 				</div> <!-- /.col-md-8 -->
 			</div>	<!-- /.row -->					
 
-
-
 				</div> <!-- /.col-md-12 -->
 			</div>	<!-- /.row -->
 		</div>	<!-- /.container -->
-
-
-<?php /* <div class="container-fluid bg-green p-y-lg m-t-3">
-	<div class="row no-gutter">
-		<div class="col-md-12">
-			<div class="text-xs-center">
-				<a href="#" class="btn btn-lg btn-info-outline" data-toggle="modal" data-target="#infoModal">Request Info</a>
-				<a href="<?php bloginfo('url');?>/apply" class="btn btn-lg btn-info">Apply Now</a>
-			</div>
-		</div> <!-- /.col-md-12 -->
-	</div> <!-- /.row -->
-</div> <!-- /.container-fluid -->
-*/ ?>
-
 
 
 	</div> <!-- /.page-wrap -->
