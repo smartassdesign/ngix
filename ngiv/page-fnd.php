@@ -38,8 +38,8 @@
 	</div> <!-- /.container-fluid -->
 </div>	<!-- /.pod-mini bg-white -->
 
-
-<div class="pod-mini special-event" style="background-color: rgba(208,40,95,.17)">
+<!-- background-color: rgba(208,40,95,.17) -->
+<div class="pod-mini special-event" style="border-top: 8px solid rgb(208,40,95); border-bottom: 8px solid rgb(208,40,95);">
 	<div class="container">
 		<div class="row m-b-2">	
 			<div class="col-md-12 text-xs-center">
@@ -91,14 +91,6 @@
 
 				<p>Join Miranda Hammer, creator of the renowned Crunchy Radish blog, for a special dinner event. In celebration to her recent completion of our Chef’s Training Program, the Mediterranean-inspired plant-based menu is a salute to summer’s bounty featuring local produce and seasonal flavors.</p>
 			</div> <!-- /.col-md-4 -->
-		</div> <!-- /.row -->
-
-		<hr>
-
-		<div class="row">	
-			<div class="col-md-12">
-				<p><small><b>Miranda Hammer</b> is a New York City-based Registered Dietitian, natural foods chef, and founder of the clean-eating, healthy-living blog <a href="http://crunchyradish.com/" target="_blank">Crunchy Radish</a>. She recently completed the Chef's Training Program at the Natural Gourmet Institute for Health and Culinary Arts. After obtaining her masters in Clinical Nutrition from New York University, she went on to work as a Clinical Dietitian at Montefiore Medical Center. Later, Miranda shifted her focus to the culinary side of nutrition and started writing about health and wellness and developing health-focused recipes. Her health and wellness philosophy focuses on plant-based, seasonal eating, and balanced living. She works with private clients on various nutritional and lifestyle issues and develops recipes and content for brands and media outlets. You can find her work featured on <em>Mindbodygreen, Vogue, Well + Good,</em> and  <em>Self Magazine</em> to name a few.</small></p>
-			</div> <!-- /.col-md-12 -->	
 		</div> <!-- /.row -->
 
 	</div> <!-- /.container -->
