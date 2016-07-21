@@ -66,7 +66,7 @@
 					            <tr style="display:none">
 					              <td width='75' class='woocommerce'>
 					                <div class="quantity">
-					                  <input type="number" step="1" min="1" max="82" name="quantity_<?php the_field('fnd-product'); ?>" value="1" title="Qty" class="input-text qty text" size="4" />
+					                  <input type="number" step="1" min="1" max="82" name="quantity_21130" value="1" title="Qty" class="input-text qty text" size="4" />
 					                </div>
 					              </td>
 					              <td class='tickets_price'>
