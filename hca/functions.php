@@ -105,7 +105,7 @@ add_filter('wp_nav_menu_items', 'add_search_form', 10, 2);
 
 
           
-        <a id="hamburger-icon" class="offcanvas-toggle" data-toggle="offcanvas" data-target="#sidemenu" data-canvas="body">  <span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></a>';
+        <li id="hamburger-icon"><a class="offcanvas-toggle" data-toggle="offcanvas" data-target="#sidemenu" data-canvas="body">  <span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></a></li>';
      return $items;
 }
 
