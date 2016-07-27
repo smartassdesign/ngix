@@ -58,7 +58,7 @@
 	</div> <!-- /.col-md-4 -->	
 
 	<div class="col-md-4">
-		<a href="https://naturalgourmetinstitute.com/qa-with-ngi-alum-cara-mangini-author-of-the-vegetable-butcher/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-mangini.jpg" alt="Cara Mangini" class="img-fluid">
+		<a href="https://naturalgourmetinstitute.com/qa-with-ngi-alum-cara-mangini-author-of-the-vegetable-butcher/"><img src="<?php echo get_bloginfo('stylesheet_directory');?>/assets/img/ngihca-alumni-mangini.jpg" alt="Cara Mangini" class="img-fluid"></a>
 			<p class="m-t-1"><small><a href="https://naturalgourmetinstitute.com/qa-with-ngi-alum-cara-mangini-author-of-the-vegetable-butcher/">Cara Mangini</a> is an Ohio-based chef who recently published her first cookbook, <em>The Vegetable Butcher.</em></small></p>
 	</div> <!-- /.col-md-4 -->		
 
