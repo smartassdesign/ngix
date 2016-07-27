@@ -326,7 +326,7 @@
    <div class="container btmbtm">
       <div class="row">
          <div class="col-md-9 col-md-offset-3">
-            <h1 class="large">Interested in recreational classes, certificates and vegan&nbsp;dinners?</h1>
+            <h2 class="h1 large">Interested in recreational classes, certificates and vegan&nbsp;dinners?</h2>
             <a href="http://naturalgourmetinstitute.com" class="slider-button btn btn-default btn-sm">Click here</a>
          </div> <!-- /.col-md-9 -->
       </div> <!-- /.row -->

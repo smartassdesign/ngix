@@ -23,7 +23,7 @@ $counter = 0;
 <div class="row">
 	<div class="col-md-8">
 
-				<h2 class="m-t-md">Professional Chef's Training Program FAQ’s</h2>
+				<h1 class="h2 m-t-md">Professional Chef&rsquo;s Training Program FAQ&rsquo;s</h1>
 
 
 					<?php if( have_rows('faq_entry') ): ?>
