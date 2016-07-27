@@ -57,7 +57,9 @@ document.createElement('video');document.createElement('audio');document.createE
 	  <div class="container-fluid">
 		 <div class="navbar-header">
 				<div class="pull-right hidden-lg-up">
-	<a id="minihamburger-icon" data-toggle="collapse" data-target="#navbar-mobile">  <span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></a></div>
+					<a id="minihamburger-icon" data-toggle="collapse" data-target="#navbar-mobile">  
+					<span class="line line-1"></span><span class="line line-2"></span><span class="line line-3"></span></a>
+				</div>
 
 
 			<a class="navbar-brand text-hide" href="<?php bloginfo('url');?>">Natural Gourmet Institute for Health and Culinary Arts</a>
@@ -92,7 +94,7 @@ document.createElement('video');document.createElement('audio');document.createE
 						  );
 			 ?>
 		 </div> <!-- /.hidden-lg-up -->
-
+		</div><!--  /.container-fluid -->
 	</nav>
 
 <?php /* <div id="the-dropper" class="dropper collapse">
@@ -120,7 +122,7 @@ document.createElement('video');document.createElement('audio');document.createE
 }
 ?></a></li>
 			</ul>
-		</div> <!-- /.subnav-left -->
+		</div> <!-- /.col-sm-6 -->
 
 		<div class="col-sm-6">
 			<ul class="list-unstyled list-inline text-right">
@@ -128,10 +130,10 @@ document.createElement('video');document.createElement('audio');document.createE
 				<li><a href="#" class="btn btn-info-outline" data-toggle="modal" data-target="#infoModal">Request Info</a></li>
 				<li><a href="<?php bloginfo('url');?>/apply" class="btn btn-info">Apply Now</a></li>
 			</ul>
-		</div> <!-- /.col-md-4 .subnav-right -->
+		</div> <!-- /.col-sm-6 -->
 
 	</div> <!-- /.container-fluid -->
-</div>
+</div> <!-- /.the-subnav -->
 <?php } ?>
 
 </header>

@@ -25,7 +25,7 @@
 
 <div class="boxed bg-white trailer">
 	<div class="row">
-		<section id="profile-tease-2">
+		<section id="profile-tease-3">
 			<div class="col-sm-8">
 				<a href="<?php echo home_url(); ?>/alumni/chloe-coscarelli"><img src="/assets/profile-chloe-coscarelli-teaser.jpg" class="img-fluid" alt="Chloe Coscarelli"></a>
 			</div> <!-- /.col-sm-8 -->
