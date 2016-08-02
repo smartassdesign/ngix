@@ -33,8 +33,6 @@
 
 <?php get_template_part('quick/modal-info');  ?>
 
-<?php include("quick/modal-ngihca.php"); ?>
-
 
 
 
