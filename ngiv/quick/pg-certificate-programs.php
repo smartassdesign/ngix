@@ -302,7 +302,7 @@
 						<li>Defining your mission: Driving impact, instilling mission, vision, values, and selecting partners</li>
 					</ul>		
 
-					<h5 class="leader">Jennifer Goggin Bio</h5>
+					<h5 class="leader">Instructor Bio</h5>
 					<p>Jennifer has been a food entrepreneur and advisor in the food-tech space since 2010. She co-founded FarmersWeb, an online marketplace where wholesale buyers source local products directly from the farm and streamline logistics, delivery and payments. Previously, she was the Director of Operations for Basis Farm to Chef, a local food distributor in New York. She has been a featured panelist and moderator for conferences on entrepreneurship and the food technology industry, as well as a columnist for Food Tech Connect and Huffington Post Food. Jennifer the chair of the Slow Food NYC board where she directs the NYC chapter’s efforts to recognize and support restaurants, bars, and markets that contribute to the quality, authenticity and sustainability of the New York City food supply.</p>					
 
 					<p class="trailer"><a href="/request-info-food-entrepreneurship/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
@@ -321,8 +321,9 @@
 					<a href="/certificate-programs/?add-to-cart=21808" rel="nofollow" data-product_id="21808" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>Tuesday Evenings: 6:30pm &mdash; 9:30pm*<br>
-						September 27, October 4, October 11, October 18</p>
+						<p>September 27, 2016 &mdash; October 18, 2016 <br />
+						Tuesday<br />
+						6:30pm &mdash; 9:30pm</p>
 						<h5>Cost</h5>
 						<p>$1,200 / Deposit: $600</p>
 					</aside> <!-- /.well -->
