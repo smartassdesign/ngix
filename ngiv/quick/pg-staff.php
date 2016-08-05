@@ -80,10 +80,6 @@
 					<dt>Ann Nunziata</dt>
 					<dd>Chef Instructor</dd>					
 					
-					<h6>Nutrition</h6>
-					<dt>Kayleen St. John, MS, RD</dt>
-					<dd>Director of Nutrition Education and Programming</dd>					
-
 					<h6>Admissions</h6>
 					<dt>Sydney Schwarz</dt>
 					<dd>Director of Admissions &amp; Advancement</dd>
@@ -106,10 +102,6 @@
 					<dt>Sean Arguelles</dt>
 					<dd>Head Teaching Assistant</dd>	
 
-					<h6>Business Administration</h6>
-					<dt>Melody Miller</dt>
-					<dd>Director of Business Administration</dd>					
-
 					<!-- <dt>Rosemary Serviss</dt>
 					<dd>Director of Career Services</dd> -->
 
@@ -118,6 +110,10 @@
 
 			<div class="col-md-6">
 				<dl>
+					<h6>Business Administration</h6>
+					<dt>Melody Miller</dt>
+					<dd>Director of Business Administration</dd>	
+				
 					<h6>Community</h6>
 					<dt>Julie Van Wagenen</dt>
 					<dd>Events &amp; Community Manager</dd>	
