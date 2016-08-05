@@ -65,10 +65,12 @@
 					<h6>Chef's Training Program</h6>
 <!-- 					<dt>Susan Baldassano</dt>
 					<dd>Senior Director of Chef’s Training Program &amp; Student Affairs</dd>
- -->					<dt>Alexandra Borgia</dt>
+ -->				<dt>Alexandra Borgia</dt>
 					<dd>Chef Instructor/Attendance Registrar</dd>
 					<dt>Barbara Rich</dt>
 					<dd>Career Services Manager &amp; Internship Coordinator</dd>
+					<dt>Stacee Houston</dt>
+					<dd>Chef’s Training Program Coordinator</dd>					
 					<dt>Celine Beitchman</dt>
 					<dd>Chef Instructor</dd>
 					<dt>Elliott Prag</dt>
@@ -86,13 +88,17 @@
 					<dt>Sydney Schwarz</dt>
 					<dd>Director of Admissions &amp; Advancement</dd>
 					<dt>Ariel Kalishman Walsh</dt>
-					<dd>Admissions Manager</dd>			
+					<dd>Admissions Manager</dd>	
+					<dt>Ruby Glaser</dt>
+					<dd>Admissions Manager</dd>								
 
 					<h6>Marketing &amp; Communications</h6>
 					<!-- <dt>Jacqueline Somen</dt>
 					<dd>Director of Marketing &amp; Communications</dd> -->
 					<dt>Alexandra Shytsman</dt>
 					<dd>Senior Marketing &amp; Communications Manager</dd>
+					<dt>Kimberly Fitzpatrick</dt>
+					<dd>Marketing &amp; Communications Coordinator</dd>					
 
 					<h6>Public Class</h6>
 					<dt>Sheila Brady</dt>
