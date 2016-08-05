@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-blogging">Food Blogging</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-therapy">Food Therapy</a>, and <a href="#food-entrepreneurship">Food Entrepreneurship</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-blogging">Food Blogging</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-therapy">Food Therapy</a>, and <a href="#food-entrepreneurship">Starting a Food Business: How to Plan, Execute and Market Your Idea</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 
 
@@ -279,53 +279,52 @@
 
 		<div class="sub-pod">
 	<section id="food-entrepreneurship">
-			<img src ="/assets/food-entrepreneurship.jpg" alt="NGI Food Entrepreneurship Bootcamp" class="img-fluid trailer">
+			<img src ="/assets/food-entrepreneurship.jpg" alt="Starting a Food Business: How to Plan, Execute and Market Your Idea" class="img-fluid trailer">
 
 			<div class="row">
 				<div class="col-md-8">
 					<header>	
-			      		<h2>Food Entrepreneurship Bootcamp</h2>
+			      		<h2>Starting a Food Business: How to Plan, Execute and Market Your Idea</h2>
 					</header>
 
 					<!-- <h4>Overview</h4> -->
-					<p>Do you dream of transforming your passion for food into an exciting new business or career? This spring, learn the recipe for success from some of New York’s best food and business entrepreneurs, while actively participating in Natural Gourmet Institute’s Food Entrepreneurship Bootcamp. Led by experienced food business manager and leader Ariel Kalishman Walsh, MBA (formerly of Saxelby Cheesemongers and Sea to Table) and food start-up founder and advisor Jennifer Goggin (formerly of FarmersWeb), students will learn what it takes to start a successful food business from established food entrepreneurs. Past program partners include <a href="http://www.robertaspizza.com/">Roberta’s</a>, <a href="http://krumvillebakeshop.com/">Krumville Bake Shop</a>, <a href="http://www.quinciple.com/">Quinciple</a> and more!</p>
+					<p>Ready to transform your passion for food into an exciting new business or career? This fall, learn the recipe for success from some of New York’s best food and business entrepreneurs under the guidance of industry experts. Led by experienced food start-up founder and advisor Jennifer Goggin (formerly of FarmersWeb), students will learn what it takes to start a successful food business from established food entrepreneurs. Past program partners include Roberta’s, Krumville Bake Shop, Quinciple and more!</p>
 
-
-					<p>Throughout this inspiring and educational course, students will champion their own business ideas while conceptualizing a plan and learning what is involved in running a food start-up. The class culminates with a pitch to a panel of industry experts and investors, who will provide valuable feedback on each student’s business.</p>
+					<p>Throughout this 4 session evening course, you will learn the fundamentals of what to expect when launching a food business.</p>
 
 					<p>In addition to gaining real world experience, receiving expert advice, and hearing war stories from seasoned food entrepreneurs, you will also:</p>
 
-					<ul>
-						<li>Build a winning concept</li>
-						<li>Create and refine business model canvases to shape your concept</li>
-						<li>Understand the elements and importance of a financial model and build your own</li>
-						<li>Develop a powerful pitch deck for investors or a sales deck for initial customers</li>
-						<li>Get expert feedback and advice on your individual business concept during regular workshopping sessions</li>
-						<li>Create a 6-month roadmap to build on your momentum after the course ends</li>
-						<li>Leave with a list of resources for next steps and an expanded network of food industry connections</li>
+					<ul class="trailer">
+						<li>An understanding of key business concepts and organizational structures</li>
+						<li>Techniques to strengthen your business concept </li>
+						<li>Basic finance skills: determining feasibility and reading financials</li>
+						<li>Sales and Marketing: Best practices to tell your story</li>
+						<li>Defining your mission: Driving impact, instilling mission, vision, values, and selecting partners</li>
 					</ul>		
+
+					<h5 class="leader">Jennifer Goggin Bio</h5>
+					<p>Jennifer has been a food entrepreneur and advisor in the food-tech space since 2010. She co-founded FarmersWeb, an online marketplace where wholesale buyers source local products directly from the farm and streamline logistics, delivery and payments. Previously, she was the Director of Operations for Basis Farm to Chef, a local food distributor in New York. She has been a featured panelist and moderator for conferences on entrepreneurship and the food technology industry, as well as a columnist for Food Tech Connect and Huffington Post Food. Jennifer the chair of the Slow Food NYC board where she directs the NYC chapter’s efforts to recognize and support restaurants, bars, and markets that contribute to the quality, authenticity and sustainability of the New York City food supply.</p>					
 
 					<p class="trailer"><a href="/request-info-food-entrepreneurship/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
 
 					<div class="well">
-						<p>The total cost of the program is $3,300. To register, submit the deposit payment of $1,100. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download the payment plan selection form.</p>
+						<p>The total cost of the program is $1,200. To register, submit the deposit payment of $600. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download the payment plan selection form.</p>
 
-						<p>Refund policy: Students completing less than 50% of the coursework will receive a refund based on the number of course hours completed less the deposit, which is nonrefundable 2 weeks prior to your start date.  Students completing more than 50% of the program are not eligible for a refund.</p>
+						<p>Refund policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
 					</div> <!-- /.well -->							
 				</div> <!-- /.col-md-8 -->	
 
 					
 				<div class="col-md-4">
 
-					<a href="/request-info-food-entrepreneurship/" class="btn btn-primary btn-block">Request Info</a>
-					<!-- <a href="/certificate-programs/?add-to-cart=16138" rel="nofollow" data-product_id="16138" data-product_sku="" class="btn btn-primary btn-block">In Session</a> -->
+					<!-- <a href="/request-info-food-entrepreneurship/" class="btn btn-primary btn-block">Request Info</a> -->
+					<a href="/certificate-programs/?add-to-cart=21808" rel="nofollow" data-product_id="21808" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>Fall 2016 Program dates coming soon, request info to be added to the notification list</p>
-						<!-- <p>Wednesdays: 6:30pm &mdash; 9:30pm*<br>
-						March 30, 2016 &mdash; June 1, 2016</p> -->
+						<p>Tuesday Evenings: 6:30pm &mdash; 9:30pm*<br>
+						September 27, October 4, October 11, October 18</p>
 						<h5>Cost</h5>
-						<p>$3,300 / Deposit: $1,100</p>
+						<p>$1,200 / Deposit: $600</p>
 					</aside> <!-- /.well -->
 				</div> <!-- /.col-md-4 -->
 				

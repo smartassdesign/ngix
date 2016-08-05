@@ -96,9 +96,9 @@
 					<dt>Sheila Brady</dt>
 					<dd>Public Class Program Manager</dd>
 					<dt>Ann Nunziata</dt>
-					<dd>Head Kitchen Assistant</dd>
+					<dd>Chef Instructor</dd>
 					<dt>Sean Arguelles</dt>
-					<dd>Head Kitchen Assistant</dd>	
+					<dd>Head Teaching Assistant</dd>	
 
 					<h6>Business Administration</h6>
 					<dt>Melody Miller</dt>
