@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-blogging">Food Blogging</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-therapy">Food Therapy</a>, and <a href="#food-entrepreneurship">Starting a Food Business: How to Plan, Execute and Market Your Idea</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-blogging">Food Blogging</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-therapy">Food Therapy</a>, and <a href="#food-entrepreneurship">Starting a Food Business</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 
 
@@ -295,8 +295,8 @@
 					<p>In addition to gaining real world experience, receiving expert advice, and hearing war stories from seasoned food entrepreneurs, you will also:</p>
 
 					<ul class="trailer">
-						<li>An understanding of key business concepts and organizational structures</li>
-						<li>Techniques to strengthen your business concept </li>
+						<li>Gain an understanding of key business concepts and organizational structures</li>
+						<li>Learn techniques to strengthen your business concept </li>
 						<li>Basic finance skills: determining feasibility and reading financials</li>
 						<li>Sales and Marketing: Best practices to tell your story</li>
 						<li>Defining your mission: Driving impact, instilling mission, vision, values, and selecting partners</li>

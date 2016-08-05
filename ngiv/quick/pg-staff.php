@@ -63,9 +63,9 @@
 			<div class="col-md-6">
 				<dl>
 					<h6>Chef's Training Program</h6>
-					<dt>Susan Baldassano</dt>
+<!-- 					<dt>Susan Baldassano</dt>
 					<dd>Senior Director of Chef’s Training Program &amp; Student Affairs</dd>
-					<dt>Alexandra Borgia</dt>
+ -->					<dt>Alexandra Borgia</dt>
 					<dd>Chef Instructor/Attendance Registrar</dd>
 					<dt>Barbara Rich</dt>
 					<dd>Career Services Manager &amp; Internship Coordinator</dd>
@@ -75,6 +75,8 @@
 					<dd>Chef Instructor/Curriculum Development Manager</dd>
 					<dt>Olivia Roszkowski</dt>
 					<dd>Chef Instructor</dd>
+					<dt>Ann Nunziata</dt>
+					<dd>Chef Instructor</dd>					
 					
 					<h6>Nutrition</h6>
 					<dt>Kayleen St. John, MS, RD</dt>
@@ -95,8 +97,6 @@
 					<h6>Public Class</h6>
 					<dt>Sheila Brady</dt>
 					<dd>Public Class Program Manager</dd>
-					<dt>Ann Nunziata</dt>
-					<dd>Chef Instructor</dd>
 					<dt>Sean Arguelles</dt>
 					<dd>Head Teaching Assistant</dd>	
 
@@ -117,7 +117,7 @@
 					<dd>Events &amp; Community Manager</dd>	
 
 					<h6>Finance/HR</h6>
-					<dt>Emily Connors</dt>
+					<dt>Ts'Diquah Vanterpool</dt>
 					<dd>Finance Manager</dd>					
 
 					<h6>Operations &amp; IT</h6>
