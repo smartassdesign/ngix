@@ -63,46 +63,44 @@
 			<div class="col-md-6">
 				<dl>
 					<h6>Chef's Training Program</h6>
-					<dt>Susan Baldassano</dt>
+<!-- 					<dt>Susan Baldassano</dt>
 					<dd>Senior Director of Chef’s Training Program &amp; Student Affairs</dd>
-					<dt>Alexandra Borgia</dt>
+ -->				<dt>Alexandra Borgia</dt>
 					<dd>Chef Instructor/Attendance Registrar</dd>
 					<dt>Barbara Rich</dt>
 					<dd>Career Services Manager &amp; Internship Coordinator</dd>
+					<dt>Stacee Houston</dt>
+					<dd>Chef’s Training Program Coordinator</dd>					
 					<dt>Celine Beitchman</dt>
 					<dd>Chef Instructor</dd>
 					<dt>Elliott Prag</dt>
 					<dd>Chef Instructor/Curriculum Development Manager</dd>
 					<dt>Olivia Roszkowski</dt>
 					<dd>Chef Instructor</dd>
+					<dt>Ann Nunziata</dt>
+					<dd>Chef Instructor</dd>					
 					
-					<h6>Nutrition</h6>
-					<dt>Kayleen St. John, MS, RD</dt>
-					<dd>Director of Nutrition Education and Programming</dd>					
-
 					<h6>Admissions</h6>
 					<dt>Sydney Schwarz</dt>
 					<dd>Director of Admissions &amp; Advancement</dd>
 					<dt>Ariel Kalishman Walsh</dt>
-					<dd>Admissions Manager</dd>			
+					<dd>Admissions Manager</dd>	
+					<dt>Ruby Glaser</dt>
+					<dd>Admissions Manager</dd>								
 
 					<h6>Marketing &amp; Communications</h6>
 					<!-- <dt>Jacqueline Somen</dt>
 					<dd>Director of Marketing &amp; Communications</dd> -->
 					<dt>Alexandra Shytsman</dt>
 					<dd>Senior Marketing &amp; Communications Manager</dd>
+					<dt>Kimberly Fitzpatrick</dt>
+					<dd>Marketing &amp; Communications Coordinator</dd>					
 
 					<h6>Public Class</h6>
 					<dt>Sheila Brady</dt>
 					<dd>Public Class Program Manager</dd>
-					<dt>Ann Nunziata</dt>
-					<dd>Head Kitchen Assistant</dd>
 					<dt>Sean Arguelles</dt>
-					<dd>Head Kitchen Assistant</dd>	
-
-					<h6>Business Administration</h6>
-					<dt>Melody Miller</dt>
-					<dd>Director of Business Administration</dd>					
+					<dd>Head Teaching Assistant</dd>	
 
 					<!-- <dt>Rosemary Serviss</dt>
 					<dd>Director of Career Services</dd> -->
@@ -112,12 +110,16 @@
 
 			<div class="col-md-6">
 				<dl>
+					<h6>Business Administration</h6>
+					<dt>Melody Miller</dt>
+					<dd>Director of Business Administration</dd>	
+				
 					<h6>Community</h6>
 					<dt>Julie Van Wagenen</dt>
 					<dd>Events &amp; Community Manager</dd>	
 
 					<h6>Finance/HR</h6>
-					<dt>Emily Connors</dt>
+					<dt>Ts'Diquah Vanterpool</dt>
 					<dd>Finance Manager</dd>					
 
 					<h6>Operations &amp; IT</h6>

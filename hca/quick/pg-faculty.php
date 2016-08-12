@@ -198,37 +198,6 @@
 
 
 
-
-<div class="col-sm-4">
-	<div class='ngi-team'>
-		<div class='ngi-team-inner'>
-			<div class='ngi-team-image'>
-				<img src='../wp-content/uploads/faculty-kayleen-st-john-550.jpg' class="img-responsive" alt="Kayleen St. John" />
-				<div class='ngi-team-description-wrapper'>
-					<div class='ngi-team-description'>
-						<div class='ngi-team-description-inner'>
-							<p>Kayleen MS, RD has a Master’s degree in clinical nutrition from NYU and is a registered dietitian. Her research examines the relationship between diet and inflammatory conditions. Kayleen is an avid runner and believes smart nutrition contributes to optimal athletic performance.</p>
-						</div> <!-- ./ngi-team-description-inner -->
-					</div> <!-- ./ngi-team-description -->
-				</div> <!-- ./ngi-team-description-wrapper -->
-			</div> <!-- ./ngi-team-image -->
-			<div class='ngi-team-text'>
-				<div class='ngi-team-text-inner'>
-					<div class='ngi-team-title-holder'>
-						<h4 class='ngi-team-name'>Kayleen St. John</h4>
-						<span>Resident Dietitian</span>
-					</div> <!-- ./ngi-team-title-holder -->
-					<span class='separator'></span> <!-- /.separator -->
-				</div> <!-- ./ngi-team-text-inner -->
-			</div> <!-- ./ngi-team-text -->
-		</div> <!-- ./ngi-team-inner -->
-	</div> <!-- ./ngi-team -->
-</div> <!-- ./col-sm-4 -->
-
-
-
-
-
 <div class="col-sm-4">
 	<div class='ngi-team'>
 		<div class='ngi-team-inner'>
