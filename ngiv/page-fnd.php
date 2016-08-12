@@ -38,63 +38,7 @@
 	</div> <!-- /.container-fluid -->
 </div>	<!-- /.pod-mini bg-white -->
 
-<!-- background-color: rgba(208,40,95,.17) -->
-<div class="pod-mini special-event" style="border-top: 8px solid rgb(208,40,95); border-bottom: 8px solid rgb(208,40,95);">
-	<div class="container">
-		<div class="row m-b-2">	
-			<div class="col-md-12 text-xs-center">
-				<h2>A Special Dinner Event: Summer Salutation with the Crunchy Radish</h2>
-			</div> <!-- /.col-md-12 -->	
-		</div> <!-- /.row -->
 
-		<div class="row">	
-			<div class="col-md-8">
-				<h4 style="margin-bottom: 5px">For the Table</h4>
-				<p>Hummus with Pea and Mint Pesto, Roasted Spiced Baby Carrots, and Toasted Pistachios; Muhammara; Seasonal Baby Vegetables and Flaxseed Crackers; Paprika-Cumin Poppers</p>
-				<h4 style="margin-bottom: 5px">Appetizer</h4> 
-				<p>Beet Tartare with Beet Green Chip; Green Gazpacho Shooter</p>
-				<h4 style="margin-bottom: 5px">Entrée</h4>
-				<p>Polenta Made with Charred Corn Topped with Eggplant-Tomato Caponata and Fresh Herbs; Sauteed Seasonal Greens with Garlic Chips</p>
-				<h4 style="margin-bottom: 5px">Dessert</h4>
-				<p>Seasonal Fruit Walnut-Oat Crumble with Honey-Lavender Ice Cream; Coconut-Raspberry Popsicle Dipped in Dark Chocolate, Coconut, Pistachios and Sea Salt; Brooklyn Roasting Company Coffee</p>
-			</div> <!-- /.col-md-8 -->
-
-			<div class="col-md-4">
-							<form action="<?php echo esc_url( add_query_arg( 'wootickets_process', 1, $woocommerce->cart->get_cart_url() ) ); ?>" class="cart" method="post" enctype='multipart/form-data'>
-					          <table width="100%" class="tribe-events-tickets">
-					            <input type='hidden' name='product_id[]' value='21130'>
-					            <tr style="display:none">
-					              <td width='75' class='woocommerce'>
-					                <div class="quantity">
-					                  <input type="number" step="1" min="1" max="82" name="quantity_21130" value="1" title="Qty" class="input-text qty text" size="4" />
-					                </div>
-					              </td>
-					              <td class='tickets_price'>
-					                <span class="amount">&#36;45.00</span>
-					              </td>
-					            </tr>
-					            <tr>
-					              <td colspan="2" class='woocommerce'>
-					                <button type="submit" class="btn btn-primary btn-block">Make a Reservation</button>
-					              </td>
-					            </tr>
-					          </table>
-					      </form>
-
-				<h4 class="m-y-1" style="line-height: 1.5em">					      			
-					Tuesday, August 9<br />
-					6:30 pm - 9:30 pm<br />
-					$45
-				</h4>
-
-				<img src="https://i0.wp.com/naturalgourmetinstitute.com/wp-content/uploads/Crunchy-Radish.png" class="img-fluid m-y-2">
-
-				<p>Join Miranda Hammer, creator of the renowned Crunchy Radish blog, for a special dinner event. In celebration to her recent completion of our Chef’s Training Program, the Mediterranean-inspired plant-based menu is a salute to summer’s bounty featuring local produce and seasonal flavors.</p>
-			</div> <!-- /.col-md-4 -->
-		</div> <!-- /.row -->
-
-	</div> <!-- /.container -->
-</div>	<!-- /.pod-mini special-event -->
 
 
 	<div class="container">
