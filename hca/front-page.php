@@ -247,7 +247,7 @@
       <div class="row">
 
          <div class="col-md-4">
-            <h4>Scholarships</h4>
+            <h4>Grants</h4>
          </div> <!-- /.col-md-4 -->
 
 
@@ -257,13 +257,19 @@
 
                <div class="panel">
                   <div class="panel-heading">
-                     <h4><a data-toggle="collapse" data-target="#partner" data-parent="#scholarship-group" class="panel-plus collapsed">Partner Scholarships</a></h4>
+                     <h4><a data-toggle="collapse" data-target="#partner" data-parent="#scholarship-group" class="panel-plus collapsed">Partner Grants</a></h4>
                   </div> <!-- /.panel-heading -->
                   <div id="partner" class="collapse panel-collapse">
                      <div class="panel-body">
-                        <p class="lede"><a href="<?php bloginfo('url');?>/vegetarian-times-scholarship/" class="ww">Natural Gourmet Institute Vegetarian Times Scholarship</a></p>
-                        <p class="lede"><a href="<?php bloginfo('url');?>/yoga-journal-scholarship/" class="ww">Natural Gourmet Institute Yoga Journal Scholarship</a></p>
-                        </p>
+                        <p class="lede"><a href="<?php bloginfo('url');?>/food-medicine-grant/" class="ww">Food as Medicine Grant</a></p>
+
+                        <p class="lede"><a href="<?php bloginfo('url');?>/certified-yoga-practitioner-grant/" class="ww">Certified Yoga Practitioner Grant</a></p>
+
+                        <p class="lede"><a href="<?php bloginfo('url');?>/certified-health-coach-grant/" class="ww">Certified Health Coach Grant</a></p>
+
+                        <p class="lede"><a href="<?php bloginfo('url');?>/career-changer-grant/" class="ww">Career Changer Grant</a></p>
+
+                        <p class="lede"><a href="<?php bloginfo('url');?>/better-food-movement-grant/" class="ww">Better Food Movement Grant</a></p>
                      </div> <!-- /.panel-body -->
                   </div> <!-- /.beard -->
                </div> <!-- /.panel -->
@@ -271,12 +277,12 @@
 
                <div class="panel">
                   <div class="panel-heading">
-                     <h4><a data-toggle="collapse" data-target="#foundation" data-parent="#scholarship-group" class="panel-plus collapsed">Foundation Scholarships</a></h4>
+                     <h4><a data-toggle="collapse" data-target="#foundation" data-parent="#scholarship-group" class="panel-plus collapsed">Foundation Grants</a></h4>
                   </div> <!-- /.panel-heading -->
                   <div id="foundation" class="collapse panel-collapse">
                      <div class="panel-body">
-                        <p class="lede"><a href="<?php bloginfo('url');?>/annemarie-colbin-scholarship/" class="ww">Dr. Annemarie Colbin Scholarship</a></p>
-                        <p class="lede"><a href="<?php bloginfo('url');?>/james-beard-scholarship/" class="ww">James Beard Foundation Scholarship</a></p>
+                        <p class="lede"><a href="<?php bloginfo('url');?>/annemarie-colbin-scholarship/" class="ww">Dr. Annemarie Colbin Grant</a></p>
+                        <p class="lede"><a href="<?php bloginfo('url');?>/james-beard-scholarship/" class="ww">James Beard Foundation Grant</a></p>
                      </div> <!-- /.panel-body -->
                   </div> <!-- /.culinary-trust -->
                </div> <!-- /.panel -->
@@ -284,11 +290,11 @@
 
                <div class="panel">
                   <div class="panel-heading">
-                     <h4><a data-toggle="collapse" data-target="#military" data-parent="#scholarship-group" class="panel-plus collapsed">Military Scholarships</a></h4>
+                     <h4><a data-toggle="collapse" data-target="#military" data-parent="#scholarship-group" class="panel-plus collapsed">Military Grants</a></h4>
                   </div> <!-- /.panel-heading -->
                   <div id="military" class="collapse panel-collapse">
                      <div class="panel-body">
-                        <p class="lede"><a href="<?php bloginfo('url');?>/military-allowance/" class="ww">Military Allowance Scholarship</a></p>
+                        <p class="lede"><a href="<?php bloginfo('url');?>/military-tuition-allowance-grant/" class="ww">Military Tuition Allowance Grant</a></p>
                      </div> <!-- /.panel-body -->
                   </div> <!-- /.military -->
                </div> <!-- /.panel -->
