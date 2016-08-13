@@ -137,7 +137,7 @@
 
              if(get_sub_field('which_session') == 'Full-Time'){
 
-               if($count > 2)break; //only show 2
+               if($count > 5)break; //only show 2
 
                $now_stamp = time();
                $session_stamp = strtotime(get_sub_field('start_date_of_session'));
@@ -169,7 +169,7 @@
 
              if(get_sub_field('which_session') == 'Part-Time'){
 
-               if($count > 2)break; //only show 2
+               if($count > 3)break; //only show 2
 
                $now_stamp = time();
                $session_stamp = strtotime(get_sub_field('start_date_of_session'));
