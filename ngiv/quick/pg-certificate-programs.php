@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-blogging">Food Blogging</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-therapy">Food Therapy</a>, and <a href="#food-entrepreneurship">Starting a Food Business</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-blogging">Food Blogging</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-therapy">Food Therapy</a>, and <a href="#starting-a-food-business">Starting a Food Business</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 
 
@@ -278,7 +278,7 @@
 
 
 		<div class="sub-pod">
-	<section id="food-entrepreneurship">
+	<section id="starting-a-food-business">
 			<img src ="/assets/food-entrepreneurship.jpg" alt="Starting a Food Business: How to Plan, Execute and Market Your Idea" class="img-fluid trailer">
 
 			<div class="row">
@@ -303,9 +303,9 @@
 					</ul>		
 
 					<h5 class="leader">Instructor Bio</h5>
-					<p>Jennifer has been a food entrepreneur and advisor in the food-tech space since 2010. She co-founded FarmersWeb, an online marketplace where wholesale buyers source local products directly from the farm and streamline logistics, delivery and payments. Previously, she was the Director of Operations for Basis Farm to Chef, a local food distributor in New York. She has been a featured panelist and moderator for conferences on entrepreneurship and the food technology industry, as well as a columnist for Food Tech Connect and Huffington Post Food. Jennifer the chair of the Slow Food NYC board where she directs the NYC chapter’s efforts to recognize and support restaurants, bars, and markets that contribute to the quality, authenticity and sustainability of the New York City food supply.</p>					
+					<p>Jennifer Goggin has been an entrepreneur and advisor in the food-tech space since 2011 when she co-founded FarmersWeb to help farms, food hubs and food artisans streamline wholesale orders, deliveries and payments online. Prior to FarmersWeb, Jennifer was Director of Operations at Basis Farm to Chef, a local food distributor in New York. She has been a featured panelist and moderator for conferences on entrepreneurship and the food technology industry, as well as a guest columnist for <em>Food+Tech Connect</em> and <em>Huffington Post Food.</em> Jennifer is a board member of Slow Food NYC where she works on its Snail of Approval committee to recognize restaurants, bars, and markets that contribute to the quality, authenticity and sustainability of the New York City food supply.</p>					
 
-					<p class="trailer"><a href="/request-info-food-entrepreneurship/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
+					<p class="trailer"><a href="/request-info-starting-a-food-business/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
 
 					<div class="well">
 						<p>The total cost of the program is $1,200. To register, submit the deposit payment of $600. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download the payment plan selection form.</p>
@@ -330,7 +330,7 @@
 				</div> <!-- /.col-md-4 -->
 				
 			</div> <!-- /.row -->	
-	</section> <!-- /#food-entrepreneurship -->
+	</section> <!-- /#starting-a-food-business -->
 	</div>	
 
 
