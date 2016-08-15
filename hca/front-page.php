@@ -257,7 +257,7 @@
 
                <div class="panel">
                   <div class="panel-heading">
-                     <h4><a data-toggle="collapse" data-target="#partner" data-parent="#scholarship-group" class="panel-plus collapsed">Partner Grants</a></h4>
+                     <h4><a data-toggle="collapse" data-target="#partner" data-parent="#scholarship-group" class="panel-plus collapsed">Natural Gourmet Institute Grants</a></h4>
                   </div> <!-- /.panel-heading -->
                   <div id="partner" class="collapse panel-collapse">
                      <div class="panel-body">
@@ -277,20 +277,7 @@
 
                <div class="panel">
                   <div class="panel-heading">
-                     <h4><a data-toggle="collapse" data-target="#foundation" data-parent="#scholarship-group" class="panel-plus collapsed">Foundation Grants</a></h4>
-                  </div> <!-- /.panel-heading -->
-                  <div id="foundation" class="collapse panel-collapse">
-                     <div class="panel-body">
-                        <p class="lede"><a href="<?php bloginfo('url');?>/annemarie-colbin-scholarship/" class="ww">Dr. Annemarie Colbin Grant</a></p>
-                        <p class="lede"><a href="<?php bloginfo('url');?>/james-beard-scholarship/" class="ww">James Beard Foundation Grant</a></p>
-                     </div> <!-- /.panel-body -->
-                  </div> <!-- /.culinary-trust -->
-               </div> <!-- /.panel -->
-
-
-               <div class="panel">
-                  <div class="panel-heading">
-                     <h4><a data-toggle="collapse" data-target="#military" data-parent="#scholarship-group" class="panel-plus collapsed">Military Grants</a></h4>
+                     <h4><a data-toggle="collapse" data-target="#military" data-parent="#scholarship-group" class="panel-plus collapsed">Military Grant</a></h4>
                   </div> <!-- /.panel-heading -->
                   <div id="military" class="collapse panel-collapse">
                      <div class="panel-body">
