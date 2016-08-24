@@ -97,7 +97,7 @@
 					<dd>Marketing &amp; Communications Coordinator</dd>					
 
 					<h6>Public Class</h6>
-					<dt>Sheila Brady</dt>
+					<dt>Tia Cannon</dt>
 					<dd>Public Class Program Manager</dd>
 					<dt>Sean Arguelles</dt>
 					<dd>Head Teaching Assistant</dd>	
@@ -112,7 +112,7 @@
 				<dl>
 					<h6>Business Administration</h6>
 					<dt>Melody Miller</dt>
-					<dd>Director of Business Administration</dd>	
+					<dd>Chief Operating Officer</dd>	
 				
 					<h6>Community</h6>
 					<dt>Julie Van Wagenen</dt>
