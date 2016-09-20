@@ -288,7 +288,7 @@
 					</header>
 
 					<!-- <h4>Overview</h4> -->
-					<p>Ready to transform your passion for food into an exciting new business or career? This fall, learn the recipe for success from some of New York’s best food and business entrepreneurs under the guidance of industry experts. Led by experienced food start-up founder and advisor Jennifer Goggin (formerly of FarmersWeb), students will learn what it takes to start a successful food business from established food entrepreneurs. Past program partners include Roberta’s, Krumville Bake Shop, Quinciple and more!</p>
+					<p>Ready to transform your passion for food into an exciting new business or career? This fall, learn the recipe for success from some of New York’s best food and business entrepreneurs under the guidance of industry experts. Led by experienced food start-up founder and advisor Jennifer Goggin (formerly of FarmersWeb), students will learn what it takes to start a successful food business from established food entrepreneurs. Guest speakers will include Alison Gilbert, Project AG; Lynn Yoder Thibault, Amazon Fresh; and Christine Rico, Speed Dial.</p>
 
 					<p>Throughout this 4 session evening course, you will learn the fundamentals of what to expect when launching a food business.</p>
 
