@@ -120,7 +120,7 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=19774" rel="nofollow" data-product_id="19774" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=19774" rel="nofollow" data-product_id="19774" data-product_sku="" class="btn btn-primary btn-block disabled">In Session</a>
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>Monday, 9/12: 6:30pm &mdash; 10pm<br/>
@@ -198,7 +198,7 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=21105" rel="nofollow" data-product_id="21105" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=21105" rel="nofollow" data-product_id="21105" data-product_sku="" class="btn btn-primary btn-block disabled">In Session</a>
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>September 6, 2016 &mdash; November 2, 2016 <br />
@@ -318,7 +318,7 @@
 				<div class="col-md-4">
 
 					<!-- <a href="/request-info-food-entrepreneurship/" class="btn btn-primary btn-block">Request Info</a> -->
-					<a href="/certificate-programs/?add-to-cart=21808" rel="nofollow" data-product_id="21808" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=21808" rel="nofollow" data-product_id="21808" data-product_sku="" class="btn btn-primary btn-block disabled">In Session</a>
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>September 27, 2016 &mdash; October 18, 2016 <br />

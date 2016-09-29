@@ -30,11 +30,11 @@
 		<div class='ngi-team'>
 			<div class='ngi-team-inner'>
 				<div class='ngi-team-image'>
-					<img src='../assets/staff-jonathan-cetnarski.jpg' class="img-responsive" alt="Jonathan Cetnarski"/>
+					<img src='../assets/staff-jonathan-cetnarski-rev.jpg' class="img-responsive" alt="Jonathan Cetnarski"/>
 					<div class='ngi-team-description-wrapper'>
 						<div class='ngi-team-description'>
 							<div class='ngi-team-description-inner'>
-								<p>Jonathan is a transformational executive and a true leader. He spent 15 years developing and running value added practices for a payments company. Most recently, Jonathan ran a managed services division of a large global telecoms company where he was responsible for acquisition, retention, profitability and customer experience.</p>
+								<p> Jonathan Cetnarski is a transformational executive who aims to redefine the culinary school experience for the 21st century. He is passionate about ensuring food security for a growing global population, and advocates for the return of traditional foodways, sustainable farming practices, and humane treatment of animals and food producers. Jonathan is committed to providing all students with an optimal learning experience and helping them enter the food industry with NGI’s high standard of health-focused cooking at the core of their culinary perspectives.</p>
 							</div> <!-- ./ngi-team-description-inner -->
 						</div> <!-- ./ngi-team-description -->
 					</div> <!-- ./ngi-team-description-wrapper -->
