@@ -3,6 +3,123 @@
 &nbsp;
 
 
+<div class="sub-pod">
+		<section id="food-therapy">
+
+			<img src="/assets/NGI-CFPWI-web.jpg" alt="Food Therapy Certificate Program" class="img-fluid trailer">	
+			<div class="row">
+				<div class="col-md-8">
+					<header>	
+			      		<h2>Food Therapy</h2>
+					</header>
+
+
+					<p class="trailer">It is no secret that proper nourishment can be a powerful aid to the healing process. In the Food Therapy Certificate Program, students will learn about whole systems biology, core nutritional imbalances, and how to translate a dietary prescription into practical meal planning and preparation. Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Led by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions.</p>
+
+					<h4>Coursework</h4>
+					<ul><li> Exploring the differences between "illness" and "disease"</li>
+						<li>Understanding the principles of culinary translation</li>
+					<li>Common issues of chronic disease - genetics, environment and diet</li>
+					<li>Working through the relationship between food and health</li>
+					<li>Cooking concerns for people with cancer, immune disorders, diabetes, inflammation and other illnesses</li>
+					<li>Menu planning for people with illnesses</li>
+					<li>Developing culinary strategies that support well-being and healing</li>
+					<li>And more!</li></ul>	
+	
+
+					<p class="trailer"><a href="/request-info-food-therapy/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
+
+					<div class="well">
+						<p>To register for Food Therapy click enroll and submit the deposit payment. Once your deposit is processed you will receive an email confirmation and link to complete the balance of tuition payment form. Follow the instructions in the form to complete your registration.</p>
+
+						<p>Refund policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
+					</div> <!-- /.well -->					
+
+				</div> <!-- /.col-md-8 -->	
+
+					
+				<div class="col-md-4">
+					<a href="/certificate-programs/?add-to-cart=23797" rel="nofollow" data-product_id="23797" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<aside class="well">
+						<h5>Dates</h5>
+						<p>February 13, 2017 &mdash; February 24, 2017<br>
+						Monday &mdash; Friday<br />
+						9:30am &mdash; 4:30pm<br></p>
+						<h5>Cost</h5>
+						<p>$5,550 / Deposit: $1,833</p>
+						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
+
+						<p>Students will receive a certificate of completion.</p>
+
+					</aside> <!-- /.well -->
+				</div> <!-- /.col-md-4 -->
+				
+			</div> <!-- /.row -->		
+		</section> <!-- /#food-therapy -->
+	</div>	
+
+
+
+
+
+		<div class="sub-pod">
+	<section id="starting-a-food-business">
+			<img src ="/assets/food-entrepreneurship.jpg" alt="Starting a Food Business: How to Plan, Execute and Market Your Idea" class="img-fluid trailer">
+
+			<div class="row">
+				<div class="col-md-8">
+					<header>	
+			      		<h2>Starting a Food Business: How to Plan, Execute and Market Your Idea</h2>
+					</header>
+
+					<!-- <h4>Overview</h4> -->
+					<p>Ready to transform your passion for food into an exciting new business or career? This fall, learn the recipe for success from some of New York’s best food and business entrepreneurs under the guidance of industry experts. Led by experienced food start-up founder and advisor Jennifer Goggin (Founder of Pippin Foods and Co-Founder of Farmers Web), students will learn what it takes to start a successful food business from established food entrepreneurs. Past guest speakers have included Alison Gilbert, Project AG; Lynn Yoder Thibault, Amazon Fresh; and Christine Rico, Speed Dial.</p>
+
+					<p>Throughout this 4 session evening course, you will learn the fundamentals of what to expect when launching a food business.</p>
+
+					<p>In addition to gaining real world experience, receiving expert advice, and hearing war stories from seasoned food entrepreneurs, you will also:</p>
+
+					<ul class="trailer">
+						<li>Gain an understanding of key business concepts and organizational structures</li>
+						<li>Learn techniques to strengthen your business concept </li>
+						<li>Basic finance skills: determining feasibility and reading financials</li>
+						<li>Sales and Marketing: Best practices to tell your story</li>
+						<li>Defining your mission: Driving impact, instilling mission, vision, values, and selecting partners</li>
+					</ul>		
+
+					<h5 class="leader">Instructor Bio</h5>
+					<p>Jennifer Goggin has been an entrepreneur and advisor in the food-tech space since 2011 when she co-founded FarmersWeb to help farms, food hubs and food artisans streamline wholesale orders, deliveries and payments online. Prior to FarmersWeb, Jennifer was Director of Operations at Basis Farm to Chef, a local food distributor in New York. She has been a featured panelist and moderator for conferences on entrepreneurship and the food technology industry, as well as a guest columnist for <em>Food+Tech Connect</em> and <em>Huffington Post Food.</em> Jennifer is a board member of Slow Food NYC where she works on its Snail of Approval committee to recognize restaurants, bars, and markets that contribute to the quality, authenticity and sustainability of the New York City food supply.</p>					
+
+					<p class="trailer"><a href="/request-info-starting-a-food-business/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
+
+					<div class="well">
+						<p>To register for Starting a Food Business click enroll and submit the deposit payment. Once your deposit is processed you will receive an email confirmation and link to complete the balance of tuition payment form. Follow the instructions in the form to complete your registration.</p>
+
+						<p>Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
+					</div> <!-- /.well -->							
+				</div> <!-- /.col-md-8 -->	
+
+					
+				<div class="col-md-4">
+
+					<!-- <a href="/request-info-food-entrepreneurship/" class="btn btn-primary btn-block">Request Info</a> -->
+					<a href="/certificate-programs/?add-to-cart=23796" rel="nofollow" data-product_id="23796" data-product_sku="" class="btn btn-primary btn-block disabled">In Session</a>
+					<aside class="well">
+						<h5>Dates</h5>
+						<p>May 3, 2017 &mdash; May 24, 2017 <br />
+						Wednesday<br />
+						6:30pm &mdash; 9:30pm</p>
+						<h5>Cost</h5>
+						<p>$1,200 / Deposit: $600</p>
+					</aside> <!-- /.well -->
+				</div> <!-- /.col-md-4 -->
+				
+			</div> <!-- /.row -->	
+	</section> <!-- /#starting-a-food-business -->
+	</div>	
+
+
+
 
 		<div class="sub-pod">
 			<section id="sustainable-farming">
@@ -23,15 +140,16 @@
 
 					<p>Upon completing this program, students will achieve a thorough understanding of organic farming, composting, the “locavore” movement, and the relationship between cooks and local farmers.</p>
 
-					<h4>Schedule</h4>
-					<p>Thursday, 8/11: <strong>Brooklyn Grange</strong></p>
-					<p>Friday, 8/12: <strong>Brooklyn Grange</strong></p>
-					<p>Saturday, 8/13: <strong>McEnroe Farm</strong></p>
-					<p>Sunday, 8/14: <strong>Farm visit, upstate New York</strong></p>
-					<p>Monday, 8/15: <strong>Union Square Greenmarket and Distribution Center</strong></p>
+					<h4>Schedule*</h4>
+					<p>Thursday, 8/17: <strong>Brooklyn Grange</strong></p>
+					<p>Friday, 8/18: <strong>Brooklyn Grange</strong></p>
+					<p>Saturday, 8/19: <strong>McEnroe Farm</strong></p>
+					<p>Sunday, 8/20: <strong>Farm visit, upstate New York</strong></p>
+					<p>Monday, 8/21: <strong>Union Square Greenmarket and Distribution Center</strong></p>
+					<p class="m-b-2"><small>* 2017 Program dates subject to change</small></p>
 					
 					<div class="well">
-					<p>To register for Sustainable Farming click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
+					<p>To register for Sustainable Farming click enroll and submit the deposit payment. Once your deposit is processed you will receive an email confirmation and link to complete the balance of tuition payment form. Follow the instructions in the form to complete your registration.</p>
 
 					<p>Refund policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student. </p></div>
 
@@ -42,15 +160,15 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=17942" rel="nofollow" data-product_id="17942" data-product_sku="" class="btn btn-primary btn-block disabled">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=23798" rel="nofollow" data-product_id="23798" data-product_sku="" class="btn btn-primary btn-block disabled">Enroll</a>
 					<!-- <a href="/certificate-programs/?add-to-cart=765" rel="nofollow" data-product_id="765" data-product_sku="" class="btn btn-primary btn-block" rel="nofollow" data-product_id="765">Enroll</a> -->
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>Thursday &mdash; Monday<br />
-						August 11, 2016 &mdash; August 15, 2016<br />
-						8am &mdash; 4pm</p>
+						August 17, 2017 &mdash; August 21, 2017<br />
+						9am &mdash; 4pm</p>
 						<h5>Cost</h5>
-						<p>$1,800 / Deposit: $600</p>
+						<p>$1,800 / Deposit: $900</p>
 						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
 
 						<p>Students will receive a certificate of completion.</p>
@@ -61,6 +179,89 @@
 			</div> <!-- /.row -->
 		</section> <!-- /#sustainable-farming -->
 		</div>
+
+
+
+
+
+		<div class="sub-pod">
+			<section id="culinary-nutrition">
+			<img src ="/assets/culinary-nutrition.jpg" alt="NGI Culinary Nutrition Certificate Program" class="img-fluid trailer">
+
+			<div class="row">
+				<div class="col-md-8">
+					<header>	
+			      		<h2>Culinary Nutrition Certificate Program - New York City</h2>
+					</header>
+
+					<!-- <h4>Overview</h4> -->
+					<p class="trailer">The Culinary Nutrition Certificate Program with Natural Gourmet Institute provides students with an in-depth and hands-on understanding of nutrition theory. The program explores the science of nutrition, nutrition in the marketplace, trends, and specialized diets through lecture and kitchen labs. Led by Kayleen St. John, MS RD, and Laura Rosenberg MS RD, students will learn from expert guest speakers from the food, health, and nutrition fields! Upon completion of the course, students will have learned how to incorporate the fundamentals of nutrition into their culinary perspective.</p>
+						
+					<h4>Coursework</h4>
+						<b>Fundamentals in Nutrition</b>
+						<ul>
+							<li>Food-based micronutrients and macronutrients</li>
+							<li>Optimizing nutrients through food</li>
+							<li>Nutrient retention</li>
+							<li>Food synergies</li>
+							<li>Nutrient analysis of menus</li>
+							<li>Nutrition in the marketplace</li>
+						</ul>
+						<b>Specialized Diets</b>
+						<ul>
+							<li>Life cycle nutrition</li>
+							<li>Vegetarian and vegan nutrition</li>
+							<li>Diabetes and metabolic syndrome</li>
+							<li>Food allergies and intolerances</li>
+							<li>Gluten sensitivity/intolerance</li>
+						</ul>
+						<b>Trends in Nutrition</b>
+						<ul>
+							<li>Alternative diets</li>
+							<li>Weight management</li>
+							<li>Inflammation</li>
+							<li>Econutrition</li>
+						</ul>
+
+						<p class="trailer"><a href="/request-info-culinary-nutrition/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
+
+					<div class="well">
+						<p>To register for Culinary Nutrition click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
+
+						<p>Refund and Cancellation Policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
+
+					</div> <!-- /.well -->	
+
+				</div> <!-- /.col-md-8 -->	
+
+					
+				<div class="col-md-4">
+					<a href="/certificate-programs/?add-to-cart=21105" rel="nofollow" data-product_id="21105" data-product_sku="" class="btn btn-primary btn-block disabled">In Session</a>
+					<aside class="well">
+						<h5>Dates</h5>
+						<p>New dates coming soon.</p>
+						<!-- <p>September 6, 2016 &mdash; November 2, 2016 <br />
+						Monday and Wednesday*<br />
+						6:30pm &mdash; 9:30pm<br />
+						<em>*The first class will be held on Tuesday September 6, to accommodate the Labor Day holiday</em> -->
+						</p>
+						<h5>Cost</h5>
+						<p>$5,550 / Deposit: $1,833</p>						
+						<p>Students will receive a certificate of completion.</p>
+
+<!-- 						<p><strong>The 2016 Culinary Nutrition summer program is currently fully enrolled. If you would like to be added to the wait list, please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> with your full name and contact number. Available places will be filled on a first come first served basis.</strong></p>
+ -->					</aside>
+
+				</div> <!-- /.col-md-4 -->
+				
+			</div> <!-- /.row -->
+		</section> <!-- /#culinary-nutrition -->		
+		</div>			
+
+
+
+
+
 
 
 
@@ -123,11 +324,12 @@
 					<a href="/certificate-programs/?add-to-cart=19774" rel="nofollow" data-product_id="19774" data-product_sku="" class="btn btn-primary btn-block disabled">In Session</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>Monday, 9/12: 6:30pm &mdash; 10pm<br/>
+						<p>New dates coming soon.</p>						
+<!-- 						<p>Monday, 9/12: 6:30pm &mdash; 10pm<br/>
 						Tuesday, 9/13: 6:30pm &mdash; 10pm<br/>
 						Tuesday, 9/20: 6:30pm &mdash; 10pm<br/>
 						Thursday, 9/22: 6:30pm &mdash; 10pm<br/>
-						Monday, 9/26: 6:30pm &mdash; 10pm</p>
+						Monday, 9/26: 6:30pm &mdash; 10pm</p> -->
 						<h5>Cost</h5>
 						<p>Full Tuition: $2,400<br />
 						Deposit due at registration: $800</p>
@@ -146,192 +348,10 @@
 
 
 
-		<div class="sub-pod">
-			<section id="culinary-nutrition">
-			<img src ="/assets/culinary-nutrition.jpg" alt="NGI Culinary Nutrition Certificate Program" class="img-fluid trailer">
-
-			<div class="row">
-				<div class="col-md-8">
-					<header>	
-			      		<h2>Culinary Nutrition Certificate Program - New York City</h2>
-					</header>
-
-					<!-- <h4>Overview</h4> -->
-					<p class="trailer">The Culinary Nutrition Certificate Program with Natural Gourmet Institute provides students with an in-depth and hands-on understanding of nutrition theory. The program explores the science of nutrition, nutrition in the marketplace, trends, and specialized diets through lecture and kitchen labs. Led by Kayleen St. John, MS RD, and Laura Rosenberg MS RD, students will learn from expert guest speakers from the food, health, and nutrition fields! Upon completion of the course, students will have learned how to incorporate the fundamentals of nutrition into their culinary perspective.</p>
-						
-					<h4>Coursework</h4>
-						<b>Fundamentals in Nutrition</b>
-						<ul>
-							<li>Food-based micronutrients and macronutrients</li>
-							<li>Optimizing nutrients through food</li>
-							<li>Nutrient retention</li>
-							<li>Food synergies</li>
-							<li>Nutrient analysis of menus</li>
-							<li>Nutrition in the marketplace</li>
-						</ul>
-						<b>Specialized Diets</b>
-						<ul>
-							<li>Life cycle nutrition</li>
-							<li>Vegetarian and vegan nutrition</li>
-							<li>Diabetes and metabolic syndrome</li>
-							<li>Food allergies and intolerances</li>
-							<li>Gluten sensitivity/intolerance</li>
-						</ul>
-						<b>Trends in Nutrition</b>
-						<ul>
-							<li>Alternative diets</li>
-							<li>Weight management</li>
-							<li>Inflammation</li>
-							<li>Econutrition</li>
-						</ul>
-
-						<p class="trailer"><a href="/request-info-culinary-nutrition/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
-
-					<div class="well">
-						<p>To register for Culinary Nutrition click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
-
-						<p>Refund and Cancellation Policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
-
-					</div> <!-- /.well -->	
-
-				</div> <!-- /.col-md-8 -->	
-
-					
-				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=21105" rel="nofollow" data-product_id="21105" data-product_sku="" class="btn btn-primary btn-block disabled">In Session</a>
-					<aside class="well">
-						<h5>Dates</h5>
-						<p>September 6, 2016 &mdash; November 2, 2016 <br />
-						Monday and Wednesday*<br />
-						6:30pm &mdash; 9:30pm<br />
-						<em>*The first class will be held on Tuesday September 6, to accommodate the Labor Day holiday</em>
-						</p>
-						<h5>Cost</h5>
-						<p>$5,550 / Deposit: $1,833</p>						
-						<p>Students will receive a certificate of completion.</p>
-
-<!-- 						<p><strong>The 2016 Culinary Nutrition summer program is currently fully enrolled. If you would like to be added to the wait list, please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> with your full name and contact number. Available places will be filled on a first come first served basis.</strong></p>
- -->					</aside>
-
-				</div> <!-- /.col-md-4 -->
-				
-			</div> <!-- /.row -->
-		</section> <!-- /#culinary-nutrition -->		
-		</div>			
-
-
-<div class="sub-pod">
-		<section id="food-therapy">
-
-			<img src="/assets/NGI-CFPWI-web.jpg" alt="Food Therapy Certificate Program" class="img-fluid trailer">	
-			<div class="row">
-				<div class="col-md-8">
-					<header>	
-			      		<h2>Food Therapy</h2>
-					</header>
-
-
-					<p class="trailer">It is no secret that proper nourishment can be a powerful aid to the healing process. In the Food Therapy Certificate Program, students will learn about whole systems biology, core nutritional imbalances, and how to translate a dietary prescription into practical meal planning and preparation. Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Led by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions.</p>
-
-					<h4>Coursework</h4>
-					<ul><li> Exploring the differences between "illness" and "disease"</li>
-						<li>Understanding the principles of culinary translation</li>
-					<li>Common issues of chronic disease - genetics, environment and diet</li>
-					<li>Working through the relationship between food and health</li>
-					<li>Cooking concerns for people with cancer, immune disorders, diabetes, inflammation and other illnesses</li>
-					<li>Menu planning for people with illnesses</li>
-					<li>Developing culinary strategies that support well-being and healing</li>
-					<li>And more!</li></ul>	
-	
-
-					<p class="trailer"><a href="/request-info-food-therapy/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
-
-					<div class="well">
-						<p>To register for Food Therapy click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
-
-						<p>Refund policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
-					</div> <!-- /.well -->					
-
-				</div> <!-- /.col-md-8 -->	
-
-					
-				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=21108" rel="nofollow" data-product_id="21108" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
-					<aside class="well">
-						<h5>Dates</h5>
-						<p>October 10, 2016 &mdash; December 13, 2016<br>
-						Monday and Tuesday<br />
-						6pm &mdash; 10pm<br></p>
-						<h5>Cost</h5>
-						<p>$5,550 / Deposit: $1,833</p>
-						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
-
-						<p>Students will receive a certificate of completion.</p>
-
-					</aside> <!-- /.well -->
-				</div> <!-- /.col-md-4 -->
-				
-			</div> <!-- /.row -->		
-		</section> <!-- /#food-therapy -->
-	</div>	
 
 
 
-		<div class="sub-pod">
-	<section id="starting-a-food-business">
-			<img src ="/assets/food-entrepreneurship.jpg" alt="Starting a Food Business: How to Plan, Execute and Market Your Idea" class="img-fluid trailer">
 
-			<div class="row">
-				<div class="col-md-8">
-					<header>	
-			      		<h2>Starting a Food Business: How to Plan, Execute and Market Your Idea</h2>
-					</header>
-
-					<!-- <h4>Overview</h4> -->
-					<p>Ready to transform your passion for food into an exciting new business or career? This fall, learn the recipe for success from some of New York’s best food and business entrepreneurs under the guidance of industry experts. Led by experienced food start-up founder and advisor Jennifer Goggin (formerly of FarmersWeb), students will learn what it takes to start a successful food business from established food entrepreneurs. Guest speakers will include Alison Gilbert, Project AG; Lynn Yoder Thibault, Amazon Fresh; and Christine Rico, Speed Dial.</p>
-
-					<p>Throughout this 4 session evening course, you will learn the fundamentals of what to expect when launching a food business.</p>
-
-					<p>In addition to gaining real world experience, receiving expert advice, and hearing war stories from seasoned food entrepreneurs, you will also:</p>
-
-					<ul class="trailer">
-						<li>Gain an understanding of key business concepts and organizational structures</li>
-						<li>Learn techniques to strengthen your business concept </li>
-						<li>Basic finance skills: determining feasibility and reading financials</li>
-						<li>Sales and Marketing: Best practices to tell your story</li>
-						<li>Defining your mission: Driving impact, instilling mission, vision, values, and selecting partners</li>
-					</ul>		
-
-					<h5 class="leader">Instructor Bio</h5>
-					<p>Jennifer Goggin has been an entrepreneur and advisor in the food-tech space since 2011 when she co-founded FarmersWeb to help farms, food hubs and food artisans streamline wholesale orders, deliveries and payments online. Prior to FarmersWeb, Jennifer was Director of Operations at Basis Farm to Chef, a local food distributor in New York. She has been a featured panelist and moderator for conferences on entrepreneurship and the food technology industry, as well as a guest columnist for <em>Food+Tech Connect</em> and <em>Huffington Post Food.</em> Jennifer is a board member of Slow Food NYC where she works on its Snail of Approval committee to recognize restaurants, bars, and markets that contribute to the quality, authenticity and sustainability of the New York City food supply.</p>					
-
-					<p class="trailer"><a href="/request-info-starting-a-food-business/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
-
-					<div class="well">
-						<p>The total cost of the program is $1,200. To register, submit the deposit payment of $600. Once your deposit is received your place on the roster will be held for 1 week. You will receive an email confirmation and link to download the payment plan selection form.</p>
-
-						<p>Refund policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
-					</div> <!-- /.well -->							
-				</div> <!-- /.col-md-8 -->	
-
-					
-				<div class="col-md-4">
-
-					<!-- <a href="/request-info-food-entrepreneurship/" class="btn btn-primary btn-block">Request Info</a> -->
-					<a href="/certificate-programs/?add-to-cart=21808" rel="nofollow" data-product_id="21808" data-product_sku="" class="btn btn-primary btn-block disabled">In Session</a>
-					<aside class="well">
-						<h5>Dates</h5>
-						<p>September 27, 2016 &mdash; October 18, 2016 <br />
-						Tuesday<br />
-						6:30pm &mdash; 9:30pm</p>
-						<h5>Cost</h5>
-						<p>$1,200 / Deposit: $600</p>
-					</aside> <!-- /.well -->
-				</div> <!-- /.col-md-4 -->
-				
-			</div> <!-- /.row -->	
-	</section> <!-- /#starting-a-food-business -->
-	</div>	
 
 
 
