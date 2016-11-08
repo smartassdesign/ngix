@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#food-blogging">Food Blogging</a>, <a href="#culinary-nutrition">Culinary Nutrition</a>, <a href="#food-therapy">Food Therapy</a>, and <a href="#starting-a-food-business">Starting a Food Business</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a>, <a href="#starting-a-food-business">Starting a Food Business</a>, <a href="#sustainable-farming">Sustainable Farming</a>, <a href="#culinary-nutrition">Culinary Nutrition</a> and <a href="#food-blogging">Food Blogging</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 
 
@@ -25,6 +25,11 @@
 					<li>Menu planning for people with illnesses</li>
 					<li>Developing culinary strategies that support well-being and healing</li>
 					<li>And more!</li></ul>	
+
+					<h4 class="leader">Instructors</h5>
+					<p><b>Celine Beitchman</b> is a chef-instructor, private-chef, and nutrition counselor. A graduate of the Food Therapy Program at Natural Gourmet Institute, WSET Wine Program and a lifetime of apprenticeship experience, Chef Celine is committed to promoting sustainable, health supportive foods.</p>
+
+					<p><b>Elliott Prag</b> is the Curriculum Development Manager and a full-time instructor. A graduate of our Chef’s Training Program, Elliott opened the first health-supportive restaurant in Sofia, Bulgaria. He is a frequent contributor to Vegetarian Times and an expert in baking health-supportive bread.</p>					
 	
 
 					<p class="trailer"><a href="/request-info-food-therapy/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
@@ -60,8 +65,6 @@
 
 
 
-
-
 		<div class="sub-pod">
 	<section id="starting-a-food-business">
 			<img src ="/assets/food-entrepreneurship.jpg" alt="Starting a Food Business: How to Plan, Execute and Market Your Idea" class="img-fluid trailer">
@@ -87,7 +90,7 @@
 						<li>Defining your mission: Driving impact, instilling mission, vision, values, and selecting partners</li>
 					</ul>		
 
-					<h5 class="leader">Instructor Bio</h5>
+					<h5 class="leader">Instructor</h5>
 					<p>Jennifer Goggin has been an entrepreneur and advisor in the food-tech space since 2011 when she co-founded FarmersWeb to help farms, food hubs and food artisans streamline wholesale orders, deliveries and payments online. Prior to FarmersWeb, Jennifer was Director of Operations at Basis Farm to Chef, a local food distributor in New York. She has been a featured panelist and moderator for conferences on entrepreneurship and the food technology industry, as well as a guest columnist for <em>Food+Tech Connect</em> and <em>Huffington Post Food.</em> Jennifer is a board member of Slow Food NYC where she works on its Snail of Approval committee to recognize restaurants, bars, and markets that contribute to the quality, authenticity and sustainability of the New York City food supply.</p>					
 
 					<p class="trailer"><a href="/request-info-starting-a-food-business/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
@@ -103,7 +106,7 @@
 				<div class="col-md-4">
 
 					<!-- <a href="/request-info-food-entrepreneurship/" class="btn btn-primary btn-block">Request Info</a> -->
-					<a href="/certificate-programs/?add-to-cart=23796" rel="nofollow" data-product_id="23796" data-product_sku="" class="btn btn-primary btn-block disabled">In Session</a>
+					<a href="/certificate-programs/?add-to-cart=23796" rel="nofollow" data-product_id="23796" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>May 3, 2017 &mdash; May 24, 2017 <br />
@@ -160,7 +163,7 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=23798" rel="nofollow" data-product_id="23798" data-product_sku="" class="btn btn-primary btn-block disabled">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=23798" rel="nofollow" data-product_id="23798" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<!-- <a href="/certificate-programs/?add-to-cart=765" rel="nofollow" data-product_id="765" data-product_sku="" class="btn btn-primary btn-block" rel="nofollow" data-product_id="765">Enroll</a> -->
 					<aside class="well">
 						<h5>Dates</h5>
@@ -236,7 +239,7 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=21105" rel="nofollow" data-product_id="21105" data-product_sku="" class="btn btn-primary btn-block disabled">In Session</a>
+					<a href="/certificate-programs/?add-to-cart=21105" rel="nofollow" data-product_id="21105" data-product_sku="" class="btn btn-primary btn-block disabled">Coming Soon</a>
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>New dates coming soon.</p>
@@ -321,7 +324,7 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=19774" rel="nofollow" data-product_id="19774" data-product_sku="" class="btn btn-primary btn-block disabled">In Session</a>
+					<a href="/certificate-programs/?add-to-cart=19774" rel="nofollow" data-product_id="19774" data-product_sku="" class="btn btn-primary btn-block disabled">Coming Soon</a>
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>New dates coming soon.</p>						
