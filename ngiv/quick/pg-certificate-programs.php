@@ -27,9 +27,9 @@
 					<li>And more!</li></ul>	
 
 					<h4 class="leader">Instructors</h5>
-					<p><b>Celine Beitchman</b> is a chef-instructor, private-chef, and nutrition counselor. A graduate of the Food Therapy Program at Natural Gourmet Institute, WSET Wine Program and a lifetime of apprenticeship experience, Chef Celine is committed to promoting sustainable, health supportive foods.</p>
+					<p><b>Celine Beitchman</b> began her culinary career in 1986 alongside Natural Gourmet Institute’s founder, Dr. Annemarie Colbin. After completing apprenticeships in Paris and NYC, Celine worked as a high-end caterer, food stylist, private chef and nutrition counselor. As a current NGI faculty member, Celine develops coursework, and teaches culinary technique, integrative nutrition science, and medicinal cooking in the professional Chef’s Training Program. Celine is a member of NYC Nutrition Educators Network and of the American Nutrition Association, and is currently working toward her Masters in Nutrition &amp; Health Behavior Education at the Maryland University of Integrative Health.</p>
 
-					<p><b>Elliott Prag</b> is the Curriculum Development Manager and a full-time instructor. A graduate of our Chef’s Training Program, Elliott opened the first health-supportive restaurant in Sofia, Bulgaria. He is a frequent contributor to Vegetarian Times and an expert in baking health-supportive bread.</p>					
+					<p><b>Elliott Prag</b> is the Curriculum Development Manager and full-time instructor at Natural Gourmet Institute. A graduate of our Chef’s Training Program, Elliott has been a private and personal chef, restaurant chef, and a caterer. He also opened the first health-supportive, farm-to-table restaurant in Sofia, Bulgaria. He has been a frequent contributor to Vegetarian Times and is an expert in bread baking.</p>					
 	
 
 					<p class="trailer"><a href="/request-info-food-therapy/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
@@ -76,7 +76,7 @@
 					</header>
 
 					<!-- <h4>Overview</h4> -->
-					<p>Ready to transform your passion for food into an exciting new business or career? This fall, learn the recipe for success from some of New York’s best food and business entrepreneurs under the guidance of industry experts. Led by experienced food start-up founder and advisor Jennifer Goggin (Founder of Pippin Foods and Co-Founder of Farmers Web), students will learn what it takes to start a successful food business from established food entrepreneurs. Past guest speakers have included Alison Gilbert, Project AG; Lynn Yoder Thibault, Amazon Fresh; and Christine Rico, Speed Dial.</p>
+					<p>Ready to transform your passion for food into an exciting new business or career? This fall, learn the recipe for success from some of New York’s best food and business entrepreneurs under the guidance of industry experts. Led by experienced food start-up founder and advisor Jennifer Goggin, students will learn what it takes to start a successful food business from established food entrepreneurs. Past guest speakers have included Alison Gilbert, Project AG; Lynn Yoder Thibault, Amazon Fresh; and Christine Rico, Speed Dial.</p>
 
 					<p>Throughout this 4 session evening course, you will learn the fundamentals of what to expect when launching a food business.</p>
 
@@ -91,7 +91,7 @@
 					</ul>		
 
 					<h5 class="leader">Instructor</h5>
-					<p>Jennifer Goggin has been an entrepreneur and advisor in the food-tech space since 2011 when she co-founded FarmersWeb to help farms, food hubs and food artisans streamline wholesale orders, deliveries and payments online. Prior to FarmersWeb, Jennifer was Director of Operations at Basis Farm to Chef, a local food distributor in New York. She has been a featured panelist and moderator for conferences on entrepreneurship and the food technology industry, as well as a guest columnist for <em>Food+Tech Connect</em> and <em>Huffington Post Food.</em> Jennifer is a board member of Slow Food NYC where she works on its Snail of Approval committee to recognize restaurants, bars, and markets that contribute to the quality, authenticity and sustainability of the New York City food supply.</p>					
+					<p><b>Jennifer Goggin</b> (Founder of <a href="http://www.pippinfoods.com/" target="_blank">Pippin Foods</a> and Co-Founder of <a href="http://www.farmersweb.com/" target="_blank">Farmers Web</a>) has been an entrepreneur and advisor in the food-tech space since 2011 when she co-founded FarmersWeb to help farms, food hubs and food artisans streamline wholesale orders, deliveries and payments online. Prior to FarmersWeb, Jennifer was Director of Operations at Basis Farm to Chef, a local food distributor in New York. She has been a featured panelist and moderator for conferences on entrepreneurship and the food technology industry, as well as a guest columnist for <em>Food+Tech Connect</em> and <em>Huffington Post Food</em>. Jennifer is a board member of Slow Food NYC where she works on its Snail of Approval committee to recognize restaurants, bars, and markets that contribute to the quality, authenticity and sustainability of the New York City food supply.</p>					
 
 					<p class="trailer"><a href="/request-info-starting-a-food-business/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
 
@@ -242,7 +242,7 @@
 					<a href="/certificate-programs/?add-to-cart=21105" rel="nofollow" data-product_id="21105" data-product_sku="" class="btn btn-primary btn-block disabled">Coming Soon</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>New dates coming soon.</p>
+						<p>New dates coming soon. Click Request Info below to be notified of future course dates</p>
 						<!-- <p>September 6, 2016 &mdash; November 2, 2016 <br />
 						Monday and Wednesday*<br />
 						6:30pm &mdash; 9:30pm<br />
@@ -327,7 +327,7 @@
 					<a href="/certificate-programs/?add-to-cart=19774" rel="nofollow" data-product_id="19774" data-product_sku="" class="btn btn-primary btn-block disabled">Coming Soon</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>New dates coming soon.</p>						
+						<p>New dates coming soon. Click Request Info below to be notified of future course dates</p>						
 <!-- 						<p>Monday, 9/12: 6:30pm &mdash; 10pm<br/>
 						Tuesday, 9/13: 6:30pm &mdash; 10pm<br/>
 						Tuesday, 9/20: 6:30pm &mdash; 10pm<br/>
