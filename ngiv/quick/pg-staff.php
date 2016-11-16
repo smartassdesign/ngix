@@ -82,8 +82,6 @@
 					
 					<h6>Admissions</h6>
 					<dt>Sydney Schwarz</dt>
-					<dd>Director of Admissions &amp; Advancement</dd>
-					<dt>Ariel Kalishman Walsh</dt>
 					<dd>Admissions Manager</dd>	
 					<dt>Ruby Glaser</dt>
 					<dd>Admissions Manager</dd>								
@@ -126,7 +124,7 @@
 					<dt>Myriam Fieulleteau</dt>
 					<dd>Director of Operations</dd>
 					<dt>Brandon Reichert</dt>
-					<dd>Lead IT Coordinator</dd>
+					<dd>Transformation &amp; Technology Manager</dd>
 					<dt>Jeri Rostron</dt>
 					<dd>Office Manager</dd>
 					<dt>Judith Shapiro</dt>
@@ -142,10 +140,6 @@
 					<dt>Ana Lugo</dt>
 					<dd>Dishwasher</dd>
 					<dt>Oscar Barrera</dt>
-					<dd>Dishwasher </dd>
-					<dt>Pedro Sosa</dt>
-					<dd>Dishwasher </dd>
-					<dt>Rogelio Hernandez</dt>
 					<dd>Dishwasher </dd>
 					<dt>Mayolo Ramon Colin</dt>
 					<dd>Maintenance Manager </dd>
