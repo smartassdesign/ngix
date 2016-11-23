@@ -228,14 +228,12 @@
                </div> <!-- /.col-md-6 -->
 
                <div class="col-sm-6 upcoming-session-date">
-                  <h3>$19,600</h3>
+                  <h3>$21,100</h3>
                   <span class="designation">Part-Time Tuition</span>
                </div> <!-- /.col-md-6 -->
             </div> <!-- /.row -->
             <p class="leader">Tuition includes all textbooks, course materials, uniforms, pastry tools, and full knife&nbsp;kit.</p>
             <p>Natural Gourmet Institute works with Sallie Mae to provide Smart Option student loans to eligible applicants. Students may borrow up to the total tuition plus living expenses. Interest rates are variable and terms range from 1 to 10 years. For more, visit <a href="https://www.salliemae.com/student-loans/career-training-smart-option-student-loan/" target="_blank">Sallie Mae</a>. Natural Gourmet Institute also offers Tuition Flex, a tuition financing option for students who do not qualify for Sallie Mae Smart Option loans. Contact <a href="mailto:admissions@nginyc.com">admissions@nginyc.com</a> for further information and application procedure.</p>
-
-            <p>Please note, 2017 Chef’s Training Program tuition rates are subject to New York State Education Department approval.</p>
 
             <img src="/assets/accet-1500.png" class="img-fluid" alt="Licensed by the State of New York and accredited by ACCET">
 
