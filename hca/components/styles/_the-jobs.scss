@@ -1,3 +1,9 @@
+.single-job_listing article {
+  @include break-min($break-lg) {
+    margin-top: 4rem;
+  }
+}
+
 .single_job_listing .application .application_button {
    line-height: 40px;
 }
