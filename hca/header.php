@@ -114,13 +114,7 @@ document.createElement('video');document.createElement('audio');document.createE
 			<ul class="list-unstyled list-inline">
 				<li class="sub-link"><a href="#overview">Overview</a></li>
 				<li class="sub-link"><a href="#tuition-info">Tuition</a></li>
-				<li class="sub-link"><a href="#open-house">Open House <?php if(get_field('open_house_date', 'option'))
-{
-
-	$date = DateTime::createFromFormat('Ymd', get_field('open_house_date', 'option'));
-			echo $date->format('n/j');
-}
-?></a></li>
+				<li class="sub-link"><a href="#open-house">Open Houses</a></li>
 			</ul>
 		</div> <!-- /.col-sm-6 -->
 
