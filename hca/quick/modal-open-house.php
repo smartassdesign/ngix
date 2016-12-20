@@ -12,3 +12,18 @@
   </div>
   </div> <!-- ./modal-vertical-align-center -->
 </div>
+
+
+<style>
+
+input#choice_38_9_0, input#choice_38_9_1 {
+    float: left;
+    width: auto;
+}
+
+label#label_38_9_0, label#label_38_9_1 {
+    line-height: 47px;
+    margin-left: 10px;  
+}
+
+</style>
