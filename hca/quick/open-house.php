@@ -13,7 +13,21 @@
 }
 ?>
 
-at <?php the_field('open_house_time', 'option'); ?></h4>
+at <?php the_field('open_house_time', 'option'); ?>
+
+
+<?php if(get_field('open_house_date', 'option'))
+{
+
+	$date = DateTime::createFromFormat('Ymd', get_field('open_house_date_two', 'option'));
+			echo ' and ';
+			echo $date->format('F j, Y');
+}
+?>
+
+at <?php the_field('open_house_time_two', 'option'); ?>
+
+</h4>
 
 			<!-- <h4>Monday, October 12 at 6pm</h4> -->
 			<p class="lede m-b-0">Whether you&rsquo;re weighing a career in the culinary arts or researching schools to find the best program for you, join us and figure it all out.</p>
