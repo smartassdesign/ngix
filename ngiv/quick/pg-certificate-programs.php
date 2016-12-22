@@ -239,15 +239,12 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=21105" rel="nofollow" data-product_id="21105" data-product_sku="" class="btn btn-primary btn-block disabled">Coming Soon</a>
+					<a href="/certificate-programs/?add-to-cart=21105" rel="nofollow" data-product_id="21105" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>New dates coming soon. Click Request Info below to be notified of future course dates</p>
-						<!-- <p>September 6, 2016 &mdash; November 2, 2016 <br />
-						Monday and Wednesday*<br />
-						6:30pm &mdash; 9:30pm<br />
-						<em>*The first class will be held on Tuesday September 6, to accommodate the Labor Day holiday</em> -->
-						</p>
+						<p>Monday and Tuesday evenings<br />
+						March 13, 2017 &mdash; May 16, 2017 <br />
+						6:30pm &mdash; 9:30pm</p>
 						<h5>Cost</h5>
 						<p>$5,550 / Deposit: $1,833</p>						
 						<p>Students will receive a certificate of completion.</p>
