@@ -229,7 +229,7 @@
 						<p class="trailer"><a href="/request-info-culinary-nutrition/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
 
 					<div class="well">
-						<p>To register for Culinary Nutrition click enroll and submit the deposit payment. Once your deposit you will receive an email confirmation and link to download payment plan selection form. To confirm your place in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
+						<p>To register for Culinary Nutrition click enroll and submit the deposit payment. Once your deposit is processed, you will receive an email confirmation and link to download payment plan selection form. To confirm your seat in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
 
 						<p>Refund and Cancellation Policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
 
