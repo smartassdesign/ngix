@@ -254,3 +254,32 @@
 		</div> <!-- ./ngi-team-inner -->
 	</div> <!-- ./ngi-team -->
 </div> <!-- ./col-sm-4 -->
+
+
+
+
+<div class="col-sm-4">
+	<div class='ngi-team'>
+		<div class='ngi-team-inner'>
+			<div class='ngi-team-image'>
+				<img src='../wp-content/uploads/faculty-ann-nunziata-550.jpg' class="img-responsive" alt="Ann Nunziata" />
+				<div class='ngi-team-description-wrapper'>
+					<div class='ngi-team-description'>
+						<div class='ngi-team-description-inner'>
+							<p>Ann Nunziata is the Programming &amp; Content Manager and a chef instructor at NGI. She has a background in nutritional sciences and has cooked in award-winning plant-based kitchens including Millennium Restaurant, the Omega Institute, and Ravens Restaurant. Ann's vegan desserts will play tricks on your taste buds.</p>
+						</div> <!-- ./ngi-team-description-inner -->
+					</div> <!-- ./ngi-team-description -->
+				</div> <!-- ./ngi-team-description-wrapper -->
+			</div> <!-- ./ngi-team-image -->
+			<div class='ngi-team-text'>
+				<div class='ngi-team-text-inner'>
+					<div class='ngi-team-title-holder'>
+						<h4 class='ngi-team-name'>Ann Nunziata</h4>
+						<span>Chef Instructor</span>
+					</div> <!-- ./ngi-team-title-holder -->
+					<span class='separator'></span> <!-- /.separator -->
+				</div> <!-- ./ngi-team-text-inner -->
+			</div> <!-- ./ngi-team-text -->
+		</div> <!-- ./ngi-team-inner -->
+	</div> <!-- ./ngi-team -->
+</div> <!-- ./col-sm-4 -->

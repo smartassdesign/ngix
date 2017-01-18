@@ -114,6 +114,8 @@
 						6:30pm &mdash; 9:30pm</p>
 						<h5>Cost</h5>
 						<p>$1,200 / Deposit: $600</p>
+
+						<p>Students will receive a certificate of completion.</p>
 					</aside> <!-- /.well -->
 				</div> <!-- /.col-md-4 -->
 				
