@@ -420,15 +420,15 @@ li#field_5_5 {
 	}
 
 	div.product p.price, div.product span.price {
-		color: #262626;
+		color: $gray-darker;
 		font-size: 14px;
 		font-weight: normal;
 	}
 
-	.single_variation_wrap span.woocommerce-Price-amount.amount {
-		color: #262626;
-		font-size: 1.625em;
-		font-weight: 500;
+	.single_variation_wrap span.woocommerce-Price-amount.amount, .woocommerce-variation-price .price .amount {
+		color: $gray-darker;
+		font-size: 1.625em!important;
+		font-weight: 500!important;
 	}
 
 	div.product .product_title {
@@ -441,8 +441,8 @@ li#field_5_5 {
 		margin-bottom: 2rem;
 	}
 
-	button.button.alt.disabled {
-		background-color: lighten($green, 15%);
+	button.button.alt.disabled,  button.button.alt:disabled[disabled], button.button.alt.disabled {
+		background-color: lighten($green, 15%)!important;
 	}
 
 	.woocommerce-error {
