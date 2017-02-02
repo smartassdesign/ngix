@@ -7,8 +7,8 @@
   &,
   &:hover,
   &:focus {
-    color: $green;
-    background-color: transparent;
+	color: $green;
+	background-color: transparent;
   }
 }
 
@@ -23,8 +23,8 @@
   @include gradient-vertical(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0), 0%, 100%);
 
   .navbar-default {
-    background: transparent;
-    border-color: transparent;
+	background: transparent;
+	border-color: transparent;
   }
 
   // .hide-below-768 a { $1215
@@ -32,20 +32,20 @@
   // }
 
   .icon-wire-basket {
-    display: none;
+	display: none;
   }
 
   .navbar-brand {
-    @include img-retina('/assets/temp-ngi-ko-52.png', '/assets/temp-ngi-ko-52-2x.png', 136px, 52px);
-    height: 52px;
-    width: 136px;
-    margin-top: 14px;
-    @include break-max($break-sm){ margin-left: 5px!important; }
-    @include break-min($break-md){ margin-top: 29px; }
+	@include img-retina('/assets/temp-ngi-ko-52.png', '/assets/temp-ngi-ko-52-2x.png', 136px, 52px);
+	height: 52px;
+	width: 136px;
+	margin-top: 14px;
+	@include break-max($break-sm){ margin-left: 5px!important; }
+	@include break-min($break-md){ margin-top: 29px; }
   }
 
   .navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
-    @include break-min($break-sm){ margin-left: 0; }
+	@include break-min($break-sm){ margin-left: 0; }
   }
 
 }
@@ -55,15 +55,15 @@
 #event-list {
 
   h6:first-of-type {
-    margin-top: 0;
+	margin-top: 0;
   }
 
   h4 {
-    text-transform: none;
-    letter-spacing: 0;
-    line-height: 1.2em;
-    font-weight: 400;
-    margin: 0 0 5px 0;
+	text-transform: none;
+	letter-spacing: 0;
+	line-height: 1.2em;
+	font-weight: 400;
+	margin: 0 0 5px 0;
   }
 
 }
@@ -123,7 +123,7 @@
 #event-list .item-time {
   border-bottom: $border;
   &:last-of-type {
-    border-bottom: none;
+	border-bottom: none;
   }
 }
 
@@ -328,14 +328,14 @@ font-size: 13px
 // FIX FOR OPEN HOUSE ADD'TL FIELDS FORMATTING
 
 li#field_5_5 label {
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-weight: 500;
-    font-size: 11px;  
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 500;
+	font-size: 11px;  
 }
 
 li#field_5_5 {
-    margin-top: -10px;
+	margin-top: -10px;
 }
 
 
@@ -357,15 +357,155 @@ li#field_5_5 {
 
 
 #sidemenu ul#menu-secondary-menu li.pushy-p>a:hover {
-    background: inherit;
-    color: #fff;
-    cursor: default;
+	background: inherit;
+	color: #fff;
+	cursor: default;
 }
 
 
 
 
 .single-tribe_events input[type="number"] {
-    border: 1px solid #ddd!important;
-    margin-bottom: 10px;
+	border: 1px solid #ddd!important;
+	margin-bottom: 10px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// GIFT CERTIFICATES 1.9
+
+
+
+.ngi-gift-certificates {
+
+	.product.type-product {
+		margin-top: 3rem;
+
+		@include break-min($break-md){ 
+			max-width: 80%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}	
+
+	#event-list, 
+	ul.tabs.wc-tabs, 
+	#tab-description h2,
+	.product_meta,
+	div.product form.cart .variations td.label {
+		display: none;
+	}
+
+	span.amount:nth-of-type(2) {
+		display: inline-block;
+	}
+
+	.reset_variations {
+		@extend .btn-text;
+		font-size: 12px!important;
+	}
+
+	div.product p.price, div.product span.price {
+		color: #262626;
+		font-size: 14px;
+		font-weight: normal;
+	}
+
+	.single_variation_wrap span.woocommerce-Price-amount.amount {
+		color: #262626;
+		font-size: 1.625em;
+		font-weight: 500;
+	}
+
+	div.product .product_title {
+		margin-bottom: .5rem;
+		font-size: 65px;
+		line-height: 1;
+	}
+
+	.woocommerce-variation-price {
+		margin-bottom: 2rem;
+	}
+
+	button.button.alt.disabled {
+		background-color: lighten($green, 15%);
+	}
+
+	.woocommerce-error {
+		border: none;
+		background: $gray-darker;
+		color: white;
+
+		&:before {
+			color: yellow;
+		}
+	}
+
+	.summary.entry-summary {
+		overflow: hidden;
+	}
+
+	form.cart .variations select {
+		-webkit-appearance: none!important;
+		padding: 12px;
+		border-radius: 0;
+	}
+
+	td.value {
+		position: relative;
+
+		&:after {
+			position: absolute;
+			content: '\e60b';
+			top: 13px;
+			right: 30%;
+			font-family: 'icofont';
+			font-size: 24px;
+			color: $gray-darker;		
+		}
+	}
+
+}
+
+
+
+
+// div#product-20336 {
+//     margin-top: 2rem;
+
+//     @include break-min($break-md){ 
+// 		max-width: 80%;
+// 		margin-left: auto;
+// 		margin-right: auto;
+//     }
+// }
+
+
+// .product-test-certificates .product_meta {
+// 	display: none;
+// }
+
+
+
+
+
+
+
+
+
+
+
