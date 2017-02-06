@@ -44,6 +44,7 @@
 		<div class="row m-b-2">	
 			<div class="col-md-12 text-xs-center">
 				<h2>Dine-in Movie: Breakfast at Tiffany’s</h2>
+				<img src="http://naturalgourmetinstitute.com/assets/ngi-waffles.jpg" class="img-fluid m-b-2">	
 			</div> <!-- /.col-md-12 -->	
 		</div> <!-- /.row -->
 
@@ -60,7 +61,6 @@
 				<h4 style="margin-bottom: 5px">Take Away</h4>
 				<p>Individually Wrapped Packages of Espresso Almond Butter and Peanut Butter Banana Jam Vegan Chocolates by Eat Chic Chocolates</p>
 
-				<img src="http://naturalgourmetinstitute.com/assets/ngi-waffles.jpg" class="img-fluid m-y-2">				
 			</div> <!-- /.col-md-8 -->
 
 			<div class="col-md-4">
