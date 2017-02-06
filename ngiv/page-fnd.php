@@ -38,6 +38,66 @@
 	</div> <!-- /.container-fluid -->
 </div>	<!-- /.pod-mini bg-white -->
 
+<!-- background-color: rgba(208,40,95,.17) -->
+<div class="pod-mini special-event" style="border-top: 8px solid rgb(208,40,95); border-bottom: 8px solid rgb(208,40,95);">
+	<div class="container">
+		<div class="row m-b-2">	
+			<div class="col-md-12 text-xs-center">
+				<h2>Dine-in Movie: Breakfast at Tiffany’s</h2>
+			</div> <!-- /.col-md-12 -->	
+		</div> <!-- /.row -->
+
+		<div class="row">	
+			<div class="col-md-8">
+				<h4 style="margin-bottom: 5px">For the Table</h4>
+				<p>Everything Bagel Popcorn</p>
+				<h4 style="margin-bottom: 5px">First</h4> 
+				<p>Fennel-Citrus Salad with Spiced Pistachio “Granola” and Lemon Vinaigrette</p>
+				<h4 style="margin-bottom: 5px">Second</h4>
+				<p>Butternut Squash Frittata with Fried Sage, Served with Potatoes Lyonnaise, and Crispy-Roasted Broccolini</p>
+				<h4 style="margin-bottom: 5px">Dessert</h4>
+				<p>Mini Cinnamon-Sugar Waffles Topped with Coconut-Banana Ice Cream</p>
+				<h4 style="margin-bottom: 5px">Take Away</h4>
+				<p>Individually Wrapped Packages of Espresso Almond Butter and Peanut Butter Banana Jam Vegan Chocolates by Eat Chic Chocolates</p>
+
+				<img src="http://naturalgourmetinstitute.com/assets/ngi-waffles.jpg" class="img-fluid m-y-2">				
+			</div> <!-- /.col-md-8 -->
+
+			<div class="col-md-4">
+							<form action="<?php echo esc_url( add_query_arg( 'wootickets_process', 1, $woocommerce->cart->get_cart_url() ) ); ?>" class="cart" method="post" enctype='multipart/form-data'>
+					          <table width="100%" class="tribe-events-tickets">
+					            <input type='hidden' name='product_id[]' value='25443'>
+					            <tr style="display:none">
+					              <td width='75' class='woocommerce'>
+					                <div class="quantity">
+					                  <input type="number" step="1" min="1" max="82" name="quantity_25443" value="1" title="Qty" class="input-text qty text" size="4" />
+					                </div>
+					              </td>
+					              <td class='tickets_price'>
+					                <span class="amount">&#36;55.00</span>
+					              </td>
+					            </tr>
+					            <tr>
+					              <td colspan="2" class='woocommerce'>
+					                <button type="submit" class="btn btn-primary btn-block">Make a Reservation</button>
+					              </td>
+					            </tr>
+					          </table>
+					      </form>
+
+				<h4 class="m-y-1" style="line-height: 1.5em">					      			
+					Tuesday, February 14<br />
+					6:30 pm - 9:30 pm<br />
+					$45
+				</h4>
+
+
+				<p style="font-size:.85rem">Join us at NGI for this once-in-a-lifetime dinner and movie event where you can finally eat breakfast for dinner in public (we see you, dinner eggs), alongside others who like to do the same. The beloved film, Breakfast at Tiffany’s, will play in the background as you sip on BYOB, blood orange mimosas* and enjoy a 3-course, vegetarian meal inspired by our favorite breakfast foods. Bring your valentine or a group of friends for a unique dinner experience and leave with tasty treats provided by <a href="https://www.eatchicchocolates.com/" target="_blank">Eat Chic Chocolates</a>.</p>
+			</div> <!-- /.col-md-4 -->
+		</div> <!-- /.row -->
+
+	</div> <!-- /.container -->
+</div>	<!-- /.pod-mini special-event -->
 
 
 
