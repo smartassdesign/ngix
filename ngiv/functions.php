@@ -344,7 +344,7 @@ $check_in_cart = conditional_product_in_cart('FND'); //replace xxxx with the pro
     woocommerce_form_field( 'custom_field', array(
     'type'          => 'text',
     'class'         => array('my-field-class form-row-wide'),
-    'label'         => __('Friday Night Dinner Seating <br /><span class="extrainfo">Provide the total number of guests in your party, as well as their names if they are purchasing their tickets in a separate order</span>'),
+    'label'         => __('Friday Night Dinner Seating <br /><span class="extrainfo">Our dinners consist of community seating. If you would like to sit with guests who have purchased tickets in a separate reservation, please provide their names in the space provided.</span>'),
     'placeholder'   => __('Name and number of people in party'),
     'required'      => true,
     ), $checkout->get_value( 'custom_field' ));
