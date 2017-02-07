@@ -88,7 +88,7 @@
 				<h4 class="m-y-1" style="line-height: 1.5em">					      			
 					Tuesday, February 14<br />
 					6:30 pm - 9:30 pm<br />
-					$45
+					$55
 				</h4>
 
 
