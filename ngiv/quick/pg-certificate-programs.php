@@ -44,10 +44,10 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=23797" rel="nofollow" data-product_id="23797" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=26503" rel="nofollow" data-product_id="26503" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>February 13, 2017 &mdash; February 24, 2017<br>
+						<p>July 10, 2017 &mdash; July 21, 2017<br>
 						Monday &mdash; Friday<br />
 						9:30am &mdash; 4:30pm<br></p>
 						<h5>Cost</h5>
