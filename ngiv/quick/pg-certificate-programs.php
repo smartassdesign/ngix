@@ -14,7 +14,7 @@
 					</header>
 
 
-					<p class="trailer">It is no secret that proper nourishment can be a powerful aid to the healing process. In the Food Therapy Certificate Program, students will learn about whole systems biology, core nutritional imbalances, and how to translate a dietary prescription into practical meal planning and preparation. Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Led by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions.</p>
+					<p class="trailer">It is no secret that proper nourishment can be a powerful aid to the healing process. In the Food Therapy Certificate Program, students will learn about whole systems biology, core nutritional imbalances, and how to translate a dietary prescription into practical meal planning and preparation. Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Led by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions. This certificate program is offered for personal enrichment only.</p>
 
 					<h4>Coursework</h4>
 					<ul><li> Exploring the differences between "illness" and "disease"</li>
@@ -90,6 +90,14 @@
 						<li>Defining your mission: Driving impact, instilling mission, vision, values, and selecting partners</li>
 					</ul>		
 
+					<p>This certificate program is offered for personal enrichment only.</p>
+
+					<h5 class="leader">Notable Guest Speakers</h5>
+
+					<p><b>David Benzaquen</b> is the Founder and CEO of <a href="http://plantbasedsolutions.com/" target="_blank">PlantBased Solutions</a>, an award-winning, mission-driven, strategic brand management and marketing agency for plant-based consumer products businesses. PlantBased Solutions helps companies launch and grow their businesses through marketing, branding, fundraising and more. David is also a sought after natural products industry expert and has spoken about the growing plant-based economy at academic and industry conferences throughout the world. He serves as a mentor and advisor to multiple food incubators, accelerators and venture capital firms, and is a contributing writer with several prominent natural industry trade publications.</p>
+
+					<p><b>Alison Gilbert</b>, founder of <a href="http://www.project-ag.co/" target="_blank">Project AG</a>, is a pastry chef turned COO turned business consultant and coach. Alison is passionate about helping emerging entrepreneurs build thriving businesses that in turn fuel economic and cultural growth. Prior to building Project AG, Alison was hire four and COO of food media company Tasting Table where she helped grow it into a forty person, multi million dollar company reaching a readership of millions. To date she’s helped 30+ businesses across commerce, media, tech, design and fashion successfully scale including such brands as Well+Good, Levo League, Maiyet, Quinciple and Plum Alley.</p>
+
 					<h5 class="leader">Instructor</h5>
 					<p><b>Jennifer Goggin</b> (Founder of <a href="http://www.pippinfoods.com/" target="_blank">Pippin Foods</a> and Co-Founder of <a href="http://www.farmersweb.com/" target="_blank">Farmers Web</a>) has been an entrepreneur and advisor in the food-tech space since 2011 when she co-founded FarmersWeb to help farms, food hubs and food artisans streamline wholesale orders, deliveries and payments online. Prior to FarmersWeb, Jennifer was Director of Operations at Basis Farm to Chef, a local food distributor in New York. She has been a featured panelist and moderator for conferences on entrepreneurship and the food technology industry, as well as a guest columnist for <em>Food+Tech Connect</em> and <em>Huffington Post Food</em>. Jennifer is a board member of Slow Food NYC where she works on its Snail of Approval committee to recognize restaurants, bars, and markets that contribute to the quality, authenticity and sustainability of the New York City food supply.</p>					
 
@@ -143,7 +151,7 @@
 
 					<p class="trailer">This program is held entirely in the field on partner farms including <a href="http://www.brooklyngrangefarm.com/" target="_blank">Brooklyn Grange</a>, <a href="http://www.mcenroeorganicfarm.com/" target="_blank">McEnroe Organic Farm</a>, <a href="http://www.grownyc.org/" target="_blank">GrowNYC</a>, <a href="http://www.greenmarketco.org/" target="_blank">Greenmarket Co.</a>, and others.  Students will work side-by-side with seasoned farmers to learn first-hand about topics like soil health, organic farming techniques, sustainable animal husbandry and so much more! This program is ideal for anyone interested in creating bountiful edible gardens, learning more about our local food system and how to source food in sustainable and responsible ways.</p>		
 
-					<p>Upon completing this program, students will achieve a thorough understanding of organic farming, composting, the “locavore” movement, and the relationship between cooks and local farmers.</p>
+					<p>Upon completing this program, students will achieve a thorough understanding of organic farming, composting, the “locavore” movement, and the relationship between cooks and local farmers. This certificate program is offered for personal enrichment only.</p>
 
 					<h4>Schedule*</h4>
 					<p>Thursday, 8/17: <strong>Brooklyn Grange</strong></p>
@@ -200,7 +208,7 @@
 					</header>
 
 					<!-- <h4>Overview</h4> -->
-					<p class="trailer">The Culinary Nutrition Certificate Program with Natural Gourmet Institute provides students with an in-depth and hands-on understanding of nutrition theory. The program explores the science of nutrition, nutrition in the marketplace, trends, and specialized diets through lecture and kitchen labs. Led by Kayleen St. John, MS RD, and Laura Rosenberg MS RD, students will learn from expert guest speakers from the food, health, and nutrition fields! Upon completion of the course, students will have learned how to incorporate the fundamentals of nutrition into their culinary perspective.</p>
+					<p class="trailer">The Culinary Nutrition Certificate Program with Natural Gourmet Institute provides students with an in-depth and hands-on understanding of nutrition theory. The program explores the science of nutrition, nutrition in the marketplace, trends, and specialized diets through lecture and kitchen labs. Led by Kayleen St. John, MS RD, and Laura Rosenberg MS RD, students will learn from expert guest speakers from the food, health, and nutrition fields! Upon completion of the course, students will have learned how to incorporate the fundamentals of nutrition into their culinary perspective. This certificate program is offered for personal enrichment only.</p>
 						
 					<h4>Coursework</h4>
 						<b>Fundamentals in Nutrition</b>
@@ -310,6 +318,8 @@
 					<ul><li>Advertising, sponsored posts, brand collaborations and more</li>
 					<li>Getting a cookbook deal</li>
 					<li>Bridge jobs and other ways to support your career</li></ul>
+
+					<p>This certificate program is offered for personal enrichment only.</p>
 
 					<p class="trailer"><a href="/request-info-food-blogging/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
 
