@@ -253,12 +253,12 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=24856" rel="nofollow" data-product_id="24856" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=26805" rel="nofollow" data-product_id="26805" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>Monday and Tuesday evenings<br />
-						March 13, 2017 &mdash; May 16, 2017 <br />
-						6:30pm &mdash; 9:30pm</p>
+						<p>Monday &mdash; Friday<br />
+						July 25, 2017 &mdash; August 4, 2017 <br />
+						9:30am &mdash; 4:30pm</p>
 						<h5>Cost</h5>
 						<p>$5,550 / Deposit: $1,833</p>						
 						<p>Students will receive a certificate of completion.</p>
