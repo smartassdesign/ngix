@@ -257,7 +257,7 @@
 					<aside class="well">
 						<h5>Dates</h5>
 						<p>Monday &mdash; Friday<br />
-						July 25, 2017 &mdash; August 4, 2017 <br />
+						July 24, 2017 &mdash; August 4, 2017 <br />
 						9:30am &mdash; 4:30pm</p>
 						<h5>Cost</h5>
 						<p>$5,550 / Deposit: $1,833</p>						
