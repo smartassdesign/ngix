@@ -118,16 +118,17 @@
 				<div class="col-md-4">
 
 					<!-- <a href="/request-info-food-entrepreneurship/" class="btn btn-primary btn-block">Request Info</a> -->
-					<a href="/certificate-programs/?add-to-cart=23796" rel="nofollow" data-product_id="23796" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=23796" rel="nofollow" data-product_id="23796" data-product_sku="" class="btn btn-primary btn-block disabled" >Unavailable</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>May 3, 2017 &mdash; May 24, 2017 <br />
+						<p>New dates coming soon. Click Request Info below to be notified of future course dates</p>
+						<!-- <p>May 3, 2017 &mdash; May 24, 2017 <br />
 						Wednesday<br />
 						6:30pm &mdash; 9:30pm</p>
 						<h5>Cost</h5>
 						<p>$1,200 / Deposit: $600</p>
 
-						<p>Students will receive a certificate of completion.</p>
+						<p>Students will receive a certificate of completion.</p> -->
 					</aside> <!-- /.well -->
 				</div> <!-- /.col-md-4 -->
 				
