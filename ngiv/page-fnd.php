@@ -143,8 +143,8 @@
 	</div> <!-- /.container -->
 
 
-<!-- background-color: rgba(208,40,95,.17) -->
-<div class="pod-mini special-event fnd-entry" style="border-top: 8px solid #6ca438; border-bottom: 8px solid #6ca438;">
+<!-- background-color: rgba(208,40,95,.17) --> <!-- border-bottom: 8px solid #6ca438; -->
+<div class="pod-mini special-event fnd-entry" style="border-top: 8px solid #6ca438">
 	<div class="container">
 		<div class="row m-b-2">	
 			<div class="col-md-12 text-xs-center">
@@ -201,7 +201,7 @@
 	</div> <!-- /.container -->
 </div>	<!-- /.pod-mini special-event -->	
 
-		<?php include("parts/snippets/quote-anthony.php"); ?>
+		<?php /* include("parts/snippets/quote-anthony.php"); */ ?>
 
 <section id="private-event-cta" class="pod-mini bg-green">
 	<div class="container">
