@@ -168,8 +168,8 @@
 				<p>Bastille Bourguignon with Tempeh, Pearl Onions, Mushrooms, Red Wine, Carrots, and Herbs with Flageolet Bean Purée<br />Family-style Grilled Endive, Haricot Vert, Zucchini and Heirloom Tomatoes</p>
 				<h4 style="margin-bottom: 5px">Third Course</h4>
 				<p>Cherry Clafoutis With House-Made Vanilla “Ice Cream” and Orange-Rosemary Sauce</p>
-				<h4 style="margin-bottom: 5px">“Petit Cadeaux”</h4>
-				<p>Le Creuset Kitchen Spatula<br />La Tourangelle Artisanal Oil</p>
+				<h4 style="margin-bottom: 5px">“Petits Cadeaux”</h4>
+				<p><a href="https://www.lecreuset.com/" target="_blank">Le Creuset</a> Kitchen Spatula<br /><a href="https://latourangelle.com/" target="_blank">La Tourangelle</a> Artisanal Oil</p>
 				<p><em>*Beverages are BYOB</em></p>
 
 			</div> <!-- /.col-md-8 -->
