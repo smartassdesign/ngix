@@ -154,7 +154,7 @@
 		<div class="row m-b-2">	
 			<div class="col-md-12 text-xs-center">
 				<h2>Bastille Day Celebration at NGI</h2>
-				<img src="http://naturalgourmetinstitute.com/wp-content/uploads/NGI-French-Baguette.jpg" class="img-fluid m-b-2">	
+				<img src="http://naturalgourmetinstitute.com/wp-content/uploads/NGI-French-Baguette-e1496955631740.jpg" class="img-fluid m-b-2">	
 			</div> <!-- /.col-md-12 -->	
 		</div> <!-- /.row -->
 
@@ -163,9 +163,9 @@
 				<h4 style="margin-bottom: 5px">For the Table</h4> 
 				<p>Baguette, La Tourangelle Dipping Oil, Local French-Style Cheese</p>
 				<h4 style="margin-bottom: 5px">First Course</h4> 
-				<p>Pissaladière with Onion and Niçoise Olives<br />Bibb, Mache, and Herb Salad with Radishes, Pistachios, and Scallion Vinaigrette</p>
+				<p>Pissaladière with Onion and Niçoise Olives</p><p>Bibb, Mache, and Herb Salad with Radishes, Pistachios, and Scallion Vinaigrette</p>
 				<h4 style="margin-bottom: 5px">Second Course</h4>
-				<p>Bastille Bourguignon with Tempeh, Pearl Onions, Mushrooms, Red Wine, Carrots, and Herbs with Flageolet Bean Purée<br />Family-style Grilled Endive, Haricot Vert, Zucchini and Heirloom Tomatoes</p>
+				<p>Bastille Bourguignon with Tempeh, Pearl Onions, Mushrooms, Red Wine, Carrots, and Herbs with Flageolet Bean Purée</p><p>Family-style Grilled Endive, Haricot Vert, Zucchini and Heirloom Tomatoes</p>
 				<h4 style="margin-bottom: 5px">Third Course</h4>
 				<p>Cherry Clafoutis With House-Made Vanilla “Ice Cream” and Orange-Rosemary Sauce</p>
 				<h4 style="margin-bottom: 5px">“Petits Cadeaux”</h4>
