@@ -7,6 +7,7 @@
 <?php get_header(); the_post(); ?>
 
 <div class="page-wrap raw">
+<div class="alert alert-success alert-dismissible" role="alert" style="background-color: #6ca438; border-color: transparent; text-align: center; margin-bottom: 0;"><a href="#bastille-day" style="color: white">Join us for a very special <strong>Bastille Day Dinner</strong> on July 14th.</a></div> <!-- /.alert -->
 
 <section id="intro" class="pod">
 	<div class="container">     
@@ -147,7 +148,7 @@
 
 
 
-
+<section id="bastille-day">
 <!-- background-color: rgba(208,40,95,.17) --> <!-- border-bottom: 8px solid #6ca438; -->
 <div class="pod-mini special-event fnd-entry" style="border-top: 8px solid #6ca438">
 	<div class="container">
@@ -208,7 +209,7 @@
 
 	</div> <!-- /.container -->
 </div>	<!-- /.pod-mini special-event -->	
-
+</section> <!-- /#bastille-day -->
 
 
 
