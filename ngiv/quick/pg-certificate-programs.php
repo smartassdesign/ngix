@@ -46,7 +46,8 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=26503" rel="nofollow" data-product_id="26503" data-product_sku="" class="btn btn-primary btn-block trailer">Enroll in July Session</a>
+					<!-- <a href="/certificate-programs/?add-to-cart=26503" rel="nofollow" data-product_id="26503" data-product_sku="" class="btn btn-primary btn-block trailer">Enroll in July Session</a> -->
+					<a href="mailto:certificate@nginyc.com?subject=July%202017%20Food%20Therapy%20Waitlist" class="btn btn-primary btn-block trailer">Join July Session Waitlist</a>
 					<a href="/certificate-programs/?add-to-cart=29003" rel="nofollow" data-product_id="29003" data-product_sku="" class="btn btn-primary btn-block">Enroll in August Session</a>
 					<aside class="well">
 						<h5>Dates</h5>
