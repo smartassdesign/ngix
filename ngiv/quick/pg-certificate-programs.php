@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a>, <a href="#sustainable-farming">Sustainable Farming</a> and <a href="#culinary-nutrition">Culinary Nutrition</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a> and <a href="#culinary-nutrition">Culinary Nutrition</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 
 
@@ -75,66 +75,7 @@
 
 
 
-		<div class="sub-pod">
-			<section id="sustainable-farming">
-			<img src ="/assets/ngi-certificate-sustainable-farming.jpg" alt="NGI Sustainable Farming Certificate Program" class="img-fluid trailer">
-
-			<div class="row">
-				<div class="col-md-8">
-					<header>	
-			      		<h2>Sustainable Farming Program</h2>
-					</header>
-
-					<!-- <h4>Overview</h4> -->
-					<p>Join Farm to Table expert, Chef Jay Weinstein, for a unique and hands-on experience in Natural Gourmet Institute’s Sustainable Farming program.</p>					
-
-
-
-					<p class="trailer">This program is held entirely in the field on partner farms including <a href="http://www.brooklyngrangefarm.com/" target="_blank">Brooklyn Grange</a>, <a href="http://www.mcenroeorganicfarm.com/" target="_blank">McEnroe Organic Farm</a>, <a href="http://www.grownyc.org/" target="_blank">GrowNYC</a>, <a href="http://www.greenmarketco.org/" target="_blank">Greenmarket Co.</a>, and others.  Students will work side-by-side with seasoned farmers to learn first-hand about topics like soil health, organic farming techniques, sustainable animal husbandry and so much more! This program is ideal for anyone interested in creating bountiful edible gardens, learning more about our local food system and how to source food in sustainable and responsible ways.</p>		
-
-					<p>Upon completing this program, students will achieve a thorough understanding of organic farming, composting, the “locavore” movement, and the relationship between cooks and local farmers.</p>
-
-					<h4>Schedule*</h4>
-					<p>Thursday, 8/17: <strong>Brooklyn Grange</strong></p>
-					<p>Friday, 8/18: <strong>Brooklyn Grange</strong></p>
-					<p>Saturday, 8/19: <strong>McEnroe Farm</strong></p>
-					<p>Sunday, 8/20: <strong>Farm visit, upstate New York</strong></p>
-					<p>Monday, 8/21: <strong>Union Square Greenmarket and Distribution Center</strong></p>
-					<p class="m-b-2"><small>* 2017 Program dates subject to change</small></p>
-					
-					<div class="well">
-					<p>This certificate program is offered for personal enrichment only.</p>
-					<p>To register for Sustainable Farming click enroll and submit the deposit payment. Once your deposit is processed you will receive an email confirmation and link to complete the balance of tuition payment form. Follow the instructions in the form to complete your registration.</p>
-
-					<p>Refund policy: Tuition and deposit are nonrefundable 3 weeks prior to your start date. Students joining the program late, leaving the program early, or not participating in all activities will not be eligible for discounts or partial refunds. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student. </p></div>
-
-					<p class="trailer"><a href="/request-info-sustainable-farming/" class="btn-text">Request Info</a></p>
-
-
-				</div> <!-- /.col-md-8 -->	
-
-					
-				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=23798" rel="nofollow" data-product_id="23798" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
-					<!-- <a href="/certificate-programs/?add-to-cart=765" rel="nofollow" data-product_id="765" data-product_sku="" class="btn btn-primary btn-block" rel="nofollow" data-product_id="765">Enroll</a> -->
-					<aside class="well">
-						<h5>Dates</h5>
-						<p>Thursday &mdash; Monday<br />
-						August 17, 2017 &mdash; August 21, 2017<br />
-						9am &mdash; 4pm</p>
-						<h5>Cost</h5>
-						<p>$1,800 / Deposit: $900</p>
-						<!-- <p>Payment plans are available. Please email <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a> for more information.</p> --> 
-
-						<p>Students will receive a certificate of completion.</p>
-
-					</aside> <!-- /.well -->
-				</div> <!-- /.col-md-4 -->
-				
-			</div> <!-- /.row -->
-		</section> <!-- /#sustainable-farming -->
-		</div>
-
+	
 
 
 
