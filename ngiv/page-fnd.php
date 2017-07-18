@@ -7,7 +7,7 @@
 <?php get_header(); the_post(); ?>
 
 <div class="page-wrap raw">
-<div class="alert alert-success alert-dismissible" role="alert" style="background-color: #6ca438; border-color: transparent; text-align: center; margin-bottom: 0;"><a href="#bastille-day" style="color: white">Join us for a very special <strong>Bastille Day Dinner</strong> on July 14th.</a></div> <!-- /.alert -->
+<!-- <div class="alert alert-success alert-dismissible" role="alert" style="background-color: #6ca438; border-color: transparent; text-align: center; margin-bottom: 0;"><a href="#bastille-day" style="color: white">Join us for a very special <strong>Bastille Day Dinner</strong> on July 14th.</a></div>  -->
 
 <section id="intro" class="pod">
 	<div class="container">     
@@ -42,68 +42,7 @@
 
 
 
-<section id="bastille-day">
-<!-- background-color: rgba(208,40,95,.17) --> <!-- border-bottom: 8px solid #6ca438; -->
-<div class="pod-mini special-event fnd-entry" style="border-top: 8px solid #6ca438">
-	<div class="container">
-		<div class="row m-b-2">	
-			<div class="col-md-12 text-xs-center">
-				<h2>Bastille Day Celebration at NGI</h2>
-				<img src="http://naturalgourmetinstitute.com/wp-content/uploads/NGI-French-Baguette-e1496955631740.jpg" class="img-fluid m-b-2">	
-			</div> <!-- /.col-md-12 -->	
-		</div> <!-- /.row -->
 
-		<div class="row">	
-			<div class="col-md-8 the-meal">
-				<h4 style="margin-bottom: 5px">For the Table</h4> 
-				<p>Baguette, La Tourangelle Dipping Oil, Local French-Style Cheese</p>
-				<h4 style="margin-bottom: 5px">First Course</h4> 
-				<p>Pissaladière with Onion and Niçoise Olives</p><p>Bibb, Mache, and Herb Salad with Radishes, Pistachios, and Scallion Vinaigrette</p>
-				<h4 style="margin-bottom: 5px">Second Course</h4>
-				<p>Bastille Bourguignon with Tempeh, Pearl Onions, Mushrooms, Red Wine, Carrots, and Herbs with Flageolet Bean Purée</p><p>Family-style Grilled Endive, Haricot Vert, Zucchini and Heirloom Tomatoes</p>
-				<h4 style="margin-bottom: 5px">Third Course</h4>
-				<p>Cherry Clafoutis With House-Made Vanilla “Ice Cream” and Orange-Rosemary Sauce</p>
-				<h4 style="margin-bottom: 5px">“Petits Cadeaux”</h4>
-				<p><a href="https://www.lecreuset.com/" target="_blank">Le Creuset</a> Kitchen Spatula<br /><a href="https://latourangelle.com/" target="_blank">La Tourangelle</a> Artisanal Oil</p>
-				<p><em>*Beverages are BYOB</em></p>
-
-			</div> <!-- /.col-md-8 -->
-
-			<div class="col-md-4">
-							<form action="<?php echo esc_url( add_query_arg( 'wootickets_process', 1, $woocommerce->cart->get_cart_url() ) ); ?>" class="cart" method="post" enctype='multipart/form-data'>
-					          <table width="100%" class="tribe-events-tickets">
-					            <input type='hidden' name='product_id[]' value='29081'>
-					            <tr style="display:none">
-					              <td width='75' class='woocommerce'>
-					                <div class="quantity">
-					                  <input type="number" step="1" min="1" max="82" name="quantity_29081" value="1" title="Qty" class="input-text qty text" size="4" />
-					                </div>
-					              </td>
-					              <td class='tickets_price'>
-					                <span class="amount">&#36;65.00</span>
-					              </td>
-					            </tr>
-					            <tr>
-					              <td colspan="2" class='woocommerce'>
-					                <button type="submit" class="btn btn-primary btn-block">Make a Reservation</button>
-					              </td>
-					            </tr>
-					          </table>
-					      </form>
-
-				<h4 class="m-y-1" style="line-height: 1.5em">					      			
-					Friday, July 14<br />
-					6:30 pm - 9:30 pm<br />
-					$65
-				</h4>
-
-				<p style="font-size:.85rem">Celebrate France's independence on la Fȇte Nationale AKA, Bastille Day, as we toast to the country that gave birth to the culinary arts and produces some of the finest chefs, ingredients, and wines to this date! We will serve a vibrant, 3-course, vegetable-forward menu inspired by traditional French cuisine and send you on your way with petits cadeaux (little gifts) for use in your kitchen at home! Guests are encouraged to don striped shirts, red scarves, and berets and bring along their favorite bottle of Champagne*. Manger Vivre et Vivre Manger!</b></p>
-			</div> <!-- /.col-md-4 -->
-		</div> <!-- /.row -->
-
-	</div> <!-- /.container -->
-</div>	<!-- /.pod-mini special-event -->	
-</section> <!-- /#bastille-day -->
 	
 	
 	
