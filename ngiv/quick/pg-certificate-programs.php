@@ -47,19 +47,21 @@
 					
 				<div class="col-md-4">
 					<!-- <a href="/certificate-programs/?add-to-cart=26503" rel="nofollow" data-product_id="26503" data-product_sku="" class="btn btn-primary btn-block trailer">Enroll in July Session</a> -->
-					<a href="mailto:certificate@nginyc.com?subject=July%202017%20Food%20Therapy%20Waitlist" class="btn btn-primary btn-block trailer">Join July Session Waitlist</a>
-					<a href="/certificate-programs/?add-to-cart=29003" rel="nofollow" data-product_id="29003" data-product_sku="" class="btn btn-primary btn-block">Enroll in August Session</a>
+					<!-- <a href="mailto:certificate@nginyc.com?subject=July%202017%20Food%20Therapy%20Waitlist" class="btn btn-primary btn-block trailer">Join July Session Waitlist</a> -->
+					<a href="/certificate-programs/?add-to-cart=29003" rel="nofollow" data-product_id="29003" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in August Session</a>
+					<a href="/certificate-programs/?add-to-cart=29919" rel="nofollow" data-product_id="29919" data-product_sku="" class="btn btn-primary btn-block">Enroll in September Session</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p><b>July Session</b><br />
-						July 10, 2017 &mdash; July 21, 2017<br>
-						Monday &mdash; Friday<br />
-						9:30am &mdash; 4:30pm<br></p>
-
 						<p><b>August Session</b><br />
 						August 21, 2017 &mdash; September 1, 2017<br>
 						Monday &mdash; Friday<br />
-						9:30am &mdash; 4:30pm<br></p>						
+						9:30am &mdash; 4:30pm<br></p>	
+
+						<p><b>September Session</b><br />
+						September 17, 2017 &mdash; November 19, 2017<br>
+						Sundays<br />
+						9:30am &mdash; 4:30pm</p>
+					
 						<h5>Cost</h5>
 						<p>$5,550 / Deposit: $1,833</p>
 						<p>Students will receive a certificate of completion.</p>
@@ -133,12 +135,22 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=26805" rel="nofollow" data-product_id="26805" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="/certificate-programs/?add-to-cart=26805" rel="nofollow" data-product_id="26805" 
+					data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in July Session</a>
+					<a href="/certificate-programs/?add-to-cart=29920" rel="nofollow" data-product_id="29920" data-product_sku="" class="btn btn-primary btn-block">Enroll in September Session</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>Monday &mdash; Friday<br />
+
+						<p><b>July Session</b><br />
 						July 24, 2017 &mdash; August 4, 2017 <br />
+						Monday &mdash; Friday<br />
 						9:30am &mdash; 4:30pm</p>
+
+						<p><b>September Session</b><br />
+						September 11, 2017 &mdash; November 14, 2017<br>
+						Mondays and Tuesdays<br />
+						6:30pm &mdash; 9:30pm</p>
+
 						<h5>Cost</h5>
 						<p>$5,550 / Deposit: $1,833</p>						
 						<p>Students will receive a certificate of completion.</p>
