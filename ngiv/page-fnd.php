@@ -157,76 +157,7 @@
 
 
 
-<!-- background-color: rgba(208,40,95,.17) --> <!-- border-bottom: 8px solid #6ca438; -->
-<div class="pod-mini special-event fnd-entry" style="border-top: 8px solid #6ca438">
-	<div class="container">
-		<div class="row m-b-2">	
-			<div class="col-md-12 text-xs-center">
-				<h2>The Wellness Project Dinner with Phoebe&nbsp;Lapine</h2>
-				<img src="http://naturalgourmetinstitute.com/assets/PL.com_Classes4.jpg" class="img-fluid m-b-2">	
-			</div> <!-- /.col-md-12 -->	
-		</div> <!-- /.row -->
 
-		<div class="row">	
-			<div class="col-md-8 the-meal">
-				<h4 style="margin-bottom: 5px">First Course</h4> 
-				<p>Roasted Carrot-Fennel Soup with Frond Gremolata</p>
-				<h4 style="margin-bottom: 5px">Second Course</h4>
-				<p>Grilled Romaine Hearts with Roasted Artichokes, Green Goddess Dressing and Brazil Nut Pangritata</p>
-				<h4 style="margin-bottom: 5px">Third Course</h4>
-				<p>Lemon-Turmeric Braised Summer Vegetables with Quinoa Mujadara</p>
-				<h4 style="margin-bottom: 5px">Dessert</h4>
-				<p>Golden Milk Chia Pudding with Cinnamon Coconut Yogurt and Spicy Pepitas</p>
-
-			</div> <!-- /.col-md-8 -->
-
-			<div class="col-md-4">
-							<form action="<?php echo esc_url( add_query_arg( 'wootickets_process', 1, $woocommerce->cart->get_cart_url() ) ); ?>" class="cart" method="post" enctype='multipart/form-data'>
-					          <table width="100%" class="tribe-events-tickets">
-					            <input type='hidden' name='product_id[]' value='28135'>
-					            <tr style="display:none">
-					              <td width='75' class='woocommerce'>
-					                <div class="quantity">
-					                  <input type="number" step="1" min="1" max="82" name="quantity_28135" value="1" title="Qty" class="input-text qty text" size="4" />
-					                </div>
-					              </td>
-					              <td class='tickets_price'>
-					                <span class="amount">&#36;65.00</span>
-					              </td>
-					            </tr>
-					            <tr>
-					              <td colspan="2" class='woocommerce'>
-					                <button type="submit" class="btn btn-primary btn-block">Make a Reservation</button>
-					              </td>
-					            </tr>
-					          </table>
-					      </form>
-
-				<h4 class="m-y-1" style="line-height: 1.5em">					      			
-					Tuesday, July 25<br />
-					6:30 pm - 9:30 pm<br />
-					$65
-				</h4>
-
-				<p style="font-size:.85rem">Join <a href="https://phoebelapine.com/" target="_blank">Phoebe Lapine</a>, gluten-free chef, culinary instructor, and creator of the award-winning blog, <a href="https://feedmephoebe.com/" target="_blank">Feed Me Phoebe</a>, for a special dinner event. In celebration of her debut memoir, <a href="http://amzn.to/2o9MTgw" target="_blank">The Wellness Project</a>, this four-course, anti-inflammatory, plant-based menu is a taste of the simple, clean dishes that helped Phoebe heal from a decade of autoimmune disease. <b>Copies of The Wellness Project will be included with the meal, and the evening will conclude with a signing.</b></p>
-			</div> <!-- /.col-md-4 -->
-		</div> <!-- /.row -->
-
-	</div> <!-- /.container -->
-</div>	<!-- /.pod-mini special-event -->	
-
-		<?php /* include("parts/snippets/quote-anthony.php"); */ ?>
-
-<section id="private-event-cta" class="pod-mini bg-green">
-	<div class="container">
-		<div class="col-md-9">
-			<p class="gr-super-lede">Want to book a private party for 10 or more people?</p>
-		</div> <!-- /.col-md-9 -->
-		<div class="col-md-3">
-			<a href="<?php echo home_url(); ?>/private-events" class="btn btn-alpha btn-block">Learn more</a>
-		</div> <!-- .col-md-3 -->
-	</div> <!-- /.container -->
-</section> <!-- /#private-event-cta -->	
 
 </div> <!-- /.page-wrap .raw -->
 
