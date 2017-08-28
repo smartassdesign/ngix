@@ -59,7 +59,7 @@
 
 						<p><b>Fall 2017 Session</b><br />
 						October 11, 2017 &mdash; December 21, 2017<br>
-						Wednesdays and Thursdayss<br />
+						Wednesdays and Thursdays<br />
 						6:30pm &mdash; 9:30pm</p>
 					
 						<h5>Cost</h5>
