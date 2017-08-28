@@ -57,10 +57,10 @@
 						Monday &mdash; Friday<br />
 						9:30am &mdash; 4:30pm<br></p>	 -->
 
-						<p><b>September Session</b><br />
-						September 17, 2017 &mdash; November 19, 2017<br>
-						Sundays<br />
-						9:30am &mdash; 4:30pm</p>
+						<p><b>Fall 2017 Session</b><br />
+						October 11, 2017 &mdash; December 21, 2017<br>
+						Wednesdays and Thursdayss<br />
+						6:30pm &mdash; 9:30pm</p>
 					
 						<h5>Cost</h5>
 						<p>$5,550 / Deposit: $1,833</p>
@@ -146,8 +146,8 @@
 						Monday &mdash; Friday<br />
 						9:30am &mdash; 4:30pm</p>
  -->
-						<p><b>September Session</b><br />
-						September 11, 2017 &mdash; November 14, 2017<br>
+						<p><b>Fall 2017 Session</b><br />
+						October 2, 2017 &mdash; December 5, 2017<br>
 						Mondays and Tuesdays<br />
 						6:30pm &mdash; 9:30pm</p>
 
