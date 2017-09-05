@@ -396,7 +396,7 @@ function ds_checkout_analytics( $order_id ) {
     fbq('track', 'Purchase', { 
     content_type: 'product',
     content_ids: ['1234', '2345'],
-    value: 1800.00,
+    value:  $total,
     currency: 'USD'
 </script>
 <noscript><img height="1" width="1" style="display:none"
