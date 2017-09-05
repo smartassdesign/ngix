@@ -372,6 +372,45 @@ function my_custom_checkout_field_order_meta_keys( $keys ) {
 
 
 
+/* Add Tracking Code to the Thank You Page - */
+function ds_checkout_analytics( $order_id ) {
+  $order = new WC_Order( $order_id );
+  $currency = $order->get_order_currency();
+  $total = $order->get_total();
+  $date = $order->order_date;
+  ?>
+  <!-- Paste Tracking Code Under Here -->
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1994936330739491');
+  fbq('track', 'PageView');
+    fbq('track', 'Purchase', { 
+    content_type: 'product',
+    content_ids: ['1234', '2345'],
+    value: 1800.00,
+    currency: 'USD'
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1994936330739491&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Offer Conversion: Natural Gourmet -->
+<iframe src="https://take5mg.go2cloud.org/aff_l?offer_id=62" scrolling="no" frameborder="0" width="1" height="1"></iframe>
+<!-- // End Offer Conversion -->
+
+  <!-- End Tracking Code -->
+  <?php 
+}
+add_action( 'woocommerce_thankyou', 'ds_checkout_analytics' );
 
 
 
