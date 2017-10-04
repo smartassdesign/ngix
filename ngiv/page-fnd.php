@@ -162,6 +162,13 @@
 			<div class="col-md-12 text-xs-center">
 				<h2>&ldquo;Clue&rdquo; Murder Mystery Dinner</h2>
 				<img src="https://naturalgourmetinstitute.com/wp-content/uploads/NGI-Clue-FND.jpg" class="img-fluid m-b-2">	
+				
+            <div class="well text-xs-left" style="font-family: Courier, 'Courier New', 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace; font-size: 22px; padding: 40px; background: #fff">
+            <p>Dear Sir or Madam,</p>
+            <p>It will be to your advantage to be present for this date because Mr. Boddy will bring to an end a certain long-standing confidential and painful financial liability. A 3-course dinner will be served with plant-based menu by Chef Ann Nunziata. Please attend in costume under your alias, as all diners’ names are to remain anonymous. At Mr. Boddy’s request, all beverages are BYO.</p>
+            <p>Signed, <br />A friend.</p>
+            </div>
+				
 			</div> <!-- /.col-md-12 -->	
 		</div> <!-- /.row -->
 
