@@ -7,7 +7,7 @@
 <?php get_header(); the_post(); ?>
 
 <div class="page-wrap raw">
-<!-- <div class="alert alert-success alert-dismissible" role="alert" style="background-color: #6ca438; border-color: transparent; text-align: center; margin-bottom: 0;"><a href="#bastille-day" style="color: white">Join us for a very special <strong>Bastille Day Dinner</strong> on July 14th.</a></div>  -->
+<!-- <div class="alert alert-success alert-dismissible" role="alert" style="background-color: #6ca438; border-color: transparent; text-align: center; margin-bottom: 0;"><a href="#clue-dinner" style="color: white">Join us for a very special <strong>“Clue” Murder Mystery Dinner</strong> on October 20th.</a></div>  -->
 
 <section id="intro" class="pod">
 	<div class="container">     
@@ -155,7 +155,7 @@
 
 
 
-
+<section id="clue-dinner">
 <div class="pod-mini special-event fnd-entry" style="border-top: 8px solid #6ca438">
 	<div class="container">
 		<div class="row m-b-2">	
@@ -177,7 +177,7 @@
 				<h4 style="margin-bottom: 5px">Appetizers</h4> 
 				<p><i>Shark fin soup, Madame?</i><br />Chinese Vegetable Soup with Wood Ear & Oyster Mushrooms<br />Shiitake & Cabbage Spring Rolls</p>
 				<h4 style="margin-bottom: 5px">Entree</h4>
-				<p><b><i>Scarlet</b></i> Roasted Beets <br />Crispy Garlic <b><i>Green</b></i> beans <br />Scallion Brown Rice & <b><i>Pea-cock</b></i> Croquette <br />Sautéed <b><i>Mustard</b></i> Greens with White Sesame Seeds <br />Ginger-<b><i>Plum</b></i> Sauce</p>
+				<p><b><i>Scarlet</b></i> Roasted Beets <br />Crispy Garlic <b><i>Green</b></i> beans <br />Scallion Brown Rice & <b><i>Pea-cock</b></i> Croquette <br />Sautéed <b><i>Mustard</b></i> Greens with <b><i>White</b></i> Sesame Seeds <br />Ginger-<b><i>Plum</b></i> Sauce</p>
 				<h4 style="margin-bottom: 5px">Dessert</h4>
 				<p><i>Can I Interest Anyone In Fruit Or Dessert?</i><br />“Monkey Brain” Raspberry Cake with Chocolate Peanut Butter Frosting<br />Warm Bananas with Cinnamon Glaze<br />Butterscotch Sauce</p>
 				<h4 style="margin-bottom: 5px">Drinks</h4>
@@ -220,7 +220,7 @@
 
 	</div> <!-- /.container -->
 </div>	<!-- /.pod-mini special-event -->	
-
+</section>
 
 
 </div> <!-- /.page-wrap .raw -->
