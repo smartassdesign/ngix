@@ -7,7 +7,7 @@
 <?php get_header(); the_post(); ?>
 
 <div class="page-wrap raw">
-<!-- <div class="alert alert-success alert-dismissible" role="alert" style="background-color: #6ca438; border-color: transparent; text-align: center; margin-bottom: 0;"><a href="#clue-dinner" style="color: white">Join us for a very special <strong>“Clue” Murder Mystery Dinner</strong> on October 20th.</a></div>  -->
+<div class="alert alert-success alert-dismissible" role="alert" style="background-color: #6ca438; border-color: transparent; text-align: center; margin-bottom: 0;"><a href="#clue-dinner" style="color: white">Join us for a very special <strong>“Clue” Murder Mystery Dinner</strong> on October 20th.</a></div>
 
 <section id="intro" class="pod">
 	<div class="container">     
