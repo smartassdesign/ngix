@@ -183,7 +183,7 @@
 				<h4 style="margin-bottom: 5px">Drinks</h4>
 				<p>At Mr. Boddy’s request, beverages are BYO</p>
                 <h4 style="margin-bottom: 5px">Attire</h4>
-                <p>Costume is mandatory for this event. Please dress as your favorite character from &ldquo;Clue.&rdquo;</p>
+                <p>Please dress as your favorite character from &ldquo;Clue.&rdquo;</p>
 
 			</div> <!-- /.col-md-8 -->
 
