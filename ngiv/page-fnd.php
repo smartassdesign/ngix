@@ -158,9 +158,9 @@
 				<h2>Bohemia Three Ways: Food, Style, Culture</h2>
 				
             <div class="well text-xs-left" style="font-size: 22px; padding: 40px; background: #fff"><img src="http://naturalgourmetinstitute.com/wp-content/uploads/ngi-fnd-bohemian.jpg" class="img-fluid fnd-inline" style="float: left; height: 270px; margin-right: 20px; margin-bottom: 20px;">
-			<p>Dine in for a 3-course, plant-based menu by Chef Elliott Prag that draws inspiration from Bohemia and all that its rooted within: (1) food traditions of the lands that were once named Bohemia, (2) modern-day Bohemian interior design, and (3) a lifestyle of Bohemianism with like-minded artists, musicians, journalists, and adventurers.</p>
+			<p>Dine in for a 3-course, plant-based menu by Chef Elliott Prag that draws inspiration from Bohemia and all that is rooted within: (1) food traditions of the lands that were once named Bohemia, (2) modern-day Bohemian interior design, and (3) a lifestyle of Bohemianism with like-minded artists, musicians, journalists, and adventurers.</p>
 				 
-			<p>Guests will receive a copy of Justina Blakeney’s, <em>The New Bohemians Handbook: Come Home to Good Vibes,</em> with their ticket.</p>
+			<p>Guests will receive a copy of Justina Blakeney’s <em>The New Bohemians Handbook: Come Home to Good Vibes</em> with their ticket.</p>
 				 
 			<p style="margin-bottom: 0;"><em>The New Bohemian Handbook</em> guides readers in beautifully simple techniques for adding good vibes and style to living spaces. Packed with hundreds of ideas for bringing positive energy to your home, the book features exercises and activities for thinking about rooms in new ways. Uncover your “spirit environment” and learn how to use color and scent to enhance mood, productivity, and relaxation.</p>
             </div>
@@ -179,12 +179,7 @@
 				Roasted Potatoes with Mint, Parsley, Sumac, Aleppo Pepper, and Lemon
 				Roasted Brussels Sprouts with Frizzled Leeks, Pomegranate, and Almonds</p>
 				<h4 style="margin-bottom: 5px">Dessert</h4>
-				<p>Palacsinta (Hungarian Crepes)<br />
-				Chocolate Mocha Mousse<br />
-				Chocolate-Mint Ice Cream<br />
-				Vanilla Bean Mousse with Cacao Nibs<br />
-				Chocolate-Kirsch Sauce<br />
-				Hibiscus Reduction</p>
+				<p>Palacsinta (Hungarian Crepes) filled with Chocolate Mocha Mousse, Chocolate Mint Ice Cream, and Vanilla Bean Mousse with Cacao Nibs topped with Chocolate Kirsch Sauce and Hibiscus Reduction</p>
 			</div> <!-- /.col-md-8 -->
 
 			<div class="col-md-4">
