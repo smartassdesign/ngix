@@ -156,7 +156,7 @@
 		<div class="row m-b-2">	
 			<div class="col-md-12 text-xs-center">
 				<h2>Bohemia Three ways: Food, Style, Culture</h2>
-				<!-- <img src="https://naturalgourmetinstitute.com/wp-content/uploads/NGI-Clue-FND.jpg" class="img-fluid m-b-2"> -->
+				<img src="http://naturalgourmetinstitute.com/wp-content/uploads/ngi-fnd-bohemian.jpg" class="img-fluid fnd-inline" style="float: left; height: 270px; margin-right: 20px; margin-bottom: 20px;">
 				
             <div class="well text-xs-left" style="font-size: 22px; padding: 40px; background: #fff">
 			<p>Dine in for a 3-course, plant-based menu by Chef Elliott Prag that draws inspiration from Bohemia and all that its rooted within: (1) food traditions of the lands that were once named Bohemia, (2) modern-day Bohemian interior design, and (3) a lifestyle of Bohemianism with like-minded artists, musicians, journalists, and adventurers.</p>
