@@ -162,7 +162,7 @@
 				 
 			<p>Guests will receive a copy of Justina Blakeney’s <em>The New Bohemians Handbook: Come Home to Good Vibes</em> with their ticket.</p>
 				 
-			<p style="margin-bottom: 0;"><em>The New Bohemian Handbook</em> guides readers in beautifully simple techniques for adding good vibes and style to living spaces. Packed with hundreds of ideas for bringing positive energy to your home, the book features exercises and activities for thinking about rooms in new ways. Uncover your “spirit environment” and learn how to use color and scent to enhance mood, productivity, and relaxation.</p>
+			<p style="margin-bottom: 0;"><em><a href="http://www.justinablakeney.com/books/" target="_blank">The New Bohemian Handbook</a></em> guides readers in beautifully simple techniques for adding good vibes and style to living spaces. Packed with hundreds of ideas for bringing positive energy to your home, the book features exercises and activities for thinking about rooms in new ways. Uncover your “spirit environment” and learn how to use color and scent to enhance mood, productivity, and relaxation.</p>
             </div>
 				
 			</div> <!-- /.col-md-12 -->	
@@ -180,6 +180,11 @@
 				Roasted Brussels Sprouts with Frizzled Leeks, Pomegranate, and Almonds</p>
 				<h4 style="margin-bottom: 5px">Dessert</h4>
 				<p>Palacsinta (Hungarian Crepes) filled with Chocolate Mocha Mousse, Chocolate Mint Ice Cream, and Vanilla Bean Mousse with Cacao Nibs topped with Chocolate Kirsch Sauce and Hibiscus Reduction</p>
+				
+				<h4 style="margin-bottom: 5px">Suggested Pairings*</h4>
+<p><strong>Wine:</strong> White - Grüner Veltiner (Austria), Red - St. Laurent (Czech/Austria)<br />
+	<strong>Beer:</strong> Pilsner Urquell (Czech), Stiegl Pilz (Austria)</p>
+				<p><small>*Please note, all beverages are BYOB.</small></p>
 			</div> <!-- /.col-md-8 -->
 
 			<div class="col-md-4">
