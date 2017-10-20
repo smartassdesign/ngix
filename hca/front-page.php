@@ -223,12 +223,12 @@
          <div class="col-md-8">
             <div class="row">
                <div class="col-sm-6 upcoming-session-date">
-                  <h3>$27,100</h3>
+                  <h3>$27,200</h3>
                   <span class="designation">Full-Time Tuition</span>
                </div> <!-- /.col-md-6 -->
 
                <div class="col-sm-6 upcoming-session-date">
-                  <h3>$21,100</h3>
+                  <h3>$21,200</h3>
                   <span class="designation">Part-Time Tuition</span>
                </div> <!-- /.col-md-6 -->
             </div> <!-- /.row -->
