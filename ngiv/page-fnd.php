@@ -171,13 +171,11 @@
 		<div class="row">	
 			<div class="col-md-8 the-meal">
 				<h4 style="margin-bottom: 5px">On the Table</h4> 
-				<p>Grilled Pumpernickel with White Bean Spread (Dill, Lemon, Garlic)</p>
+				<p>Grilled Pumpernickel with White Bean Spread (Dill and Garlic)</p>
 				<h4 style="margin-bottom: 5px">Appetizer</h4> 
-				<p>Romaine Hearts, Frisee, Radicchio, Cucumber, Toasted Almonds, Roasted Red Pepper, Kalamata Olives, Lemon-Poppy Seed Vinaigrette <br />Pureed Cauliflower Soup, Paprika Oil, Crisp Leeks, and Capers</p>
+				<p>Romaine Hearts, Frisee, Radicchio, Cucumber, Toasted Almonds, Roasted Red Pepper, Kalamata Olives, Lemon-Poppy Seed Vinaigrette <br />Pureed Cauliflower Soup, Paprika Oil, and Capers</p>
 				<h4 style="margin-bottom: 5px">Main</h4>
-				<p>Strudel of Forest Mushrooms, Toasted Walnuts, Shallots <br />Red Wine Reduction Sauce <br />Red Cabbage Sauerkraut with Caraway and Sautéed Apples
-				Roasted Potatoes with Mint, Parsley, Sumac, Aleppo Pepper, and Lemon
-				Roasted Brussels Sprouts with Frizzled Leeks, Pomegranate, and Almonds</p>
+				<p>Strudel of Forest Mushrooms, Toasted Walnuts, Shallots <br />Red Wine Reduction Sauce <br />Red Cabbage Sauerkraut with Caraway and Sautéed Apples Roasted Potatoes with Mint, Parsley, Sumac, Aleppo Pepper, and Lemon Roasted Brussels Sprouts with Frizzled Leeks, Pomegranate, and Pine Nuts</p>
 				<h4 style="margin-bottom: 5px">Dessert</h4>
 				<p>Palacsinta (Hungarian Crepes) filled with Chocolate Mocha Mousse, Chocolate Mint Ice Cream, and Vanilla Bean Mousse with Cacao Nibs topped with Chocolate Kirsch Sauce and Hibiscus Reduction</p>
 				
