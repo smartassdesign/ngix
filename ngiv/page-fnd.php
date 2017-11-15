@@ -7,7 +7,6 @@
 <?php get_header(); the_post(); ?>
 
 <div class="page-wrap raw">
-<div class="alert alert-success alert-dismissible" role="alert" style="background-color: #6ca438; border-color: transparent; text-align: center; margin-bottom: 0;"><a href="#bohemian-dinner" style="color: white">Join us for a very special dinner &mdash; <strong>Bohemia Three ways: Food, Style, Culture</strong> on November 10th.</a></div>
 
 <section id="intro" class="pod">
 	<div class="container">     
@@ -148,77 +147,6 @@
 
 
 	</div> <!-- /.container -->
-
-
-<section id="bohemian-dinner">
-<div class="pod-mini special-event fnd-entry" style="border-top: 8px solid #6ca438">
-	<div class="container">
-		<div class="row m-b-2">	
-			<div class="col-md-12 text-xs-center">
-				<h2>Bohemia Three Ways: Food, Style, Culture</h2>
-				
-            <div class="well text-xs-left" style="font-size: 22px; padding: 40px; background: #fff"><img src="http://naturalgourmetinstitute.com/wp-content/uploads/ngi-fnd-bohemian.jpg" class="img-fluid fnd-inline" style="float: left; height: 270px; margin-right: 20px; margin-bottom: 20px;">
-			<p>Dine in for a 3-course, plant-based menu by Chef Elliott Prag that draws inspiration from Bohemia and all that is rooted within: (1) food traditions of the lands that were once named Bohemia, (2) modern-day Bohemian interior design, and (3) a lifestyle of Bohemianism with like-minded artists, musicians, journalists, and adventurers.</p>
-				 
-			<p>Guests will receive a copy of Justina Blakeney’s <em>The New Bohemians Handbook: Come Home to Good Vibes</em> with their ticket.</p>
-				 
-			<p style="margin-bottom: 0;"><em><a href="http://www.justinablakeney.com/books/" target="_blank">The New Bohemian Handbook</a></em> guides readers in beautifully simple techniques for adding good vibes and style to living spaces. Packed with hundreds of ideas for bringing positive energy to your home, the book features exercises and activities for thinking about rooms in new ways. Uncover your “spirit environment” and learn how to use color and scent to enhance mood, productivity, and relaxation.</p>
-            </div>
-				
-			</div> <!-- /.col-md-12 -->	
-		</div> <!-- /.row -->
-
-		<div class="row">	
-			<div class="col-md-8 the-meal">
-				<h4 style="margin-bottom: 5px">On the Table</h4> 
-				<p>Grilled Pumpernickel with White Bean Spread (Dill and Garlic)</p>
-				<h4 style="margin-bottom: 5px">Appetizer</h4> 
-				<p>Romaine Hearts, Frisee, Radicchio, Cucumber, Toasted Almonds, Roasted Red Pepper, Kalamata Olives, Lemon-Poppy Seed Vinaigrette <br />Pureed Cauliflower Soup, Paprika Oil, and Capers</p>
-				<h4 style="margin-bottom: 5px">Main</h4>
-				<p>Strudel of Forest Mushrooms, Toasted Walnuts, Shallots <br />Red Wine Reduction Sauce <br />Red Cabbage Sauerkraut with Caraway and Sautéed Apples Roasted Potatoes with Mint, Parsley, Sumac, Aleppo Pepper, and Lemon Roasted Brussels Sprouts with Frizzled Leeks, Pomegranate, and Pine Nuts</p>
-				<h4 style="margin-bottom: 5px">Dessert</h4>
-				<p>Palacsinta (Hungarian Crepes) filled with Chocolate Mocha Mousse, Chocolate Mint Ice Cream, and Vanilla Bean Mousse with Cacao Nibs topped with Chocolate Kirsch Sauce and Hibiscus Reduction</p>
-				
-				<h4 style="margin-bottom: 5px">Suggested Pairings*</h4>
-<p><strong>Wine:</strong> White - Grüner Veltiner (Austria), Red - St. Laurent (Czech/Austria)<br />
-	<strong>Beer:</strong> Pilsner Urquell (Czech), Stiegl Pilz (Austria)</p>
-				<p><small>*Please note, all beverages are BYOB.</small></p>
-			</div> <!-- /.col-md-8 -->
-
-			<div class="col-md-4">
-							<form action="<?php echo esc_url( add_query_arg( 'wootickets_process', 1, $woocommerce->cart->get_cart_url() ) ); ?>" class="cart" method="post" enctype='multipart/form-data'>
-					          <table width="100%" class="tribe-events-tickets">
-					            <input type='hidden' name='product_id[]' value='32268'>
-					            <tr style="display:none">
-					              <td width='75' class='woocommerce'>
-					                <div class="quantity">
-					                  <input type="number" step="1" min="1" max="82" name="quantity_32268" value="1" title="Qty" class="input-text qty text" size="4" />
-					                </div>
-					              </td>
-					              <td class='tickets_price'>
-					                <span class="amount">&#36;55.00</span>
-					              </td>
-					            </tr>
-					            <tr>
-					              <td colspan="2" class='woocommerce'>
-					                <button type="submit" class="btn btn-primary btn-block">Make a Reservation</button>
-					              </td>
-					            </tr>
-					          </table>
-					      </form>
-
-				<h4 class="m-y-1" style="line-height: 1.5em">					      			
-					Friday, November 10<br />
-					6:30 pm - 9:30 pm<br />
-					$55
-				</h4>
-
-			</div> <!-- /.col-md-4 -->
-		</div> <!-- /.row -->
-
-	</div> <!-- /.container -->
-</div>	<!-- /.pod-mini special-event -->	
-</section>
 
 
 </div> <!-- /.page-wrap .raw -->
