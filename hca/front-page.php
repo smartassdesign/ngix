@@ -263,9 +263,9 @@
                      <div class="panel-body">
                         <p class="lede"><a href="<?php bloginfo('url');?>/food-medicine-grant/" class="ww">Food as Medicine Grant</a></p>
 
-                        <p class="lede"><a href="<?php bloginfo('url');?>/certified-yoga-practitioner-grant/" class="ww">Certified Yoga Practitioner Grant</a></p>
+                        <p class="lede"><a href="<?php bloginfo('url');?>/certified-yoga-practitioner-grant/" class="ww">Yoga Practitioner Grant</a></p>
 
-                        <p class="lede"><a href="<?php bloginfo('url');?>/certified-health-coach-grant/" class="ww">Certified Health Coach Grant</a></p>
+                        <p class="lede"><a href="<?php bloginfo('url');?>/certified-health-coach-grant/" class="ww">Health Coach Grant</a></p>
 
                         <p class="lede"><a href="<?php bloginfo('url');?>/career-changer-grant/" class="ww">Career Changer Grant</a></p>
 
