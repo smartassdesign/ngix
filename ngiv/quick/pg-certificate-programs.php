@@ -120,12 +120,21 @@
 
 							
 						<div class="col-md-4">
-							<a href="/certificate-programs/?add-to-cart=32915" rel="nofollow" data-product_id="32915" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+							<a href="/certificate-programs/?add-to-cart=32915" rel="nofollow" data-product_id="32915"
+							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in February Session</a>
+							
+							<a href="/certificate-programs/?add-to-cart=32915" rel="nofollow" data-product_id="32915" data-product_sku="" class="btn btn-primary btn-block">Enroll in July Session</a>
 							<aside class="well">
 								<h5>Dates</h5>
-								<p>February 19, 2018 &mdash; March 2, 2018<br />
+								<p><b>February Session</b><br />
+								February 19, 2018 &mdash; March 2, 2018<br />
 								Monday &mdash; Friday<br />
 								9:30am &mdash; 4pm</p>
+
+								<p><b>July Session</b><br />
+								July 9, 2018 &mdash; July 20, 2018<br />
+								Monday &mdash; Friday<br />
+								9:30am &mdash; 4pm</p>									
 							
 								<h5>Cost</h5>
 								<p>$5,550 / Deposit: $1,833</p>
