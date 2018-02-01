@@ -57,7 +57,7 @@ $counter = 0;
 
 
 			<div class="text-xs-center m-y-md p-t-md cta">
-				<p><a class="btn-text" href="<?php bloginfo('url');?>/assets/2017-NGIHCA-Catalog.pdf">Chef’s Training Program Catalog <span class="icon-arrow-down"></span></a></p>
+				<p><a class="btn-text" href="<?php bloginfo('url');?>/assets/2018-NGIHCA-Catalog.pdf">Chef’s Training Program Catalog <span class="icon-arrow-down"></span></a></p>
 				<a href="#" class="btn btn-lg btn-primary-outline" data-toggle="modal" data-target="#infoModal">Request Info</a>
 				<a href="<?php bloginfo('url');?>/apply" class="btn btn-lg btn-primary">Apply Now</a>
 			</div>
