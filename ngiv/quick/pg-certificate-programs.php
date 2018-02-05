@@ -123,7 +123,7 @@
 							<a href="/certificate-programs/?add-to-cart=32915" rel="nofollow" data-product_id="32915"
 							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in February Session</a>
 							
-							<a href="/certificate-programs/?add-to-cart=32915" rel="nofollow" data-product_id="32915" data-product_sku="" class="btn btn-primary btn-block">Enroll in July Session</a>
+							<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="34682" data-product_sku="" class="btn btn-primary btn-block">Enroll in July Session</a>
 							<aside class="well">
 								<h5>Dates</h5>
 								<p><b>February Session</b><br />
