@@ -11,7 +11,7 @@
 <section id="intro" class="pod">
 	<div class="container">     
 		<h1 class="large">3 Gourmet Courses: Healthy, Delicious and BYOB.</h1>
-		<p class="lede">On Friday night, we set the tables, light the candles and put our chefs to work creating a family dinner like no other in New York City. Each week features a unique 3-course vegetarian meal prepared by Chef’s Training Program students and instructors. We use seasonal, local, fresh, traditional and whole ingredients, often vegan and/or gluten-free. BYOB and only $45, Friday Night Dinner is one of the best values for a night out on the town to be had in this city.</p>
+		<p class="lede">On Friday night, we set the tables, light the candles and put our chefs to work creating a family dinner like no other in New York City. Each week features a unique 3-course vegetarian meal prepared by Chef’s Training Program students and instructors. We use seasonal, local, fresh, traditional and whole ingredients, often vegan and/or gluten-free. BYOB and only $49, Friday Night Dinner is one of the best values for a night out on the town to be had in this city.</p>
 	</div> <!-- /.container -->   
 </section> <!-- /#intro -->
 
