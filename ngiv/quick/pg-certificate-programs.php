@@ -1,6 +1,70 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#culinary-nutrition">Culinary Nutrition</a> and <a href="#food-therapy">Food Therapy</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of<a href="#food-therapy">Food Therapy</a> and <a href="#culinary-nutrition">Culinary Nutrition</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
+
+
+
+<div class="sub-pod">
+		<section id="food-therapy">
+
+			<img src="/assets/NGI-CFPWI-web.jpg" alt="Food Therapy Certificate Program" class="img-fluid trailer">	
+			<div class="row">
+				<div class="col-md-8">
+					<header>	
+						<h2>Food Therapy</h2>
+					</header>
+
+
+					<p class="trailer">It is no secret that proper nourishment can be a powerful aid to the healing process. In the Food Therapy Certificate Program, students will learn about whole systems biology, core nutritional imbalances, and how to translate a dietary prescription into practical meal planning and preparation. Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Led by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions.</p>
+
+					<h4>Coursework</h4>
+					<ul><li> Exploring the differences between "illness" and "disease"</li>
+						<li>Understanding the principles of culinary translation</li>
+					<li>Common issues of chronic disease - genetics, environment and diet</li>
+					<li>Working through the relationship between food and health</li>
+					<li>Cooking concerns for people with cancer, immune disorders, diabetes, inflammation and other illnesses</li>
+					<li>Menu planning for people with illnesses</li>
+					<li>Developing culinary strategies that support well-being and healing</li>
+					<li>And more!</li></ul>	
+
+					<h4 class="leader">Instructors</h5>
+					<p><b>Celine Beitchman</b> began her culinary career in 1986 alongside Natural Gourmet Institute’s founder, Dr. Annemarie Colbin. After completing apprenticeships in Paris and NYC, Celine worked as a high-end caterer, food stylist, private chef and nutrition counselor. As a current NGI faculty member, Celine develops coursework, and teaches culinary technique, integrative nutrition science, and medicinal cooking in the professional Chef’s Training Program. Celine is a member of NYC Nutrition Educators Network and of the American Nutrition Association, and is currently working toward her Masters in Nutrition &amp; Health Behavior Education at the Maryland University of Integrative Health.</p>
+
+					<p><b>Elliott Prag</b> is the Curriculum Development Manager and full-time instructor at Natural Gourmet Institute. A graduate of our Chef’s Training Program, Elliott has been a private and personal chef, restaurant chef, and a caterer. He also opened the first health-supportive, farm-to-table restaurant in Sofia, Bulgaria. He has been a frequent contributor to Vegetarian Times and is an expert in bread baking.</p>					
+	
+
+					<p class="trailer"><a href="/request-info-food-therapy/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
+
+					<div class="well">
+						<p>This certificate program is offered for personal enrichment only.</p>
+
+						<p>To register for Food Therapy click enroll and submit the deposit payment. Once your deposit is processed you will receive an email confirmation and link to complete the balance of tuition payment form. Follow the instructions in the form to complete your registration.</p>
+
+						<p>Refund policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
+					</div> <!-- /.well -->					
+
+				</div> <!-- /.col-md-8 -->	
+
+					
+				<div class="col-md-4">
+					<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="34682" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<aside class="well">
+						<h5>Dates</h5>
+						<p><b>July Session</b><br />
+						July 9, 2018 &mdash; July 20, 2018<br />
+						Monday &mdash; Friday<br />
+						9:30am &mdash; 4pm</p>									
+					
+						<h5>Cost</h5>
+						<p>$5,550 / Deposit: $1,833</p>
+						<p>Students will receive a certificate of completion.</p>
+					</aside> <!-- /.well -->				
+				</div> <!-- /.col-md-4 -->
+				
+			</div> <!-- /.row -->		
+		</section> <!-- /#food-therapy -->
+	</div>	
+
 
 
 		<div class="sub-pod">
@@ -56,12 +120,10 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=32914" rel="nofollow" data-product_id="32914" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+					<a href="mailto:certificate@nginyc.com" class="btn btn-primary btn-block">Request Info</a>
 					<aside class="well">
 						<h5>Dates</h5>
-						<p>February 5, 2018 &mdash; February 16, 2018<br />
-						Monday &mdash; Friday<br />
-						9:30am &mdash; 4pm</p>
+						<p>Next session coming soon. Please email us to be informed when dates are available.</p>
 
 						<h5>Cost</h5>
 						<p>$5,550 / Deposit: $1,833</p>						
@@ -73,75 +135,3 @@
 			</div> <!-- /.row -->
 		</section> <!-- /#culinary-nutrition -->		
 		</div>			
-
-
-
-
-		<div class="sub-pod">
-				<section id="food-therapy">
-
-					<img src="/assets/NGI-CFPWI-web.jpg" alt="Food Therapy Certificate Program" class="img-fluid trailer">	
-					<div class="row">
-						<div class="col-md-8">
-							<header>	
-					      		<h2>Food Therapy</h2>
-							</header>
-
-
-							<p class="trailer">It is no secret that proper nourishment can be a powerful aid to the healing process. In the Food Therapy Certificate Program, students will learn about whole systems biology, core nutritional imbalances, and how to translate a dietary prescription into practical meal planning and preparation. Students will also gain an understanding of how specific diets and cooking techniques relate to different illnesses. Led by professionally trained health-supportive chefs, along with experts in whole foods nutrition, functional medicine and clinical nutrition and dietetics, the course will consist of lectures, case study discussions and kitchen lab sessions.</p>
-
-							<h4>Coursework</h4>
-							<ul><li> Exploring the differences between "illness" and "disease"</li>
-								<li>Understanding the principles of culinary translation</li>
-							<li>Common issues of chronic disease - genetics, environment and diet</li>
-							<li>Working through the relationship between food and health</li>
-							<li>Cooking concerns for people with cancer, immune disorders, diabetes, inflammation and other illnesses</li>
-							<li>Menu planning for people with illnesses</li>
-							<li>Developing culinary strategies that support well-being and healing</li>
-							<li>And more!</li></ul>	
-
-							<h4 class="leader">Instructors</h5>
-							<p><b>Celine Beitchman</b> began her culinary career in 1986 alongside Natural Gourmet Institute’s founder, Dr. Annemarie Colbin. After completing apprenticeships in Paris and NYC, Celine worked as a high-end caterer, food stylist, private chef and nutrition counselor. As a current NGI faculty member, Celine develops coursework, and teaches culinary technique, integrative nutrition science, and medicinal cooking in the professional Chef’s Training Program. Celine is a member of NYC Nutrition Educators Network and of the American Nutrition Association, and is currently working toward her Masters in Nutrition &amp; Health Behavior Education at the Maryland University of Integrative Health.</p>
-
-							<p><b>Elliott Prag</b> is the Curriculum Development Manager and full-time instructor at Natural Gourmet Institute. A graduate of our Chef’s Training Program, Elliott has been a private and personal chef, restaurant chef, and a caterer. He also opened the first health-supportive, farm-to-table restaurant in Sofia, Bulgaria. He has been a frequent contributor to Vegetarian Times and is an expert in bread baking.</p>					
-			
-
-							<p class="trailer"><a href="/request-info-food-therapy/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
-
-							<div class="well">
-								<p>This certificate program is offered for personal enrichment only.</p>
-
-								<p>To register for Food Therapy click enroll and submit the deposit payment. Once your deposit is processed you will receive an email confirmation and link to complete the balance of tuition payment form. Follow the instructions in the form to complete your registration.</p>
-
-								<p>Refund policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
-							</div> <!-- /.well -->					
-
-						</div> <!-- /.col-md-8 -->	
-
-							
-						<div class="col-md-4">
-							<a href="/certificate-programs/?add-to-cart=32915" rel="nofollow" data-product_id="32915"
-							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in February Session</a>
-							
-							<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="34682" data-product_sku="" class="btn btn-primary btn-block">Enroll in July Session</a>
-							<aside class="well">
-								<h5>Dates</h5>
-								<p><b>February Session</b><br />
-								February 19, 2018 &mdash; March 2, 2018<br />
-								Monday &mdash; Friday<br />
-								9:30am &mdash; 4pm</p>
-
-								<p><b>July Session</b><br />
-								July 9, 2018 &mdash; July 20, 2018<br />
-								Monday &mdash; Friday<br />
-								9:30am &mdash; 4pm</p>									
-							
-								<h5>Cost</h5>
-								<p>$5,550 / Deposit: $1,833</p>
-								<p>Students will receive a certificate of completion.</p>
-							</aside> <!-- /.well -->				
-						</div> <!-- /.col-md-4 -->
-						
-					</div> <!-- /.row -->		
-				</section> <!-- /#food-therapy -->
-			</div>	
