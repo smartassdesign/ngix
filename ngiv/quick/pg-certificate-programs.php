@@ -47,7 +47,7 @@
 
 					
 				<div class="col-md-4">
-							<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="34682" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in July Session</a>
+							<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="34682" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Summer Session</a>
 							
 							<a href="/certificate-programs/?add-to-cart=36490" rel="nofollow" data-product_id="36490"
 							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Fall Session</a>
