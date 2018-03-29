@@ -11,7 +11,7 @@
 			<div class="row">
 				<div class="col-md-8">
 					<header>	
-						<h2>Food Therapy</h2>
+						<h2>Food Therapy Certificate Program</h2>
 					</header>
 
 
@@ -83,7 +83,7 @@
 			<div class="row">
 				<div class="col-md-8">
 					<header>	
-			      		<h2>Culinary Nutrition Certificate Program - New York City</h2>
+			      		<h2>Culinary Nutrition Certificate Program</h2>
 					</header>
 
 					<!-- <h4>Overview</h4> -->
@@ -142,8 +142,8 @@
 
 								<p><b>Fall Session</b><br />
 								September 10, 2018 &mdash; November 13, 2018<br />
-								Monday &mdash; Friday<br />
-								9:30am &mdash; 4:30pm</p>									
+								Monday &amp; Tuesday Evenings<br />
+								6:30pm &mdash; 9:30pm</p>									
 							
 								<h5>Cost</h5>
 								<p>$5,550 / Deposit: $1,833</p>
