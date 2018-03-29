@@ -54,7 +54,7 @@
 							
 							<aside class="well">
 								<h5>Dates</h5>
-								<p><b>July Session</b><br />
+								<p><b>Summer Session</b><br />
 								July 9, 2018 &mdash; July 20, 2018<br />
 								Monday &mdash; Friday<br />
 								9:30am &mdash; 4:30pm</p>		
