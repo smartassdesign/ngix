@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of<a href="#food-therapy">Food Therapy</a> and <a href="#culinary-nutrition">Culinary Nutrition</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a> and <a href="#culinary-nutrition">Culinary Nutrition</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 
 
@@ -47,7 +47,7 @@
 
 					
 				<div class="col-md-4">
-							<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="34682" data-product_sku="" class="btn btn-primary btn-block">Enroll in July Session</a>
+							<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="34682" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in July Session</a>
 							
 							<a href="/certificate-programs/?add-to-cart=36490" rel="nofollow" data-product_id="36490"
 							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Fall Session</a>
