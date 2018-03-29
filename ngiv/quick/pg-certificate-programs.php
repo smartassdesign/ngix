@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a> and <a href="#culinary-nutrition">Culinary Nutrition</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of<a href="#food-therapy">Food Therapy</a> and <a href="#culinary-nutrition">Culinary Nutrition</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 
 
@@ -47,19 +47,28 @@
 
 					
 				<div class="col-md-4">
-					<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="34682" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
-					<aside class="well">
-						<h5>Dates</h5>
-						<p><b>July Session</b><br />
-						July 9, 2018 &mdash; July 20, 2018<br />
-						Monday &mdash; Friday<br />
-						9:30am &mdash; 4pm</p>									
-					
-						<h5>Cost</h5>
-						<p>$5,550 / Deposit: $1,833</p>
-						<p>Students will receive a certificate of completion.</p>
-					</aside> <!-- /.well -->				
-				</div> <!-- /.col-md-4 -->
+							<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="34682" data-product_sku="" class="btn btn-primary btn-block">Enroll in July Session</a>
+							
+							<a href="/certificate-programs/?add-to-cart=36490" rel="nofollow" data-product_id="36490"
+							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Fall Session</a>
+							
+							<aside class="well">
+								<h5>Dates</h5>
+								<p><b>July Session</b><br />
+								July 9, 2018 &mdash; July 20, 2018<br />
+								Monday &mdash; Friday<br />
+								9:30am &mdash; 4:30pm</p>		
+
+								<p><b>Fall Session</b><br />
+								October 15, 2018 &mdash; October 26, 2018<br />
+								Monday &mdash; Friday<br />
+								9:30am &mdash; 4:30pm</p>															
+							
+								<h5>Cost</h5>
+								<p>$5,550 / Deposit: $1,833</p>
+								<p>Students will receive a certificate of completion.</p>
+							</aside> <!-- /.well -->				
+						</div> <!-- /.col-md-4 -->
 				
 			</div> <!-- /.row -->		
 		</section> <!-- /#food-therapy -->
@@ -120,17 +129,27 @@
 
 					
 				<div class="col-md-4">
-					<a href="mailto:certificate@nginyc.com" class="btn btn-primary btn-block">Request Info</a>
-					<aside class="well">
-						<h5>Dates</h5>
-						<p>Next session coming soon. Please email us to be informed when dates are available.</p>
+							<a href="/certificate-programs/?add-to-cart=36488" rel="nofollow" data-product_id="36488"
+							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Summer Session</a>
+							
+							<a href="/certificate-programs/?add-to-cart=36489" rel="nofollow" data-product_id="36489" data-product_sku="" class="btn btn-primary btn-block">Enroll in Fall Session</a>
+							<aside class="well">
+								<h5>Dates</h5>
+								<p><b>Summer Session</b><br />
+								July 23, 2018 &mdash; August 3, 2018<br />
+								Monday &mdash; Friday<br />
+								9:30am &mdash; 4:30pm</p>
 
-						<h5>Cost</h5>
-						<p>$5,550 / Deposit: $1,833</p>						
-						<p>Students will receive a certificate of completion.</p>
-					</aside>
-
-				</div> <!-- /.col-md-4 -->
+								<p><b>Fall Session</b><br />
+								September 10, 2018 &mdash; November 13, 2018<br />
+								Monday &mdash; Friday<br />
+								9:30am &mdash; 4:30pm</p>									
+							
+								<h5>Cost</h5>
+								<p>$5,550 / Deposit: $1,833</p>
+								<p>Students will receive a certificate of completion.</p>
+							</aside> <!-- /.well -->				
+						</div> <!-- /.col-md-4 -->
 				
 			</div> <!-- /.row -->
 		</section> <!-- /#culinary-nutrition -->		
