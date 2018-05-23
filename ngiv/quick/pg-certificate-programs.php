@@ -199,7 +199,7 @@
 				9:30am &mdash; 4:30pm</p>
 
 				<h5>Cost</h5>
-				<p>$2,995 / Deposit: $???</p>						
+				<p>$2,995 / Deposit: $1,000</p>						
 				<p>Students will receive a certificate of completion.</p>
 			</aside>
 
