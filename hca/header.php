@@ -44,6 +44,8 @@ document.createElement('video');document.createElement('audio');document.createE
 <link href="//vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
 <script src="//vjs.zencdn.net/4.12/video.js"></script>
 
+<script type="text/javascript" src="https://cdn.iubenda.com/consent_solution/iubenda_cons.js"></script> <script type="text/javascript">  _iub.cons.init({     api_key: "1I6irZBDzBGmJTu3Eso3G4T74UB74nxQ"  }); </script>
+
 
 		<?php wp_head(); ?>
 	</head>
