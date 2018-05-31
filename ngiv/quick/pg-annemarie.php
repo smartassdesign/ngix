@@ -46,7 +46,7 @@
 
 <div class="quote bg-dark p-a-2">
 	<p>Annemarie was a constant mentor in my life, ever since I met her when I was ten years old at my first cooking class where she wooed me with veggie pizza on mimeographed handouts! I serendipitously made my way back to NGI, graduated the Chef’s Training Program, met my husband sitting side-by-side in class, and built a delicious life based on Annemarie's pioneering wisdom.</p>
-	<p class="text-xs-right attro">&mdash; Rachel Herman</p>
+	<p class="text-xs-right attro">&mdash; Rachel Gitlin Herman</p>
 </div>
 
 
