@@ -108,6 +108,18 @@ function async_load(){
     </div>
   </noscript>
 
+<div id="ttdUniversalPixelTag5a2e4b81237a4d11a6267a2433577a32" style="display:none">
+    <script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        (function(global) {
+            if (typeof TTDUniversalPixelApi === 'function') {
+                var universalPixelApi = new TTDUniversalPixelApi();
+                universalPixelApi.init("hupr17p", ["fx0vm8d"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTag5a2e4b81237a4d11a6267a2433577a32");
+            }
+        })(this);
+    </script>
+</div>
+
 <?php wp_footer(); ?>
 
 	</body>
