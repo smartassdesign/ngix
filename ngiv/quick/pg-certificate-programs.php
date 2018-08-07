@@ -47,22 +47,14 @@
 
 					
 				<div class="col-md-4">
-							<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="34682" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Summer Session</a>
-							
 							<a href="/certificate-programs/?add-to-cart=36490" rel="nofollow" data-product_id="36490"
-							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Fall Session</a>
+							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll</a>
 							
 							<aside class="well">
 								<h5>Dates</h5>
-								<p><b>Summer Session</b><br />
-								July 9, 2018 &mdash; July 20, 2018<br />
-								Monday &mdash; Friday<br />
-								9:30am &mdash; 4:30pm</p>		
-
-								<p><b>Fall Session</b><br />
 								October 15, 2018 &mdash; October 26, 2018<br />
 								Monday &mdash; Friday<br />
-								9:30am &mdash; 4:30pm</p>															
+								9:30am &mdash; 4:00pm</p>															
 							
 								<h5>Cost</h5>
 								<p>$5,550 / Deposit: $1,833</p>
@@ -128,19 +120,10 @@
 				</div> <!-- /.col-md-8 -->	
 
 					
-				<div class="col-md-4">
-							<a href="/certificate-programs/?add-to-cart=36488" rel="nofollow" data-product_id="36488"
-							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Summer Session</a>
-							
-							<a href="/certificate-programs/?add-to-cart=36489" rel="nofollow" data-product_id="36489" data-product_sku="" class="btn btn-primary btn-block">Enroll in Fall Session</a>
+				<div class="col-md-4">							
+							<a href="/certificate-programs/?add-to-cart=36489" rel="nofollow" data-product_id="36489" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
 							<aside class="well">
 								<h5>Dates</h5>
-								<p><b>Summer Session</b><br />
-								July 23, 2018 &mdash; August 3, 2018<br />
-								Monday &mdash; Friday<br />
-								9:30am &mdash; 4:30pm</p>
-
-								<p><b>Fall Session</b><br />
 								September 10, 2018 &mdash; November 13, 2018<br />
 								Monday &amp; Tuesday Evenings<br />
 								6:30pm &mdash; 9:30pm</p>									
@@ -196,7 +179,7 @@
 				<h5>Dates</h5>
 				<p>August 20, 2018 &mdash; August 31, 2018<br />
 				Monday &mdash; Friday<br />
-				9:30am &mdash; 4:30pm</p>
+				9:30am &mdash; 4:00pm</p>
 
 				<h5>Cost</h5>
 				<p>$2,995 / Deposit: $1,000</p>						
