@@ -1,5 +1,5 @@
 <h1 class="large">Certificate Programs</h1>
-<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a>, <a href="#culinary-nutrition">Culinary Nutrition</a> and <a href="#basic-cooking-techniques">Basic Cooking Techniques</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
+<p class="lede certificate-subnav">As the leader in health-supportive culinary education, we understand that students are interested in many aspects of the food system. Natural Gourmet Institute’s interactive and dynamic Certificate Programs are designed to give students the opportunity to gain first-hand experience and expertise in the areas of <a href="#food-therapy">Food Therapy</a> and <a href="#culinary-nutrition">Culinary Nutrition</a>. By working with accomplished chefs, industry experts and partners, the Certificate Programs allow students to further develop their knowledge and gain new perspectives on exciting and essential components of the better food movement.</p>
 &nbsp;
 
 
@@ -137,57 +137,3 @@
 			</div> <!-- /.row -->
 		</section> <!-- /#culinary-nutrition -->		
 		</div>			
-
-
-<div class="sub-pod">
-	<section id="basic-cooking-techniques">
-	<img src ="/assets/basic-cooking-techniques.jpg" alt="NGI Basic Cooking Techniques Certificate Program" class="img-fluid trailer">
-
-	<div class="row">
-		<div class="col-md-8">
-			<header>	
-				<h2>Basic Cooking Techniques 2-Week Intensive Course</h2>
-			</header>
-
-			<!-- <h4>Overview</h4> -->
-			<p class="trailer">Come spend summer cooking and eating at NGI!</p>
-
-			<p class="trailer">Our two-week immersion course is designed for those committed to learning the fundamental skills of healthful cooking in a concentrated period of time. Each day, students will prepare delicious, balanced meals emphasizing high quality ingredients such as fresh vegetables, whole grains, beans, sea vegetables, seeds, nuts, herbs, spices, unrefined oils (coconut and olive oils), and natural sweeteners (pure maple syrup and honey), with optional use of pastured eggs, sustainable seafood, chicken, and grass-fed dairy.</p>
-
-			<p class="trailer">Beginning with knife skills, this course highlights a wide-range of professional culinary techniques, such as boiling, broiling, steaming, sautéing, baking, blanching, pressure-cooking, grilling, roasting, pan-frying, and pickling. Students will also learn high-quality baking and pastry technique, including vegan and gluten-free desserts.</p>
-
-			<p class="trailer">Each day will include two cooking sessions. You’ll make everything from breakfast to dinner and beyond, as well as learn techniques and flavor profiles from various cultures, including Indian, Middle Eastern, Japanese, and Italian cuisines.</p>
-
-			<p class="trailer">The course highlights a wide-range of professional culinary techniques, such as boiling, broiling, steaming, sauteéing, baking, blanching, pressure-cooking, grilling, roasting, pan-frying, pickling. Students will be introduced to knife skills, pastry technique, and some advanced techniques.</p>
-
-				<p class="trailer"><a href="/request-info-basic-cooking-techniques/" class="btn-text">Request Info <span class="icon-arrow-right"></span></a></p>
-
-			<div class="well">
-				<p>This certificate program is offered for personal enrichment only.</p>
-				<p>To register for Basic Cooking Techniques click enroll and submit the deposit payment. Once your deposit is processed, you will receive an email confirmation and link to download payment plan selection form. To confirm your seat in the class and complete registration, fill out the form and return to <a href="mailto:certificate@nginyc.com">certificate@nginyc.com</a>.</p>
-
-				<p>Refund and Cancellation Policy: Deposit is nonrefundable 3 weeks prior to your start date. Students completing less than 50% of the coursework will receive a refund based on the number of course hours held by the school up to notification of withdrawal. Students completing more than 50% of the program are not eligible for a refund. In the event of a program cancelation by Natural Gourmet Institute, all money will be refunded to the student.</p>
-
-			</div> <!-- /.well -->	
-
-		</div> <!-- /.col-md-8 -->	
-
-			
-		<div class="col-md-4">
-			<a href="/certificate-programs/?add-to-cart=36634" rel="nofollow" data-product_id="36634" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
-			<aside class="well">
-				<h5>Dates</h5>
-				<p>August 20, 2018 &mdash; August 31, 2018<br />
-				Monday &mdash; Friday<br />
-				9:30am &mdash; 4:00pm</p>
-
-				<h5>Cost</h5>
-				<p>$2,995 / Deposit: $1,000</p>						
-				<p>Students will receive a certificate of completion.</p>
-			</aside>
-
-		</div> <!-- /.col-md-4 -->
-		
-	</div> <!-- /.row -->
-</section> <!-- /#basic-cooking-techniques -->		
-</div>	
