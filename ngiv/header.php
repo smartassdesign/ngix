@@ -29,6 +29,7 @@
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
+<meta name="p:domain_verify" content="6334f5d0b8f0db0995f9de4229e5d969"/>
 
 		<?php wp_head(); ?>
 	</head>
