@@ -48,13 +48,21 @@
 					
 				<div class="col-md-4">
 							<a href="/certificate-programs/?add-to-cart=36490" rel="nofollow" data-product_id="36490"
-							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll</a>
+							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Fall Session</a>
+
+							<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="39553" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Winter Session</a>
 							
 							<aside class="well">
 								<h5>Dates</h5>
+								<p><b>Fall Session</b><br />
 								October 15, 2018 &mdash; October 26, 2018<br />
 								Monday &mdash; Friday<br />
-								9:30am &mdash; 4:00pm</p>															
+								9:30am &mdash; 4:00pm</p>	
+
+								<p><b>Winter Session</b><br />
+								February 18, 2019 &mdash; March 1, 2019<br />
+								Monday &mdash; Friday<br />
+								9:30am &mdash; 4:00pm</p>																							
 							
 								<h5>Cost</h5>
 								<p>$5,550 / Deposit: $1,833</p>
@@ -121,12 +129,21 @@
 
 					
 				<div class="col-md-4">							
-							<a href="/certificate-programs/?add-to-cart=36489" rel="nofollow" data-product_id="36489" data-product_sku="" class="btn btn-primary btn-block">Enroll</a>
+							<a href="/certificate-programs/?add-to-cart=36489" rel="nofollow" data-product_id="36489" data-product_sku="" class="btn btn-primary btn-block">Enroll in Fall Session</a>
+
+							<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="39552" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Winter Session</a>
+							
 							<aside class="well">
 								<h5>Dates</h5>
+								<p><b>Fall Session</b><br />
 								September 10, 2018 &mdash; November 13, 2018<br />
 								Monday &amp; Tuesday Evenings<br />
-								6:30pm &mdash; 9:30pm</p>									
+								6:30pm &mdash; 9:30pm</p>
+								
+								<p><b>Winter Session</b><br />
+								February 4, 2019 &mdash; February 15, 2019<br />
+								Monday &mdash; Friday<br />
+								9:30am &mdash; 4:00pm</p>																	
 							
 								<h5>Cost</h5>
 								<p>$5,550 / Deposit: $1,833</p>
