@@ -50,7 +50,7 @@
 							<a href="/certificate-programs/?add-to-cart=36490" rel="nofollow" data-product_id="36490"
 							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Fall Session</a>
 
-							<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="39553" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Winter Session</a>
+							<a href="/certificate-programs/?add-to-cart=39553" rel="nofollow" data-product_id="39553" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Winter Session</a>
 							
 							<aside class="well">
 								<h5>Dates</h5>
@@ -131,7 +131,7 @@
 				<div class="col-md-4">							
 							<a href="/certificate-programs/?add-to-cart=36489" rel="nofollow" data-product_id="36489" data-product_sku="" class="btn btn-primary btn-block">Enroll in Fall Session</a>
 
-							<a href="/certificate-programs/?add-to-cart=34682" rel="nofollow" data-product_id="39552" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Winter Session</a>
+							<a href="/certificate-programs/?add-to-cart=39552" rel="nofollow" data-product_id="39552" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Winter Session</a>
 							
 							<aside class="well">
 								<h5>Dates</h5>
