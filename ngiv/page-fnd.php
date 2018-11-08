@@ -151,11 +151,7 @@
 
 </div> <!-- /.page-wrap .raw -->
 
-<style type='text/css'>
-.page-template-page-fnd .fnd-entry.sub-pod:last-of-type h4:not(:first-of-type) {
-    display: none;
-}
-</style>
+
 
 
 
