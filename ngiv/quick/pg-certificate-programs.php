@@ -28,7 +28,7 @@
 					<li>And more!</li></ul>	
 
 					<h4 class="leader">Instructors</h5>
-					<p><b>Celine Beitchman</b> began her culinary career in 1986 alongside Natural Gourmet Institute’s founder, Dr. Annemarie Colbin. After completing apprenticeships in Paris and NYC, Celine worked as a high-end caterer, food stylist, private chef and nutrition counselor. As a current NGI faculty member, Celine develops coursework, and teaches culinary technique, integrative nutrition science, and medicinal cooking in the professional Chef’s Training Program. Celine is a member of NYC Nutrition Educators Network and of the American Nutrition Association, and is currently working toward her Masters in Nutrition &amp; Health Behavior Education at the Maryland University of Integrative Health.</p>
+					<p><b>Celine Beitchman</b> began her culinary career in 1986 alongside Natural Gourmet Institute’s founder, Dr. Annemarie Colbin. After completing apprenticeships in Paris and NYC, Celine worked as a high-end caterer, food stylist, private chef and nutrition counselor. As a current NGI faculty member, Celine develops coursework, and teaches culinary technique, integrative nutrition science, and medicinal cooking in the professional Chef’s Training Program. Celine is a member of NYC Nutrition Educators Network and of the American Nutrition Association, and has a Masters degree in Clinical Nutrition &amp; Integrative Health.</p>
 
 					<p><b>Elliott Prag</b> is the Curriculum Development Manager and full-time instructor at Natural Gourmet Institute. A graduate of our Chef’s Training Program, Elliott has been a private and personal chef, restaurant chef, and a caterer. He also opened the first health-supportive, farm-to-table restaurant in Sofia, Bulgaria. He has been a frequent contributor to Vegetarian Times and is an expert in bread baking.</p>					
 	
@@ -47,19 +47,10 @@
 
 					
 				<div class="col-md-4">
-							<a href="/certificate-programs/?add-to-cart=36490" rel="nofollow" data-product_id="36490"
-							data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Fall Session</a>
-
-							<a href="/certificate-programs/?add-to-cart=39553" rel="nofollow" data-product_id="39553" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Winter Session</a>
+							<a href="/certificate-programs/?add-to-cart=39553" rel="nofollow" data-product_id="39553" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll</a>
 							
 							<aside class="well">
 								<h5>Dates</h5>
-								<p><b>Fall Session</b><br />
-								October 15, 2018 &mdash; October 26, 2018<br />
-								Monday &mdash; Friday<br />
-								9:30am &mdash; 4:00pm</p>	
-
-								<p><b>Winter Session</b><br />
 								February 18, 2019 &mdash; March 1, 2019<br />
 								Monday &mdash; Friday<br />
 								9:30am &mdash; 4:00pm</p>																							
@@ -129,18 +120,11 @@
 
 					
 				<div class="col-md-4">							
-							<a href="/certificate-programs/?add-to-cart=36489" rel="nofollow" data-product_id="36489" data-product_sku="" class="btn btn-primary btn-block">Enroll in Fall Session</a>
 
-							<a href="/certificate-programs/?add-to-cart=39552" rel="nofollow" data-product_id="39552" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll in Winter Session</a>
+							<a href="/certificate-programs/?add-to-cart=39552" rel="nofollow" data-product_id="39552" data-product_sku="" class="btn btn-primary btn-block" style="margin-bottom: 10px">Enroll</a>
 							
 							<aside class="well">
 								<h5>Dates</h5>
-								<p><b>Fall Session</b><br />
-								September 10, 2018 &mdash; November 13, 2018<br />
-								Monday &amp; Tuesday Evenings<br />
-								6:30pm &mdash; 9:30pm</p>
-								
-								<p><b>Winter Session</b><br />
 								February 4, 2019 &mdash; February 15, 2019<br />
 								Monday &mdash; Friday<br />
 								9:30am &mdash; 4:00pm</p>																	
