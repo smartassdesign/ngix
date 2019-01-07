@@ -136,14 +136,9 @@
 				<div class="row">
 					<div class="col-md-9 col-md-offset-3">
 						<h1 class="large">Start your journey to become a chef&nbsp;today.</h1>
-						<h4>Natural Gourmet Institute for Health &amp; Culinary Arts professional Chef’s Training Program</h4>
-						<a href="http://ngihca.edu" class="slider-button btn btn-default btn-sm">Visit NGIHCA</a>
+						<h4>Visit the New Natural Gourmet Center</h4>
+						<a href="https://www.ice.edu/newyork/career-programs/natural-gourmet-center?mcid=62897" class="slider-button btn btn-default btn-sm">Visit</a>
 					</div> <!-- /.col-md-9 -->
-				</div> <!-- /.row -->
-				<div class="row">
-					<div class="col-md-12">
-						<p class="small">NGI’s Chef’s Training Program is licensed by the State of New York and accredited by ACCET – A Partnership for Quality®</p>
-					</div> <!-- /.col-md-12 -->
 				</div> <!-- /.row -->
 			</div> <!-- /.container -->
 		</aside>
