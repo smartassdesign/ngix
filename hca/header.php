@@ -129,7 +129,8 @@ document.createElement('video');document.createElement('audio');document.createE
 		<div class="col-sm-6">
 			<ul class="list-unstyled list-inline text-right">
 				<li class="sub-link"><a href="/faq">FAQ</a></li>
-				<li><a href="#" class="btn btn-info-outline" data-toggle="modal" data-target="#infoModal">Request Info</a></li>
+				<li><a href="https://www.ice.edu/newyork/career-programs/natural-gourmet-
+center?mcid=62897" class="btn btn-info-outline">Request Info</a></li>
 				<li><a href="<?php bloginfo('url');?>/apply" class="btn btn-info">Apply Now</a></li>
 			</ul>
 		</div> <!-- /.col-sm-6 -->
