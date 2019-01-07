@@ -171,10 +171,10 @@
 <section id="request-info" class="pod-mini bg-green">
 	<div class="container">
 		<div class="col-md-9">
-			<p class="gr-super-lede">Interested in the Chef's Training Program?</p>
+			<p class="gr-super-lede">Interested in career training?</p>
 		</div> <!-- /.col-md-9 -->
 		<div class="col-md-3">
-			<a href="http://ngihca.edu" class="btn btn-alpha btn-block">Click Here</a>
+			<a href="https://www.ice.edu/newyork/career-programs/natural-gourmet-center?mcid=62897" class="btn btn-alpha btn-block">Click Here</a>
 		</div> <!-- .col-md-3 -->
 	</div> <!-- /.container -->
 </section> <!-- /#open-house -->
