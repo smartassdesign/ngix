@@ -6,83 +6,6 @@
 
 <?php get_header(); the_post(); ?>
 
-
-<div class="sliderContainer fullWidth clearfix">
-	<div id="full-width-slider" class="royalSlider heroSlider rsDefault">
-
-		<!-- ADD THE NEXT FEATURED CLASS OR TWO -->
-
-			<?php
-			global $post;
-			$all_events = tribe_get_events(array(
-			'start_date'=>'upcoming',
-			'posts_per_page'=>-1,
-			'tax_query'=> array(
-			array(
-			'taxonomy' => 'tribe_events_cat',
-			'field' => 'slug',
-			'terms' => 'featured'
-			)
-			)
-			));
-
-			foreach($all_events as $post) {
-			setup_postdata($post);
-			?>
-
-			<div class="ngi-slide bg-dark">
-<!-- 				<a class="rsContent" href="<?php the_permalink(); ?>"> -->
-
-						<?php $image = get_the_image( array( 'format' => 'array' ) ); ?>
-
-						<img class="rsImg" src=<?php echo $image['src']; ?> alt="">
-						<div class="infoBlock rsABlock infoBlockLeftBlack ngi-slider" data-fade-effect="" data-move-offset="10" data-move-effect="bottom" data-speed="200">
-							<div class="hero-slide-text">
-								<h5>Featured Class</h5>
-								<h2><?php the_title(); ?></h2>
-								<a class="slider-button btn btn-default btn-sm" href="<?php the_permalink(); ?>">Check it out...</a>
-							</div>
-						</div>
-				<!-- </a> -->
-			</div>
-
-			<?php } //endforeach ?>
-
-			<?php wp_reset_query(); ?>
-
-
-		<!-- GET ANYTHING PUT IN THE ADMIN FOR THE SLIDER -->
-
-
-		<?php
-			 $the_query = new WP_Query(array(
-			'post_type' => 'slides',
-			'posts_per_page' => -1
-			 ));
-			 while ($the_query->have_posts()) :
-			$the_query->the_post();
-			 ?>
-			 <?php $slideImage = get_field('image'); ?>
-			<div class="ngi-slide bg-dark">
-				<img class="rsImg" src="<?php echo $slideImage; ?>" alt="" />
-				<div class="infoBlock rsABlock infoBlockLeftBlack ngi-slider" data-fade-effect="" data-move-offset="10" data-move-effect="bottom" data-speed="200">
-					<div class="hero-slide-text">
-						<?php the_field('slide_description'); ?>
-						<a class="slider-button btn btn-default btn-sm" href="<?php the_field('slide_link'); ?>"><?php the_field('slide_button'); ?></a>
-					</div>
-			  	</div>
-			</div>
-			 <?php endwhile; ?>
-
-			<?php wp_reset_query(); ?>
-		<!-- RESET THE QUERY AND CLOSE THE SLIDER -->
-
-
-
-	</div><!-- /.full-width-slider -->
-</div><!-- /.sliderContainer -->
-
-
 <div class="page-wrap raw">
 
 		<!-- START HOME CONTENT HERE (No containers, so everyone's on his own.) -->
@@ -136,8 +59,7 @@
 				<div class="row">
 					<div class="col-md-9 col-md-offset-3">
 						<h1 class="large">Start your journey to become a chef&nbsp;today.</h1>
-						<h4>Visit the New Natural Gourmet Center</h4>
-						<a href="https://www.ice.edu/newyork/career-programs/natural-gourmet-center?mcid=62897" class="slider-button btn btn-default btn-sm">Visit</a>
+						<a href="https://www.ice.edu/newyork/career-programs/natural-gourmet-center?mcid=62897" class="slider-button btn btn-default btn-sm">Visit the New Natural Gourmet Center</a>
 					</div> <!-- /.col-md-9 -->
 				</div> <!-- /.row -->
 			</div> <!-- /.container -->
