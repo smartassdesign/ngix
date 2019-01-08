@@ -4,7 +4,7 @@
 <section id="intro" class="pod">
 	<div class="container">     
 		<h1 class="large">Our Story: Teaching kale, quinoa and community since&nbsp;1977.</h1>
-		<p class="lede">In 1977, Dr. Annemarie Colbin started the Natural Gourmet Cookery School in the kitchen of her Upper West Side apartment. Today, Natural Gourmet Institute is the leader in health-supportive culinary education and has graduated over 2,500 chefs from over 45 countries.</p>	
+		<p class="lede">In 1977, Dr. Annemarie Colbin started the Natural Gourmet Cookery School in the kitchen of her Upper West Side apartment. Over 40 years, Natural Gourmet Institute became the leader in health-supportive culinary education and graduated more than 2,500 chefs from more than 45 countries. In 2019, the Institute of Culinary Education licensed NGI’s curriculum, which is now exclusively offered at the Natural Gourmet Center at ICE. Learn more <a href=" https://www.ice.edu/newyork/career-programs/natural-gourmet-center?mcid=62897" style="font-weight:500">here</a>.</p>	
 		
 	</div> <!-- /.container -->   
 </section> <!-- /#intro -->
