@@ -20,7 +20,7 @@
 			<div class="col-sm-6 footer-social"> <!-- align-kid -->
 			  <div class="cutbox">
              <p><a href="https://www.facebook.com/naturalgourmetinstitute" target="_blank"><i class="icon-facebook"></i></a> <a href="https://twitter.com/naturalgourmet" target="_blank"><i class="icon-twitter"></i></a> <a href="http://instagram.com/naturalgourmetinstitute" target="_blank"><i class="icon-instagram"></i></a><a href="http://www.pinterest.com/naturalgourmet/" target="_blank"><span class="icon-pinterest"></span></a><a href="http://www.linkedin.com/company/natural-gourmet-institute" target="_blank"><span class="icon-linkedin"></span></a></p>
-             <p><a href="#mailingModal" data-toggle="modal" data-target="#mailingModal">Sign up for our Mailing List</a></p>
+             <p><a href="https://www.ice.edu/health-supportive-culinary-arts-info?mcid=62897" target="_blank">Sign up for our Mailing List</a></p>
 			  </div>
         </div><!-- /.col-md-4 -->
 			</div> <!-- ./div-aligner -->
