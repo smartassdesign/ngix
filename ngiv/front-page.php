@@ -9,6 +9,10 @@
 <div class="page-wrap raw">
 
 		<!-- START HOME CONTENT HERE (No containers, so everyone's on his own.) -->
+	
+	<section id="closeout">
+		<div class="the-notice" style="background:#262626; width: 100%; padding: 30px; "><h2 style="margin-bottom: 0; color:#f6f6f6;">The Natural Gourmet Institute’s health-supportive, plant-based curriculum is now exclusively offered at the Institute of Culinary Education. <a href="https://www.ice.edu/newyork/career-programs/natural-gourmet-center?mcid=62897">Learn more about career training in Health-Supportive Culinary Arts at the new Natural Gourmet Center at ICE.</a></h2></div>
+	</section>
 
 		<section id="mission" class="pod">
 			<div class="container">
