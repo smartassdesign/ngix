@@ -17,7 +17,7 @@
 			New York, NY 10281<br />
 				Phone: <a href="tel://1-888-574-2433">+888 574 CHEF</a><br /></p>
 			
-			<p><a href="https://www.google.com/maps/dir/40.6696678,-73.9809228/Institute+Of+Culinary+Education,+Liberty+Street,+New+York,+NY/@40.6907927,-74.0151941,14z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x89c259a462029e95:0x4797265df5f2112e!2m2!1d-74.0152461!2d40.7120079!3e3" target="_blank" class="btn-text">Get directions <span class="icon-arrow-right"></span></a></p>
+			<p><a href="https://www.google.com/maps/dir/?api=1&destination=Institute+Of+Culinary+Education&query_place_id=ChIJlZ4CYqRZwokRLhHy9V0ml0c" target="_blank" class="btn-text">Get directions <span class="icon-arrow-right"></span></a></p>
 		</div> <!-- /col-md-4 -->
 	
 		<div class="col-md-8 trailer">
