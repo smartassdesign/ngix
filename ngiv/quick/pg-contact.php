@@ -53,6 +53,7 @@
 <script type="text/javascript">
   function initialize() {
 	  var myLatlng = new google.maps.LatLng(40.741004, -73.992914);
+	  var iceLatlng = new google.maps.LatLng(40.712272, -74.015436);
 	var mapOptions = {
 	  center: myLatlng,
 	  zoom: 15,
@@ -70,9 +71,16 @@
 	var marker = new google.maps.Marker({
 	  position: myLatlng,
 	  map: map,
-	  title: 'Hello World!',
+	  title: 'Hello NGI!',
 	  icon: iconBase + 'ngi-marker.png'
   });
   }
+	var markerToo = new google.maps.Marker({
+	  position: iceLatlng,
+	  map: map,
+	  title: 'Hello Ice!',
+	  icon: iconBase + 'ngi-marker.png'
+  });
+ 
   google.maps.event.addDomListener(window, 'load', initialize);
 </script>
