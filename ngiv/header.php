@@ -35,7 +35,7 @@
 	</head>
 	<body <?php body_class( 'viewport flexbox' ); ?>>
 		<section id="closeout">
-		<div class="the-notice" style="background:#262626; width: 100%; padding: 30px; "><h3 style="color:#f6f6f6; line-height: 1.3; font-size: 16px;">The Natural Gourmet Institute’s health-supportive, plant-based curriculum is now exclusively offered at the Institute of Culinary Education. Learn more about career training in Health-Supportive Culinary Arts at the new Natural Gourmet Center at ICE.</h3><a href="https://www.ice.edu/newyork/career-programs/natural-gourmet-center?mcid=62897" class="btn btn-primary btn-sm" style="padding: 0 12px;line-height:23px;">Click here</a>
+		<div class="the-notice" style="background:#262626; width: 100%; padding: 30px; "><h3 style="color:#f6f6f6; line-height: 1.3; font-size: 16px;">The Natural Gourmet Institute’s health-supportive, plant-based career curriculum is now exclusively offered at the Institute of Culinary Education. Learn more about career training in Health-Supportive Culinary Arts at the new Natural Gourmet Center at ICE. <a href="https://www.ice.edu/newyork/career-programs/natural-gourmet-center?mcid=62897" style="text-decoration: underline; margin-left:5px; ">Click&nbsp;here</a></h3>
     <p style="font-size: 16px; font-weight: 500; color: #f6f6f6; line-height: 1.3; margin: 20px 0 0 0;">Recreational classes, certificate programs, and Friday Night Dinners will continue through March 2019 at NGI’s Flatiron location. We have a lot of exciting programs scheduled, which are sure to sell out! We look forward to having the NGI community be a part of the final programs on 21st Street.</p>
     </div>
 	</section>
