@@ -35,9 +35,8 @@
 	</head>
 	<body <?php body_class( 'viewport flexbox' ); ?>>
 		<section id="closeout">
-		<div class="the-notice alert alert-warning alert-dismissible fade show" style="background:#262626; width: 100%; padding: 30px; transition: opacity .15s linear;">
-    <button type="button" class="close" data-dismiss="alert" aria-label="Close" style="color:white; opacity: 100; position: absolute;  top: 10px; right: 20px; float: none;">
-    <span aria-hidden="true">×</span>
+		<div class="the-notice alert alert-warning alert-dismissible show" style="background:#262626; width: 100%; padding: 30px; transition: opacity .15s linear;">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close" style="color:white; opacity: 100; position: absolute;  top: 10px; right: 15px; float: none;">
   </button>
     <span aria-hidden="true">&times;</span>
   </button><h3 style="color:#f6f6f6; line-height: 1.3; font-size: 16px;">The Natural Gourmet Institute’s health-supportive, plant-based career curriculum is now exclusively offered at the Institute of Culinary Education. Learn more about career training in Health-Supportive Culinary Arts at the new Natural Gourmet Center at ICE. <a href="https://www.ice.edu/newyork/career-programs/natural-gourmet-center?mcid=62897" style="text-decoration: underline; margin-left:5px; ">Click&nbsp;here</a></h3>
