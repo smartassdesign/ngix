@@ -1,4 +1,4 @@
-<div class="google_map" id="map-canvas"></div>
+<iframe src="https://snazzymaps.com/embed/125048" width="100%" height="200px" class="snazzymap" style="border:none;"></iframe>
 
 <div class="container">
 	<div class="row">
@@ -47,32 +47,12 @@
 </script>
 
 
-<script type="text/javascript"
-	  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDc1Ta2rn1t0V2TQEdoIRGtKccEWwI9k9A">
-</script>
-<script type="text/javascript">
-  function initialize() {
-	  var myLatlng = new google.maps.LatLng(40.741004, -73.992914);
-	var mapOptions = {
-	  center: myLatlng,
-	  zoom: 15,
-	  disableDefaultUI: true,
-	  zoomControl: true,
-	zoomControlOptions: {
-	  style: google.maps.ZoomControlStyle.SMALL
-	},
-	scrollwheel: false,
-	styles: [{"featureType":"landscape","stylers":[{"saturation":-100},{"lightness":65},{"visibility":"on"}]},{"featureType":"poi","stylers":[{"saturation":-100},{"lightness":51},{"visibility":"off"}]},{"featureType":"road.highway","stylers":[{"saturation":-100},{"visibility":"simplified"}]},{"featureType":"road.arterial","stylers":[{"saturation":-100},{"lightness":30},{"visibility":"on"}]},{"featureType":"road.local","stylers":[{"saturation":-100},{"lightness":40},{"visibility":"on"}]},{"featureType":"transit","stylers":[{"saturation":-100},{"visibility":"simplified"}]},{"featureType":"administrative.province","stylers":[{"visibility":"off"}]},{"featureType":"water","elementType":"labels","stylers":[{"visibility":"on"},{"hue":"#acb1b1"},{"saturation":-100}]},{"featureType":"water","elementType":"geometry","stylers":[{"hue":"#ffff00"},{"lightness":-25},{"saturation":-97}]}]
-	};
-	var map = new google.maps.Map(document.getElementById("map-canvas"),
-		mapOptions);
-	var iconBase = '/assets/';
-	var marker = new google.maps.Marker({
-	  position: myLatlng,
-	  map: map,
-	  title: 'Hello World!',
-	  icon: iconBase + 'ngi-marker.png'
-  });
+
+
+<style type="text/css">
+	@media (min-width: 544px) {
+  .snazzymap {
+    height: 400px;
   }
-  google.maps.event.addDomListener(window, 'load', initialize);
-</script>
+}
+</style>
