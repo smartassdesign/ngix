@@ -53,6 +53,7 @@
 	@media (min-width: 544px) {
   .snazzymap {
     height: 400px;
+	  margin-bottom: 30px;
   }
 }
 </style>
